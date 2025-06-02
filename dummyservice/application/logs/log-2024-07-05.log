@@ -1,0 +1,36 @@
+INFO - 2024-07-05 10:38:09 --> Config Class Initialized
+INFO - 2024-07-05 10:38:09 --> Hooks Class Initialized
+DEBUG - 2024-07-05 10:38:10 --> UTF-8 Support Enabled
+INFO - 2024-07-05 10:38:10 --> Utf8 Class Initialized
+INFO - 2024-07-05 10:38:10 --> URI Class Initialized
+INFO - 2024-07-05 10:38:10 --> Router Class Initialized
+INFO - 2024-07-05 10:38:10 --> Output Class Initialized
+INFO - 2024-07-05 10:38:10 --> Security Class Initialized
+DEBUG - 2024-07-05 10:38:10 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-07-05 10:38:10 --> Input Class Initialized
+INFO - 2024-07-05 10:38:10 --> Language Class Initialized
+INFO - 2024-07-05 10:38:10 --> Loader Class Initialized
+INFO - 2024-07-05 10:38:10 --> Helper loaded: url_helper
+INFO - 2024-07-05 10:38:10 --> Database Driver Class Initialized
+INFO - 2024-07-05 10:38:10 --> Controller Class Initialized
+INFO - 2024-07-05 10:38:10 --> Model "Mconfigkey" initialized
+INFO - 2024-07-05 10:38:10 --> Final output sent to browser
+DEBUG - 2024-07-05 10:38:10 --> Total execution time: 0.4645
+INFO - 2024-07-05 10:39:04 --> Config Class Initialized
+INFO - 2024-07-05 10:39:04 --> Hooks Class Initialized
+DEBUG - 2024-07-05 10:39:04 --> UTF-8 Support Enabled
+INFO - 2024-07-05 10:39:04 --> Utf8 Class Initialized
+INFO - 2024-07-05 10:39:04 --> URI Class Initialized
+INFO - 2024-07-05 10:39:04 --> Router Class Initialized
+INFO - 2024-07-05 10:39:04 --> Output Class Initialized
+INFO - 2024-07-05 10:39:04 --> Security Class Initialized
+DEBUG - 2024-07-05 10:39:04 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-07-05 10:39:04 --> Input Class Initialized
+INFO - 2024-07-05 10:39:04 --> Language Class Initialized
+INFO - 2024-07-05 10:39:04 --> Loader Class Initialized
+INFO - 2024-07-05 10:39:04 --> Helper loaded: url_helper
+INFO - 2024-07-05 10:39:04 --> Database Driver Class Initialized
+INFO - 2024-07-05 10:39:04 --> Controller Class Initialized
+INFO - 2024-07-05 10:39:04 --> Model "Mauth" initialized
+INFO - 2024-07-05 10:39:04 --> Final output sent to browser
+DEBUG - 2024-07-05 10:39:04 --> Total execution time: 0.0332

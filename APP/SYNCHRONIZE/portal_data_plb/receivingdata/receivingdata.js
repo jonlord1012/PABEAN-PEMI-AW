@@ -1,0 +1,28 @@
+Ext.define("NJC.SYNCHRONIZE.portal_data_plb.receivingdata.receivingdata", {
+  extend: "Ext.form.Panel",
+  alias: "widget.portal_data_receivingdata_plb",
+  reference: "portal_data_receivingdata_plb",
+  config: {},
+  requires: ["NJC.SYNCHRONIZE.portal_data_plb.receivingdata.GRIDreceivingdata", "NJC.SYNCHRONIZE.portal_data_plb.receivingdata.Creceivingdata"],
+  constructor: function (config) {
+    return this.callParent(arguments);
+  },
+  //untuk include controller
+  controller: "Creceivingdata",
+  initComponent: function () {
+    Ext.apply(this, {
+      xtype: "panel",
+      pid: "panel_portal_data_receivingdata",
+      layout: "card",
+      frame: false,
+      border: false,
+      items: [
+        {
+          xtype: "GRIDreceivingdata",
+        },
+      ],
+    });
+
+    this.callParent(arguments);
+  },
+});

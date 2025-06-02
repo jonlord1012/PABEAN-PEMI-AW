@@ -1,0 +1,113 @@
+3.3.0-pre-alpha 
+   - packed stable version :
+      I.a. SOURCE from AW
+         1. Sync From Portal :
+            a. Upload BC :  upload to IT Inventory, manually downloaded xlsx files from CEISA4.0 system
+            b. PORTAL : browse portal data (async)
+            c. DOWNLOAD AJU: download single document from CEISA4.0 system 
+            d. LAST AJU: find last AJU (unstable)
+         2. Sync From AW : 
+            a. Invoice AW : Integrated module to WMS System (Invoice(sets), Pemi_Receive(sets))
+            b. Data Portal : Integrated Invoice AW with downloaded Portal Data 
+
+      I.b. SOURCE from AW
+         1. Sync From Portal :
+            a. Upload :  upload to IT Inventory, manually downloaded xlsx files from CEISA4.0 system
+            b. PORTAL : browse portal data (async)
+            c. DOWNLOAD AJU: download single document from CEISA4.0 system 
+            d. LAST AJU: find last AJU (unstable)
+         2. Sync From AW : 
+            a. Sync Delivery Instruction : Integrated module to WMS System (Invoice(sets))
+            b. Create Draft BC : Create BC Draft module
+
+      II.a. EXIM-IN
+         1. Pemasukan PLB :  View Only 
+            a. BC 1.6 : 1.6 Document Module 
+            b. BC 2.7 : 2.7 Document Module 
+            c. BC 4.0 : 4.0 Document Module 
+            
+      II.b. EXIM-OUT
+         1. Pengeluaran PLB : 
+            a. BC 2.7 : 2.7 Document Module (most-stable version)
+            b. BC 4.1 : 4.1 Document Module (view Only)
+            c. BC 2.5 : 2.5 Document Module (view Only)
+            d. BC 3.3 : 3.3 Document Module (view Only)
+            e. BC 2.8 : 2.8 Document Module (view Only)
+            f. BC P3BET : P3BET  Document Module (view Only)
+         2. Pengeluaran AW : 
+            a. BC 2.7 : 2.7 Document Module (view only)
+            c. BC 2.5 : 2.5 Document Module (view Only)
+
+      III.a. INVENTORY
+         1. IN 
+            a. Receiving Integrasi : Integrated module to WMS system(invoice(sets), pemi_receive(sets), receive(sets)), IT Inventory module Receive by Scanning Date (most-stable version)
+            b. Receiving by Invoice : Integrated module to WMS system(invoice(sets), pemi_receive(sets), receive(sets)), IT Inventory module Receive by Invoice (most-stable version)
+            c. Receiving Manual : Create manual receive that not scanned by WMS 
+         2. RACKING 
+            a. Racking Manual : Create manual racking without integrated to WMS 
+            b. Racking Integrasi : Integrated module to WMS system (putaway(sets)), IT Inventory module Movements 
+         3. STUFFING 
+            Stuffing details for each delivery Instruction that synced with WMS 
+         4. Delivery 
+            a. Delivery Approval : Approve Delivery Instruction that sent to portal (had nomor daftar). Stock out Module.
+            b. Return Approval : Approve Return that sent to portal (had nomor daftar). Stock out Module.
+         5. Control 
+            a. GOODS :  Stock's Panel Informations 
+            b. HISTORY : BC Document's Panel Informations
+
+3.2.0-pre-alpha
+   - modified core, add new API modules (PLB)
+   - modified module, revised API to PORTAL due change on CEISA4.0 system.
+
+3.1.0-pre-alpha 
+   - compressed and minified files 
+   - ready to deploy core version.
+   - compacted API to PORTAL (stable) 
+      - browse-Portal
+      - manual-Portal 
+      - download-Portal 
+      - single-download-Portal
+
+
+3.0.0-re-init
+   - rebuilt core, add external API communication engine 
+   - rebuilt core, deploy CodeIgniter 3.1  modified core (released under jonlord1012/uvil.pambudi)
+   - add modules: 
+      - browsePortal 
+      - downloadPortal
+      - uploadPortal 
+   - split AW-WH core.
+   - rebuilt database,
+      - create independent Master Tables 
+      - create independent Transcation Tables for AW
+      - create partitioning as reporting tables 
+
+2.4.0
+   - rebuilt database, add JSON compatibilities 
+   - re-config database, deploy assemblies method for mssql
+   - add reports libraries 
+
+2.3.0 
+   - rebuilt database, 
+      - rebuilt most master table.
+      - rebuilt transactions table.
+2.2.0 
+   - rebuilt database, add compatibilities for multiple-company
+
+2.1.0
+   - rebuilt all core and view to new database structures 
+   - rebuilt database structures 
+
+2.0.0-init
+   - revised core, deploy MVC :: CodeIgniter 3.1 as Module, ExtJS 6.2 as Controller and View 
+   - revised core, removing middleware
+
+1.1.0
+   - revised core using php (CodeIgniter 4.2 as middleware) as database engine integrator 
+   - removed GoLang and friends 
+
+1.0.0-init 
+   - main core deployment (ExtJs - CodeIgniter 4.2 - GoLang - MSSQL.2022)
+   - main themes deployment 
+   - intial commit for required 3rd party modules
+   - building initial config to database 

@@ -1,0 +1,140 @@
+INFO - 2024-03-18 14:01:00 --> Config Class Initialized
+INFO - 2024-03-18 14:01:00 --> Hooks Class Initialized
+DEBUG - 2024-03-18 14:01:00 --> UTF-8 Support Enabled
+INFO - 2024-03-18 14:01:00 --> Utf8 Class Initialized
+INFO - 2024-03-18 14:01:00 --> URI Class Initialized
+INFO - 2024-03-18 14:01:00 --> Router Class Initialized
+INFO - 2024-03-18 14:01:00 --> Output Class Initialized
+INFO - 2024-03-18 14:01:00 --> Security Class Initialized
+DEBUG - 2024-03-18 14:01:00 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-03-18 14:01:00 --> Input Class Initialized
+INFO - 2024-03-18 14:01:00 --> Language Class Initialized
+INFO - 2024-03-18 14:01:00 --> Loader Class Initialized
+INFO - 2024-03-18 14:01:00 --> Helper loaded: url_helper
+INFO - 2024-03-18 14:01:00 --> Database Driver Class Initialized
+INFO - 2024-03-18 14:01:00 --> Controller Class Initialized
+INFO - 2024-03-18 14:01:00 --> Model "Mconfigkey" initialized
+INFO - 2024-03-18 14:01:00 --> Final output sent to browser
+DEBUG - 2024-03-18 14:01:00 --> Total execution time: 0.4037
+INFO - 2024-03-18 14:01:04 --> Config Class Initialized
+INFO - 2024-03-18 14:01:04 --> Hooks Class Initialized
+DEBUG - 2024-03-18 14:01:04 --> UTF-8 Support Enabled
+INFO - 2024-03-18 14:01:04 --> Utf8 Class Initialized
+INFO - 2024-03-18 14:01:04 --> URI Class Initialized
+INFO - 2024-03-18 14:01:04 --> Router Class Initialized
+INFO - 2024-03-18 14:01:04 --> Output Class Initialized
+INFO - 2024-03-18 14:01:04 --> Security Class Initialized
+DEBUG - 2024-03-18 14:01:04 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-03-18 14:01:04 --> Input Class Initialized
+INFO - 2024-03-18 14:01:04 --> Language Class Initialized
+INFO - 2024-03-18 14:01:04 --> Loader Class Initialized
+INFO - 2024-03-18 14:01:04 --> Helper loaded: url_helper
+INFO - 2024-03-18 14:01:04 --> Database Driver Class Initialized
+INFO - 2024-03-18 14:01:04 --> Controller Class Initialized
+INFO - 2024-03-18 14:01:04 --> Model "Mauth" initialized
+INFO - 2024-03-18 14:01:04 --> Model "Mconfigkey" initialized
+INFO - 2024-03-18 14:01:04 --> Final output sent to browser
+DEBUG - 2024-03-18 14:01:04 --> Total execution time: 0.0377
+INFO - 2024-03-18 14:01:10 --> Config Class Initialized
+INFO - 2024-03-18 14:01:10 --> Hooks Class Initialized
+DEBUG - 2024-03-18 14:01:10 --> UTF-8 Support Enabled
+INFO - 2024-03-18 14:01:10 --> Utf8 Class Initialized
+INFO - 2024-03-18 14:01:10 --> URI Class Initialized
+INFO - 2024-03-18 14:01:10 --> Router Class Initialized
+INFO - 2024-03-18 14:01:10 --> Output Class Initialized
+INFO - 2024-03-18 14:01:10 --> Security Class Initialized
+DEBUG - 2024-03-18 14:01:10 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-03-18 14:01:10 --> Input Class Initialized
+INFO - 2024-03-18 14:01:10 --> Language Class Initialized
+INFO - 2024-03-18 14:01:10 --> Loader Class Initialized
+INFO - 2024-03-18 14:01:10 --> Helper loaded: url_helper
+INFO - 2024-03-18 14:01:10 --> Database Driver Class Initialized
+INFO - 2024-03-18 14:01:10 --> Controller Class Initialized
+INFO - 2024-03-18 14:01:10 --> Model "Mconfigkey" initialized
+INFO - 2024-03-18 14:01:10 --> Model "Msync_doc_aw" initialized
+INFO - 2024-03-18 14:01:10 --> Final output sent to browser
+DEBUG - 2024-03-18 14:01:10 --> Total execution time: 0.0676
+INFO - 2024-03-18 14:01:11 --> Config Class Initialized
+INFO - 2024-03-18 14:01:11 --> Hooks Class Initialized
+DEBUG - 2024-03-18 14:01:11 --> UTF-8 Support Enabled
+INFO - 2024-03-18 14:01:11 --> Utf8 Class Initialized
+INFO - 2024-03-18 14:01:11 --> URI Class Initialized
+INFO - 2024-03-18 14:01:11 --> Router Class Initialized
+INFO - 2024-03-18 14:01:11 --> Output Class Initialized
+INFO - 2024-03-18 14:01:11 --> Security Class Initialized
+DEBUG - 2024-03-18 14:01:11 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-03-18 14:01:11 --> Input Class Initialized
+INFO - 2024-03-18 14:01:11 --> Language Class Initialized
+INFO - 2024-03-18 14:01:11 --> Loader Class Initialized
+INFO - 2024-03-18 14:01:11 --> Helper loaded: url_helper
+INFO - 2024-03-18 14:01:11 --> Database Driver Class Initialized
+INFO - 2024-03-18 14:01:11 --> Controller Class Initialized
+INFO - 2024-03-18 14:01:11 --> Model "Mconfigkey" initialized
+INFO - 2024-03-18 14:01:11 --> Model "Msync_doc_aw" initialized
+ERROR - 2024-03-18 14:01:11 --> Query error: [Microsoft][ODBC Driver 18 for SQL Server][SQL Server]Could not find stored procedure 'SP_SYNC_ALL_FROM_CEISA'. - Invalid query: EXECUTE SP_SYNC_ALL_FROM_CEISA  
+        @VIDCOMPANY='AW',
+        @VUSERNAME='pemiaw', 
+        @VMODULE = 'aw'
+        
+INFO - 2024-03-18 14:01:11 --> Language file loaded: language/english/db_lang.php
+INFO - 2024-03-18 14:01:13 --> Config Class Initialized
+INFO - 2024-03-18 14:01:13 --> Hooks Class Initialized
+DEBUG - 2024-03-18 14:01:13 --> UTF-8 Support Enabled
+INFO - 2024-03-18 14:01:13 --> Utf8 Class Initialized
+INFO - 2024-03-18 14:01:13 --> URI Class Initialized
+INFO - 2024-03-18 14:01:13 --> Router Class Initialized
+INFO - 2024-03-18 14:01:13 --> Output Class Initialized
+INFO - 2024-03-18 14:01:13 --> Security Class Initialized
+DEBUG - 2024-03-18 14:01:13 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-03-18 14:01:13 --> Input Class Initialized
+INFO - 2024-03-18 14:01:13 --> Language Class Initialized
+INFO - 2024-03-18 14:01:13 --> Loader Class Initialized
+INFO - 2024-03-18 14:01:13 --> Helper loaded: url_helper
+INFO - 2024-03-18 14:01:13 --> Database Driver Class Initialized
+INFO - 2024-03-18 14:01:13 --> Controller Class Initialized
+INFO - 2024-03-18 14:01:13 --> Model "Mconfigkey" initialized
+INFO - 2024-03-18 14:01:13 --> Model "Msync_doc_aw" initialized
+ERROR - 2024-03-18 14:01:13 --> Query error: [Microsoft][ODBC Driver 18 for SQL Server][SQL Server]Could not find stored procedure 'SP_UPLOAD_DRAFT_RECEIVE_AW'. - Invalid query: EXEC SP_UPLOAD_DRAFT_RECEIVE_AW
+INFO - 2024-03-18 14:01:13 --> Language file loaded: language/english/db_lang.php
+INFO - 2024-03-18 14:01:18 --> Config Class Initialized
+INFO - 2024-03-18 14:01:18 --> Hooks Class Initialized
+DEBUG - 2024-03-18 14:01:18 --> UTF-8 Support Enabled
+INFO - 2024-03-18 14:01:18 --> Utf8 Class Initialized
+INFO - 2024-03-18 14:01:18 --> URI Class Initialized
+INFO - 2024-03-18 14:01:18 --> Router Class Initialized
+INFO - 2024-03-18 14:01:18 --> Output Class Initialized
+INFO - 2024-03-18 14:01:18 --> Security Class Initialized
+DEBUG - 2024-03-18 14:01:18 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-03-18 14:01:18 --> Input Class Initialized
+INFO - 2024-03-18 14:01:18 --> Language Class Initialized
+INFO - 2024-03-18 14:01:18 --> Loader Class Initialized
+INFO - 2024-03-18 14:01:18 --> Helper loaded: url_helper
+INFO - 2024-03-18 14:01:18 --> Database Driver Class Initialized
+INFO - 2024-03-18 14:01:18 --> Controller Class Initialized
+INFO - 2024-03-18 14:01:18 --> Model "Mconfigkey" initialized
+INFO - 2024-03-18 14:01:18 --> Model "Msync_doc_aw" initialized
+INFO - 2024-03-18 14:01:18 --> Final output sent to browser
+DEBUG - 2024-03-18 14:01:18 --> Total execution time: 0.0439
+INFO - 2024-03-18 14:01:27 --> Config Class Initialized
+INFO - 2024-03-18 14:01:27 --> Hooks Class Initialized
+DEBUG - 2024-03-18 14:01:27 --> UTF-8 Support Enabled
+INFO - 2024-03-18 14:01:27 --> Utf8 Class Initialized
+INFO - 2024-03-18 14:01:27 --> URI Class Initialized
+INFO - 2024-03-18 14:01:27 --> Router Class Initialized
+INFO - 2024-03-18 14:01:27 --> Output Class Initialized
+INFO - 2024-03-18 14:01:27 --> Security Class Initialized
+DEBUG - 2024-03-18 14:01:27 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-03-18 14:01:27 --> Input Class Initialized
+INFO - 2024-03-18 14:01:27 --> Language Class Initialized
+INFO - 2024-03-18 14:01:27 --> Loader Class Initialized
+INFO - 2024-03-18 14:01:27 --> Helper loaded: url_helper
+INFO - 2024-03-18 14:01:27 --> Database Driver Class Initialized
+INFO - 2024-03-18 14:01:27 --> Controller Class Initialized
+INFO - 2024-03-18 14:01:27 --> Model "Mconfigkey" initialized
+INFO - 2024-03-18 14:01:27 --> Model "Msync_doc_aw" initialized
+ERROR - 2024-03-18 14:01:27 --> Query error: [Microsoft][ODBC Driver 18 for SQL Server][SQL Server]Could not find stored procedure 'SP_SYNC_ALL_FROM_CEISA'. - Invalid query: EXECUTE SP_SYNC_ALL_FROM_CEISA  
+        @VIDCOMPANY='AW',
+        @VUSERNAME='pemiaw', 
+        @VMODULE = 'aw'
+        
+INFO - 2024-03-18 14:01:27 --> Language file loaded: language/english/db_lang.php

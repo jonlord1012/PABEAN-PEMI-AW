@@ -1,0 +1,48 @@
+Ext.define("TDK.SYNCHRONIZE.sync_bc_referensi.GRIDsync_bc_referensi", {
+  extend: "Ext.form.Panel",
+  alias: "widget.GRIDsync_bc_referensi",
+  reference: "GRIDsync_bc_referensi",
+  frame: false,
+  border: false,
+  autoScroll: true,
+  layout: { type: "vbox", pack: "start", align: "stretch" },
+  items: [
+    {
+      xtype: "grid",
+      pid: "GRIDsync_bc_referensi",
+      emptyText: "No Matching Records",
+      autoScroll: true,
+      flex: 1,
+      plugins: ["filterfield"],
+      columns: [],
+      bbar: {
+        xtype: "pagingtoolbar",
+        displayInfo: true,
+        displayMsg: "Displaying topics {0} - {1} of {2}",
+        emptyMsg: "No topics to display",
+      },
+    },
+  ],
+  tbar: [
+    "-",
+    {
+      xtype: "combobox",
+      name: "CBOTABLE_NAME",
+      width: 450,
+      labelWidth: 120,
+      fieldLabel: "Pilih Table Name",
+      fieldCls: "fieldinput",
+      valueField: "TABLE_NAME",
+      displayField: "TABLE_NAME",
+      forceSelection: true,
+      typeAhead: true,
+      anyMatch: true,
+      minChars: 0,
+      queryMode: "local",
+      store: "",
+      listConfig: {
+        itemTpl: new Ext.XTemplate("<table border='0' style='width:100%'>" + "<tr>" + "<th width='100%' align='left' style='color:black;'>{TABLE_NAME}</th>" + "</tr>" + "</table>"),
+      },
+    },
+  ],
+});

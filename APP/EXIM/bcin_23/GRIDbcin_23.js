@@ -1,0 +1,90 @@
+Ext.define("NJC.EXIM.bcin_23.GRIDbcin_23", {
+  extend: "Ext.form.Panel",
+  alias: "widget.GRIDbcin_23",
+  reference: "GRIDbcin_23",
+  frame: false,
+  border: false,
+  layout: { type: "vbox", pack: "start", align: "stretch" },
+  requires: [],
+  // items: [
+  //   {
+  //     xtype: "grid",
+  //     pid: "GRIDbcin_23",
+  //     emptyText: "No Matching Records",
+  //     autoScroll: true,
+  //     flex: 1,
+  //     plugins: ["filterfield"],
+  //     viewConfig: {
+  //       enableTextSelection: true,
+  //     },
+  //     store: {
+  //       autoLoad: true,
+  //       remoteSort: true,
+  //       remoteFilter: true,
+  //       pageSize: 15,
+  //       proxy: {
+  //         type: "ajax",
+  //         disableCaching: false,
+  //         noCache: false,
+  //         headers: { Authorization: "Bearer " + localStorage.getItem("ST_NJC_JWT") },
+  //         actionMethods: { read: "POST" },
+  //         url: vconfig.service_api + "bcin_23/bcin_23s",
+  //         reader: {
+  //           type: "json",
+  //           rootProperty: "Rows",
+  //           totalProperty: "TotalRows",
+  //           successProperty: "success",
+  //         },
+  //       },
+  //       listeners: {
+  //         beforeload: function (store, operation, eOpts) {
+  //           try {
+  //             var CBO_FILTERKEY = Ext.ComponentQuery.query("bcin_23 combobox[name=CBO_FILTERKEY]")[0];
+  //             operation.setParams({
+  //               cbo_filterkey: CBO_FILTERKEY.getValue(),
+  //             });
+  //           } catch (ex) {
+  //             COMP.TipToast.toast("Error", ex.message, { cls: "danger", delay: 2000 });
+  //           }
+  //         },
+  //       },
+  //     },
+  //     columns: [
+  //       { xtype: "rownumberer", width: 50 },
+  //       {
+  //         xtype: "actioncolumn",
+  //         width: 35,
+  //         align: "center",
+  //         menuDisabled: true,
+  //         sortable: false,
+  //         items: [
+  //           {
+  //             icon: vconfig.getstyle + "icon/grid.png",
+  //             handler: "btdetail_rows_click",
+  //             tooltip: "Detail Dokumen",
+  //           },
+  //         ],
+  //       },
+  //       { header: "STATUS", dataIndex: "KODE_STATUS", sortable: true, width: 50, filter: { xtype: "textfield" } },
+  //       { header: "DESC", dataIndex: "URAIAN_STATUS", sortable: true, width: 100, filter: { xtype: "textfield" } },
+  //       { header: "CPY", dataIndex: "ID_COMPANY", sortable: true, width: 50, filter: { xtype: "textfield" } },
+  //       { header: "SOURCE", dataIndex: "MODE_SOURCE", sortable: true, width: 65, filter: { xtype: "textfield" } },
+  //       { header: "INVOICE", dataIndex: "NOMOR_DOKUMEN", sortable: true, width: 100, filter: { xtype: "textfield" } },
+  //       { header: "INV DATE", dataIndex: "TANGGAL_DOKUMEN", sortable: true, width: 80, filter: { xtype: "textfield" } },
+  //       { header: "NOMOR BL", dataIndex: "NOMOR_BL", sortable: true, width: 100, filter: { xtype: "textfield" } },
+  //       { header: "CAR (NO AJU)", dataIndex: "NOMOR_AJU", sortable: true, width: 180, filter: { xtype: "textfield" } },
+  //       { header: "AJU DATE", dataIndex: "TANGGAL_AJU", sortable: true, width: 80, filter: { xtype: "textfield" } },
+  //       { header: "CIF", dataIndex: "CIF", renderer: "formatAmount", align: "right", sortable: true, width: 120, filter: { xtype: "textfield" } },
+  //       { header: "CIF RP", dataIndex: "CIF_RUPIAH", renderer: "formatAmount", align: "right", sortable: true, width: 120, filter: { xtype: "textfield" } },
+  //       { header: "HARGA_INVOICE", dataIndex: "HARGA_INVOICE", renderer: "formatAmount", align: "right", sortable: true, width: 120, filter: { xtype: "textfield" } },
+  //       { header: "PEMASOK", dataIndex: "NAMA_PEMASOK", sortable: true, width: 300, filter: { xtype: "textfield" } },
+  //     ],
+  //     bbar: {
+  //       xtype: "pagingtoolbar",
+  //       displayInfo: true,
+  //       displayMsg: "Displaying topics {0} - {1} of {2}",
+  //       emptyMsg: "No topics to display",
+  //     },
+  //   },
+  // ],
+});

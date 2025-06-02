@@ -1,0 +1,28 @@
+Ext.define("TDK.SYNCHRONIZE.sync_doc_kurir23.dokumenceisa.dokumenceisa", {
+  extend: "Ext.form.Panel",
+  alias: "widget.dokumenceisa",
+  reference: "dokumenceisa",
+  config: {},
+  requires: ["TDK.SYNCHRONIZE.sync_doc_kurir23.dokumenceisa.GRIDdokumenceisa", "TDK.SYNCHRONIZE.sync_doc_kurir23.dokumenceisa.Cdokumenceisa"],
+  constructor: function (config) {
+    return this.callParent(arguments);
+  },
+  //untuk include controller
+  controller: "Cdokumenceisa",
+  initComponent: function () {
+    Ext.apply(this, {
+      xtype: "panel",
+      pid: "panel_kurir23_dokumenceisa",
+      layout: "card",
+      frame: false,
+      border: false,
+      items: [
+        {
+          xtype: "GRIDdokumenceisa",
+        },
+      ],
+    });
+
+    this.callParent(arguments);
+  },
+});

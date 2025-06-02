@@ -1,0 +1,1060 @@
+INFO - 2023-08-13 18:55:32 --> Config Class Initialized
+INFO - 2023-08-13 18:55:32 --> Hooks Class Initialized
+DEBUG - 2023-08-13 18:55:32 --> UTF-8 Support Enabled
+INFO - 2023-08-13 18:55:32 --> Utf8 Class Initialized
+INFO - 2023-08-13 18:55:32 --> URI Class Initialized
+INFO - 2023-08-13 18:55:32 --> Router Class Initialized
+INFO - 2023-08-13 18:55:32 --> Output Class Initialized
+INFO - 2023-08-13 18:55:32 --> Security Class Initialized
+DEBUG - 2023-08-13 18:55:32 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-13 18:55:32 --> Input Class Initialized
+INFO - 2023-08-13 18:55:32 --> Language Class Initialized
+INFO - 2023-08-13 18:55:32 --> Loader Class Initialized
+INFO - 2023-08-13 18:55:32 --> Helper loaded: url_helper
+INFO - 2023-08-13 18:55:32 --> Controller Class Initialized
+INFO - 2023-08-13 18:55:32 --> Model "Mconfigkey" initialized
+INFO - 2023-08-13 18:55:32 --> Model "Mmatrix" initialized
+INFO - 2023-08-13 18:55:32 --> Database Driver Class Initialized
+INFO - 2023-08-13 18:55:32 --> Final output sent to browser
+DEBUG - 2023-08-13 18:55:32 --> Total execution time: 0.2842
+INFO - 2023-08-13 18:55:32 --> Config Class Initialized
+INFO - 2023-08-13 18:55:32 --> Hooks Class Initialized
+DEBUG - 2023-08-13 18:55:32 --> UTF-8 Support Enabled
+INFO - 2023-08-13 18:55:32 --> Utf8 Class Initialized
+INFO - 2023-08-13 18:55:32 --> URI Class Initialized
+INFO - 2023-08-13 18:55:32 --> Router Class Initialized
+INFO - 2023-08-13 18:55:32 --> Output Class Initialized
+INFO - 2023-08-13 18:55:32 --> Security Class Initialized
+DEBUG - 2023-08-13 18:55:32 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-13 18:55:32 --> Input Class Initialized
+INFO - 2023-08-13 18:55:32 --> Language Class Initialized
+INFO - 2023-08-13 18:55:32 --> Loader Class Initialized
+INFO - 2023-08-13 18:55:32 --> Helper loaded: url_helper
+INFO - 2023-08-13 18:55:32 --> Controller Class Initialized
+INFO - 2023-08-13 18:55:32 --> Model "Mconfigkey" initialized
+INFO - 2023-08-13 18:55:32 --> Model "Mmatrix" initialized
+INFO - 2023-08-13 18:55:32 --> Database Driver Class Initialized
+INFO - 2023-08-13 18:55:33 --> Final output sent to browser
+DEBUG - 2023-08-13 18:55:33 --> Total execution time: 0.2634
+INFO - 2023-08-13 18:58:09 --> Config Class Initialized
+INFO - 2023-08-13 18:58:09 --> Hooks Class Initialized
+DEBUG - 2023-08-13 18:58:09 --> UTF-8 Support Enabled
+INFO - 2023-08-13 18:58:09 --> Utf8 Class Initialized
+INFO - 2023-08-13 18:58:09 --> URI Class Initialized
+INFO - 2023-08-13 18:58:09 --> Router Class Initialized
+INFO - 2023-08-13 18:58:09 --> Output Class Initialized
+INFO - 2023-08-13 18:58:09 --> Security Class Initialized
+DEBUG - 2023-08-13 18:58:09 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-13 18:58:09 --> Input Class Initialized
+INFO - 2023-08-13 18:58:09 --> Language Class Initialized
+INFO - 2023-08-13 18:58:09 --> Loader Class Initialized
+INFO - 2023-08-13 18:58:09 --> Helper loaded: url_helper
+INFO - 2023-08-13 18:58:09 --> Controller Class Initialized
+INFO - 2023-08-13 18:58:09 --> Model "Mconfigkey" initialized
+INFO - 2023-08-13 18:58:09 --> Model "Mmatrix" initialized
+INFO - 2023-08-13 18:58:09 --> Database Driver Class Initialized
+INFO - 2023-08-13 18:58:09 --> Final output sent to browser
+DEBUG - 2023-08-13 18:58:09 --> Total execution time: 0.2686
+INFO - 2023-08-13 18:58:09 --> Config Class Initialized
+INFO - 2023-08-13 18:58:09 --> Hooks Class Initialized
+DEBUG - 2023-08-13 18:58:09 --> UTF-8 Support Enabled
+INFO - 2023-08-13 18:58:09 --> Utf8 Class Initialized
+INFO - 2023-08-13 18:58:09 --> URI Class Initialized
+INFO - 2023-08-13 18:58:09 --> Router Class Initialized
+INFO - 2023-08-13 18:58:09 --> Output Class Initialized
+INFO - 2023-08-13 18:58:09 --> Security Class Initialized
+DEBUG - 2023-08-13 18:58:09 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-13 18:58:09 --> Input Class Initialized
+INFO - 2023-08-13 18:58:09 --> Language Class Initialized
+INFO - 2023-08-13 18:58:09 --> Loader Class Initialized
+INFO - 2023-08-13 18:58:09 --> Helper loaded: url_helper
+INFO - 2023-08-13 18:58:09 --> Controller Class Initialized
+INFO - 2023-08-13 18:58:09 --> Model "Mconfigkey" initialized
+INFO - 2023-08-13 18:58:09 --> Model "Mmatrix" initialized
+INFO - 2023-08-13 18:58:09 --> Database Driver Class Initialized
+INFO - 2023-08-13 18:58:10 --> Final output sent to browser
+DEBUG - 2023-08-13 18:58:10 --> Total execution time: 0.2355
+INFO - 2023-08-13 19:04:32 --> Config Class Initialized
+INFO - 2023-08-13 19:04:32 --> Hooks Class Initialized
+DEBUG - 2023-08-13 19:04:32 --> UTF-8 Support Enabled
+INFO - 2023-08-13 19:04:32 --> Utf8 Class Initialized
+INFO - 2023-08-13 19:04:32 --> URI Class Initialized
+INFO - 2023-08-13 19:04:32 --> Router Class Initialized
+INFO - 2023-08-13 19:04:32 --> Output Class Initialized
+INFO - 2023-08-13 19:04:32 --> Security Class Initialized
+DEBUG - 2023-08-13 19:04:32 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-13 19:04:32 --> Input Class Initialized
+INFO - 2023-08-13 19:04:32 --> Language Class Initialized
+INFO - 2023-08-13 19:04:32 --> Loader Class Initialized
+INFO - 2023-08-13 19:04:32 --> Helper loaded: url_helper
+INFO - 2023-08-13 19:04:32 --> Controller Class Initialized
+INFO - 2023-08-13 19:04:32 --> Model "Mconfigkey" initialized
+INFO - 2023-08-13 19:04:32 --> Model "Mmatrix" initialized
+ERROR - 2023-08-13 19:04:32 --> Severity: Warning --> Use of undefined constant EXT - assumed 'EXT' (this will throw an Error in a future version of PHP) X:\htdocs\pabean-stable\dummyservice\application\core\MY_Loader.php 46
+ERROR - 2023-08-13 19:04:32 --> Severity: Warning --> require_once(X:\htdocs\pabean-stable\dummyservice\system\database/DBEXT): failed to open stream: No such file or directory X:\htdocs\pabean-stable\dummyservice\application\core\MY_Loader.php 46
+ERROR - 2023-08-13 19:04:32 --> Severity: Compile Error --> require_once(): Failed opening required 'X:\htdocs\pabean-stable\dummyservice\system\database/DBEXT' (include_path='X:\xampp\php\PEAR') X:\htdocs\pabean-stable\dummyservice\application\core\MY_Loader.php 46
+INFO - 2023-08-13 19:07:10 --> Config Class Initialized
+INFO - 2023-08-13 19:07:10 --> Hooks Class Initialized
+DEBUG - 2023-08-13 19:07:10 --> UTF-8 Support Enabled
+INFO - 2023-08-13 19:07:10 --> Utf8 Class Initialized
+INFO - 2023-08-13 19:07:10 --> URI Class Initialized
+INFO - 2023-08-13 19:07:10 --> Router Class Initialized
+INFO - 2023-08-13 19:07:10 --> Output Class Initialized
+INFO - 2023-08-13 19:07:10 --> Security Class Initialized
+DEBUG - 2023-08-13 19:07:10 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-13 19:07:10 --> Input Class Initialized
+INFO - 2023-08-13 19:07:10 --> Language Class Initialized
+INFO - 2023-08-13 19:07:10 --> Loader Class Initialized
+INFO - 2023-08-13 19:07:10 --> Helper loaded: url_helper
+INFO - 2023-08-13 19:07:10 --> Controller Class Initialized
+INFO - 2023-08-13 19:07:10 --> Model "Mconfigkey" initialized
+INFO - 2023-08-13 19:07:10 --> Model "Mmatrix" initialized
+INFO - 2023-08-13 19:07:10 --> Database Driver Class Initialized
+INFO - 2023-08-13 19:07:10 --> Final output sent to browser
+DEBUG - 2023-08-13 19:07:10 --> Total execution time: 0.2468
+INFO - 2023-08-13 19:07:11 --> Config Class Initialized
+INFO - 2023-08-13 19:07:11 --> Hooks Class Initialized
+DEBUG - 2023-08-13 19:07:11 --> UTF-8 Support Enabled
+INFO - 2023-08-13 19:07:11 --> Utf8 Class Initialized
+INFO - 2023-08-13 19:07:11 --> URI Class Initialized
+INFO - 2023-08-13 19:07:11 --> Router Class Initialized
+INFO - 2023-08-13 19:07:11 --> Output Class Initialized
+INFO - 2023-08-13 19:07:11 --> Security Class Initialized
+DEBUG - 2023-08-13 19:07:11 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-13 19:07:11 --> Input Class Initialized
+INFO - 2023-08-13 19:07:11 --> Language Class Initialized
+INFO - 2023-08-13 19:07:11 --> Loader Class Initialized
+INFO - 2023-08-13 19:07:11 --> Helper loaded: url_helper
+INFO - 2023-08-13 19:07:11 --> Controller Class Initialized
+INFO - 2023-08-13 19:07:11 --> Model "Mconfigkey" initialized
+INFO - 2023-08-13 19:07:11 --> Model "Mmatrix" initialized
+INFO - 2023-08-13 19:07:11 --> Database Driver Class Initialized
+INFO - 2023-08-13 19:07:11 --> Final output sent to browser
+DEBUG - 2023-08-13 19:07:11 --> Total execution time: 0.2330
+INFO - 2023-08-13 19:19:01 --> Config Class Initialized
+INFO - 2023-08-13 19:19:01 --> Hooks Class Initialized
+DEBUG - 2023-08-13 19:19:01 --> UTF-8 Support Enabled
+INFO - 2023-08-13 19:19:01 --> Utf8 Class Initialized
+INFO - 2023-08-13 19:19:01 --> URI Class Initialized
+INFO - 2023-08-13 19:19:01 --> Router Class Initialized
+INFO - 2023-08-13 19:19:01 --> Output Class Initialized
+INFO - 2023-08-13 19:19:01 --> Security Class Initialized
+DEBUG - 2023-08-13 19:19:01 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-13 19:19:01 --> Input Class Initialized
+INFO - 2023-08-13 19:19:01 --> Language Class Initialized
+INFO - 2023-08-13 19:19:01 --> Loader Class Initialized
+INFO - 2023-08-13 19:19:01 --> Helper loaded: url_helper
+INFO - 2023-08-13 19:19:01 --> Controller Class Initialized
+INFO - 2023-08-13 19:19:01 --> Model "Mconfigkey" initialized
+INFO - 2023-08-13 19:19:01 --> Model "Mmatrix" initialized
+INFO - 2023-08-13 19:19:01 --> Database Driver Class Initialized
+INFO - 2023-08-13 19:19:01 --> Final output sent to browser
+DEBUG - 2023-08-13 19:19:01 --> Total execution time: 0.2998
+INFO - 2023-08-13 19:19:01 --> Config Class Initialized
+INFO - 2023-08-13 19:19:01 --> Hooks Class Initialized
+DEBUG - 2023-08-13 19:19:01 --> UTF-8 Support Enabled
+INFO - 2023-08-13 19:19:01 --> Utf8 Class Initialized
+INFO - 2023-08-13 19:19:01 --> URI Class Initialized
+INFO - 2023-08-13 19:19:01 --> Router Class Initialized
+INFO - 2023-08-13 19:19:01 --> Output Class Initialized
+INFO - 2023-08-13 19:19:01 --> Security Class Initialized
+DEBUG - 2023-08-13 19:19:01 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-13 19:19:01 --> Input Class Initialized
+INFO - 2023-08-13 19:19:01 --> Language Class Initialized
+INFO - 2023-08-13 19:19:01 --> Loader Class Initialized
+INFO - 2023-08-13 19:19:01 --> Helper loaded: url_helper
+INFO - 2023-08-13 19:19:01 --> Controller Class Initialized
+INFO - 2023-08-13 19:19:01 --> Model "Mconfigkey" initialized
+INFO - 2023-08-13 19:19:01 --> Model "Mmatrix" initialized
+INFO - 2023-08-13 19:19:01 --> Database Driver Class Initialized
+INFO - 2023-08-13 19:19:01 --> Final output sent to browser
+DEBUG - 2023-08-13 19:19:01 --> Total execution time: 0.2712
+INFO - 2023-08-13 19:34:58 --> Config Class Initialized
+INFO - 2023-08-13 19:34:58 --> Hooks Class Initialized
+DEBUG - 2023-08-13 19:34:58 --> UTF-8 Support Enabled
+INFO - 2023-08-13 19:34:58 --> Utf8 Class Initialized
+INFO - 2023-08-13 19:34:58 --> URI Class Initialized
+INFO - 2023-08-13 19:34:58 --> Router Class Initialized
+INFO - 2023-08-13 19:34:58 --> Output Class Initialized
+INFO - 2023-08-13 19:34:58 --> Security Class Initialized
+DEBUG - 2023-08-13 19:34:58 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-13 19:34:58 --> Input Class Initialized
+INFO - 2023-08-13 19:34:58 --> Language Class Initialized
+INFO - 2023-08-13 19:34:58 --> Loader Class Initialized
+INFO - 2023-08-13 19:34:58 --> Helper loaded: url_helper
+INFO - 2023-08-13 19:34:58 --> Controller Class Initialized
+INFO - 2023-08-13 19:34:58 --> Model "Mconfigkey" initialized
+INFO - 2023-08-13 19:34:58 --> Model "Mmatrix" initialized
+INFO - 2023-08-13 19:34:58 --> Database Driver Class Initialized
+INFO - 2023-08-13 19:34:59 --> Final output sent to browser
+DEBUG - 2023-08-13 19:34:59 --> Total execution time: 0.2441
+INFO - 2023-08-13 19:36:32 --> Config Class Initialized
+INFO - 2023-08-13 19:36:32 --> Hooks Class Initialized
+DEBUG - 2023-08-13 19:36:32 --> UTF-8 Support Enabled
+INFO - 2023-08-13 19:36:32 --> Utf8 Class Initialized
+INFO - 2023-08-13 19:36:32 --> URI Class Initialized
+INFO - 2023-08-13 19:36:32 --> Router Class Initialized
+INFO - 2023-08-13 19:36:32 --> Output Class Initialized
+INFO - 2023-08-13 19:36:32 --> Security Class Initialized
+DEBUG - 2023-08-13 19:36:32 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-13 19:36:32 --> Input Class Initialized
+INFO - 2023-08-13 19:36:32 --> Language Class Initialized
+INFO - 2023-08-13 19:36:32 --> Loader Class Initialized
+INFO - 2023-08-13 19:36:32 --> Helper loaded: url_helper
+INFO - 2023-08-13 19:36:32 --> Controller Class Initialized
+INFO - 2023-08-13 19:36:32 --> Model "Mconfigkey" initialized
+INFO - 2023-08-13 19:36:32 --> Model "Mmatrix" initialized
+INFO - 2023-08-13 19:36:32 --> Database Driver Class Initialized
+INFO - 2023-08-13 19:36:33 --> Final output sent to browser
+DEBUG - 2023-08-13 19:36:33 --> Total execution time: 0.2900
+INFO - 2023-08-13 19:37:26 --> Config Class Initialized
+INFO - 2023-08-13 19:37:26 --> Hooks Class Initialized
+DEBUG - 2023-08-13 19:37:26 --> UTF-8 Support Enabled
+INFO - 2023-08-13 19:37:26 --> Utf8 Class Initialized
+INFO - 2023-08-13 19:37:26 --> URI Class Initialized
+INFO - 2023-08-13 19:37:26 --> Router Class Initialized
+INFO - 2023-08-13 19:37:26 --> Output Class Initialized
+INFO - 2023-08-13 19:37:26 --> Security Class Initialized
+DEBUG - 2023-08-13 19:37:26 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-13 19:37:26 --> Input Class Initialized
+INFO - 2023-08-13 19:37:26 --> Language Class Initialized
+INFO - 2023-08-13 19:37:26 --> Loader Class Initialized
+INFO - 2023-08-13 19:37:26 --> Helper loaded: url_helper
+INFO - 2023-08-13 19:37:26 --> Controller Class Initialized
+INFO - 2023-08-13 19:37:26 --> Model "Mconfigkey" initialized
+INFO - 2023-08-13 19:37:26 --> Model "Mmatrix" initialized
+INFO - 2023-08-13 19:37:26 --> Database Driver Class Initialized
+INFO - 2023-08-13 19:37:26 --> Final output sent to browser
+DEBUG - 2023-08-13 19:37:26 --> Total execution time: 0.2645
+INFO - 2023-08-13 19:38:21 --> Config Class Initialized
+INFO - 2023-08-13 19:38:21 --> Hooks Class Initialized
+DEBUG - 2023-08-13 19:38:21 --> UTF-8 Support Enabled
+INFO - 2023-08-13 19:38:21 --> Utf8 Class Initialized
+INFO - 2023-08-13 19:38:21 --> URI Class Initialized
+INFO - 2023-08-13 19:38:21 --> Router Class Initialized
+INFO - 2023-08-13 19:38:21 --> Output Class Initialized
+INFO - 2023-08-13 19:38:21 --> Security Class Initialized
+DEBUG - 2023-08-13 19:38:21 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-13 19:38:21 --> Input Class Initialized
+INFO - 2023-08-13 19:38:21 --> Language Class Initialized
+INFO - 2023-08-13 19:38:21 --> Loader Class Initialized
+INFO - 2023-08-13 19:38:21 --> Helper loaded: url_helper
+INFO - 2023-08-13 19:38:21 --> Controller Class Initialized
+INFO - 2023-08-13 19:38:21 --> Model "Mconfigkey" initialized
+INFO - 2023-08-13 19:38:21 --> Model "Mmatrix" initialized
+INFO - 2023-08-13 19:38:21 --> Database Driver Class Initialized
+INFO - 2023-08-13 19:38:21 --> Final output sent to browser
+DEBUG - 2023-08-13 19:38:21 --> Total execution time: 0.2761
+INFO - 2023-08-13 19:38:55 --> Config Class Initialized
+INFO - 2023-08-13 19:38:55 --> Hooks Class Initialized
+DEBUG - 2023-08-13 19:38:55 --> UTF-8 Support Enabled
+INFO - 2023-08-13 19:38:55 --> Utf8 Class Initialized
+INFO - 2023-08-13 19:38:55 --> URI Class Initialized
+INFO - 2023-08-13 19:38:55 --> Router Class Initialized
+INFO - 2023-08-13 19:38:55 --> Output Class Initialized
+INFO - 2023-08-13 19:38:55 --> Security Class Initialized
+DEBUG - 2023-08-13 19:38:55 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-13 19:38:55 --> Input Class Initialized
+INFO - 2023-08-13 19:38:55 --> Language Class Initialized
+INFO - 2023-08-13 19:38:55 --> Loader Class Initialized
+INFO - 2023-08-13 19:38:55 --> Helper loaded: url_helper
+INFO - 2023-08-13 19:38:55 --> Controller Class Initialized
+INFO - 2023-08-13 19:38:55 --> Model "Mconfigkey" initialized
+INFO - 2023-08-13 19:38:55 --> Model "Mmatrix" initialized
+INFO - 2023-08-13 19:38:55 --> Database Driver Class Initialized
+INFO - 2023-08-13 19:38:56 --> Final output sent to browser
+DEBUG - 2023-08-13 19:38:56 --> Total execution time: 0.2772
+INFO - 2023-08-13 19:38:56 --> Config Class Initialized
+INFO - 2023-08-13 19:38:56 --> Hooks Class Initialized
+DEBUG - 2023-08-13 19:38:56 --> UTF-8 Support Enabled
+INFO - 2023-08-13 19:38:56 --> Utf8 Class Initialized
+INFO - 2023-08-13 19:38:56 --> URI Class Initialized
+INFO - 2023-08-13 19:38:56 --> Router Class Initialized
+INFO - 2023-08-13 19:38:56 --> Output Class Initialized
+INFO - 2023-08-13 19:38:56 --> Security Class Initialized
+DEBUG - 2023-08-13 19:38:56 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-13 19:38:56 --> Input Class Initialized
+INFO - 2023-08-13 19:38:56 --> Language Class Initialized
+INFO - 2023-08-13 19:38:56 --> Loader Class Initialized
+INFO - 2023-08-13 19:38:56 --> Helper loaded: url_helper
+INFO - 2023-08-13 19:38:56 --> Controller Class Initialized
+INFO - 2023-08-13 19:38:56 --> Model "Mconfigkey" initialized
+INFO - 2023-08-13 19:38:56 --> Model "Mmatrix" initialized
+INFO - 2023-08-13 19:38:56 --> Database Driver Class Initialized
+INFO - 2023-08-13 19:38:56 --> Final output sent to browser
+DEBUG - 2023-08-13 19:38:56 --> Total execution time: 0.3278
+INFO - 2023-08-13 19:43:42 --> Config Class Initialized
+INFO - 2023-08-13 19:43:42 --> Hooks Class Initialized
+DEBUG - 2023-08-13 19:43:42 --> UTF-8 Support Enabled
+INFO - 2023-08-13 19:43:42 --> Utf8 Class Initialized
+INFO - 2023-08-13 19:43:42 --> URI Class Initialized
+INFO - 2023-08-13 19:43:42 --> Router Class Initialized
+INFO - 2023-08-13 19:43:42 --> Output Class Initialized
+INFO - 2023-08-13 19:43:42 --> Security Class Initialized
+DEBUG - 2023-08-13 19:43:42 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-13 19:43:42 --> Input Class Initialized
+INFO - 2023-08-13 19:43:42 --> Language Class Initialized
+INFO - 2023-08-13 19:43:42 --> Loader Class Initialized
+INFO - 2023-08-13 19:43:42 --> Helper loaded: url_helper
+INFO - 2023-08-13 19:43:42 --> Controller Class Initialized
+INFO - 2023-08-13 19:43:42 --> Model "Mconfigkey" initialized
+INFO - 2023-08-13 19:43:42 --> Model "Mmatrix" initialized
+INFO - 2023-08-13 19:43:42 --> Database Driver Class Initialized
+INFO - 2023-08-13 19:43:43 --> Final output sent to browser
+DEBUG - 2023-08-13 19:43:43 --> Total execution time: 0.2724
+INFO - 2023-08-13 19:43:43 --> Config Class Initialized
+INFO - 2023-08-13 19:43:43 --> Hooks Class Initialized
+DEBUG - 2023-08-13 19:43:43 --> UTF-8 Support Enabled
+INFO - 2023-08-13 19:43:43 --> Utf8 Class Initialized
+INFO - 2023-08-13 19:43:43 --> URI Class Initialized
+INFO - 2023-08-13 19:43:43 --> Router Class Initialized
+INFO - 2023-08-13 19:43:43 --> Output Class Initialized
+INFO - 2023-08-13 19:43:43 --> Security Class Initialized
+DEBUG - 2023-08-13 19:43:43 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-13 19:43:43 --> Input Class Initialized
+INFO - 2023-08-13 19:43:43 --> Language Class Initialized
+INFO - 2023-08-13 19:43:43 --> Loader Class Initialized
+INFO - 2023-08-13 19:43:43 --> Helper loaded: url_helper
+INFO - 2023-08-13 19:43:43 --> Controller Class Initialized
+INFO - 2023-08-13 19:43:43 --> Model "Mconfigkey" initialized
+INFO - 2023-08-13 19:43:43 --> Model "Mmatrix" initialized
+INFO - 2023-08-13 19:43:43 --> Database Driver Class Initialized
+INFO - 2023-08-13 19:43:43 --> Final output sent to browser
+DEBUG - 2023-08-13 19:43:43 --> Total execution time: 0.2413
+INFO - 2023-08-13 19:53:10 --> Config Class Initialized
+INFO - 2023-08-13 19:53:10 --> Hooks Class Initialized
+DEBUG - 2023-08-13 19:53:10 --> UTF-8 Support Enabled
+INFO - 2023-08-13 19:53:10 --> Utf8 Class Initialized
+INFO - 2023-08-13 19:53:10 --> URI Class Initialized
+INFO - 2023-08-13 19:53:10 --> Router Class Initialized
+INFO - 2023-08-13 19:53:10 --> Output Class Initialized
+INFO - 2023-08-13 19:53:10 --> Security Class Initialized
+DEBUG - 2023-08-13 19:53:10 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-13 19:53:10 --> Input Class Initialized
+INFO - 2023-08-13 19:53:10 --> Language Class Initialized
+INFO - 2023-08-13 19:53:10 --> Loader Class Initialized
+INFO - 2023-08-13 19:53:10 --> Helper loaded: url_helper
+INFO - 2023-08-13 19:53:10 --> Controller Class Initialized
+INFO - 2023-08-13 19:53:10 --> Model "Mconfigkey" initialized
+INFO - 2023-08-13 19:53:10 --> Model "Mmatrix" initialized
+INFO - 2023-08-13 19:53:10 --> Database Driver Class Initialized
+ERROR - 2023-08-13 19:53:10 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated X:\htdocs\pabean-stable\dummyservice\system\libraries\Profiler.php 108
+ERROR - 2023-08-13 19:53:10 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated X:\htdocs\pabean-stable\dummyservice\system\libraries\Profiler.php 138
+ERROR - 2023-08-13 19:53:10 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated X:\htdocs\pabean-stable\dummyservice\system\libraries\Profiler.php 557
+INFO - 2023-08-13 19:53:10 --> Language file loaded: language/english/profiler_lang.php
+INFO - 2023-08-13 19:53:10 --> Profiler Class Initialized
+INFO - 2023-08-13 19:53:10 --> Helper loaded: text_helper
+INFO - 2023-08-13 19:53:10 --> Final output sent to browser
+DEBUG - 2023-08-13 19:53:10 --> Total execution time: 0.2753
+INFO - 2023-08-13 19:55:05 --> Config Class Initialized
+INFO - 2023-08-13 19:55:05 --> Hooks Class Initialized
+DEBUG - 2023-08-13 19:55:05 --> UTF-8 Support Enabled
+INFO - 2023-08-13 19:55:05 --> Utf8 Class Initialized
+INFO - 2023-08-13 19:55:05 --> URI Class Initialized
+INFO - 2023-08-13 19:55:05 --> Router Class Initialized
+INFO - 2023-08-13 19:55:05 --> Output Class Initialized
+INFO - 2023-08-13 19:55:05 --> Security Class Initialized
+DEBUG - 2023-08-13 19:55:05 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-13 19:55:05 --> Input Class Initialized
+INFO - 2023-08-13 19:55:05 --> Language Class Initialized
+INFO - 2023-08-13 19:55:05 --> Loader Class Initialized
+INFO - 2023-08-13 19:55:05 --> Helper loaded: url_helper
+INFO - 2023-08-13 19:55:05 --> Controller Class Initialized
+INFO - 2023-08-13 19:55:05 --> Model "Mconfigkey" initialized
+INFO - 2023-08-13 19:55:05 --> Model "Mmatrix" initialized
+INFO - 2023-08-13 19:55:05 --> Database Driver Class Initialized
+ERROR - 2023-08-13 19:55:05 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated X:\htdocs\pabean-stable\dummyservice\system\libraries\Profiler.php 108
+ERROR - 2023-08-13 19:55:05 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated X:\htdocs\pabean-stable\dummyservice\system\libraries\Profiler.php 138
+ERROR - 2023-08-13 19:55:05 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated X:\htdocs\pabean-stable\dummyservice\system\libraries\Profiler.php 557
+INFO - 2023-08-13 19:55:05 --> Language file loaded: language/english/profiler_lang.php
+INFO - 2023-08-13 19:55:05 --> Profiler Class Initialized
+INFO - 2023-08-13 19:55:05 --> Helper loaded: text_helper
+INFO - 2023-08-13 19:55:05 --> Final output sent to browser
+DEBUG - 2023-08-13 19:55:05 --> Total execution time: 0.2474
+INFO - 2023-08-13 19:57:05 --> Config Class Initialized
+INFO - 2023-08-13 19:57:05 --> Hooks Class Initialized
+DEBUG - 2023-08-13 19:57:05 --> UTF-8 Support Enabled
+INFO - 2023-08-13 19:57:05 --> Utf8 Class Initialized
+INFO - 2023-08-13 19:57:05 --> URI Class Initialized
+INFO - 2023-08-13 19:57:05 --> Router Class Initialized
+INFO - 2023-08-13 19:57:05 --> Output Class Initialized
+INFO - 2023-08-13 19:57:05 --> Security Class Initialized
+DEBUG - 2023-08-13 19:57:05 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-13 19:57:05 --> Input Class Initialized
+INFO - 2023-08-13 19:57:05 --> Language Class Initialized
+INFO - 2023-08-13 19:57:05 --> Loader Class Initialized
+INFO - 2023-08-13 19:57:05 --> Helper loaded: url_helper
+INFO - 2023-08-13 19:57:05 --> Controller Class Initialized
+INFO - 2023-08-13 19:57:05 --> Model "Mconfigkey" initialized
+INFO - 2023-08-13 19:57:05 --> Model "Mmatrix" initialized
+INFO - 2023-08-13 19:57:05 --> Database Driver Class Initialized
+ERROR - 2023-08-13 19:57:05 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated X:\htdocs\pabean-stable\dummyservice\system\libraries\Profiler.php 108
+ERROR - 2023-08-13 19:57:05 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated X:\htdocs\pabean-stable\dummyservice\system\libraries\Profiler.php 138
+ERROR - 2023-08-13 19:57:05 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated X:\htdocs\pabean-stable\dummyservice\system\libraries\Profiler.php 557
+INFO - 2023-08-13 19:57:05 --> Language file loaded: language/english/profiler_lang.php
+INFO - 2023-08-13 19:57:05 --> Profiler Class Initialized
+INFO - 2023-08-13 19:57:05 --> Helper loaded: text_helper
+INFO - 2023-08-13 19:57:05 --> Final output sent to browser
+DEBUG - 2023-08-13 19:57:05 --> Total execution time: 0.2341
+INFO - 2023-08-13 19:58:08 --> Config Class Initialized
+INFO - 2023-08-13 19:58:08 --> Hooks Class Initialized
+DEBUG - 2023-08-13 19:58:08 --> UTF-8 Support Enabled
+INFO - 2023-08-13 19:58:08 --> Utf8 Class Initialized
+INFO - 2023-08-13 19:58:08 --> URI Class Initialized
+INFO - 2023-08-13 19:58:08 --> Router Class Initialized
+INFO - 2023-08-13 19:58:08 --> Output Class Initialized
+INFO - 2023-08-13 19:58:08 --> Security Class Initialized
+DEBUG - 2023-08-13 19:58:08 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-13 19:58:08 --> Input Class Initialized
+INFO - 2023-08-13 19:58:08 --> Language Class Initialized
+INFO - 2023-08-13 19:58:08 --> Loader Class Initialized
+INFO - 2023-08-13 19:58:08 --> Helper loaded: url_helper
+INFO - 2023-08-13 19:58:08 --> Controller Class Initialized
+INFO - 2023-08-13 19:58:08 --> Model "Mconfigkey" initialized
+INFO - 2023-08-13 19:58:08 --> Model "Mmatrix" initialized
+INFO - 2023-08-13 19:58:08 --> Database Driver Class Initialized
+ERROR - 2023-08-13 19:58:08 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated X:\htdocs\pabean-stable\dummyservice\system\libraries\Profiler.php 108
+ERROR - 2023-08-13 19:58:08 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated X:\htdocs\pabean-stable\dummyservice\system\libraries\Profiler.php 138
+ERROR - 2023-08-13 19:58:08 --> Severity: 8192 --> Array and string offset access syntax with curly braces is deprecated X:\htdocs\pabean-stable\dummyservice\system\libraries\Profiler.php 557
+INFO - 2023-08-13 19:58:08 --> Language file loaded: language/english/profiler_lang.php
+INFO - 2023-08-13 19:58:08 --> Profiler Class Initialized
+INFO - 2023-08-13 19:58:08 --> Helper loaded: text_helper
+INFO - 2023-08-13 19:58:08 --> Final output sent to browser
+DEBUG - 2023-08-13 19:58:08 --> Total execution time: 0.3783
+INFO - 2023-08-13 20:06:07 --> Config Class Initialized
+INFO - 2023-08-13 20:06:07 --> Hooks Class Initialized
+DEBUG - 2023-08-13 20:06:07 --> UTF-8 Support Enabled
+INFO - 2023-08-13 20:06:07 --> Utf8 Class Initialized
+INFO - 2023-08-13 20:06:07 --> URI Class Initialized
+INFO - 2023-08-13 20:06:07 --> Router Class Initialized
+INFO - 2023-08-13 20:06:07 --> Output Class Initialized
+INFO - 2023-08-13 20:06:07 --> Security Class Initialized
+DEBUG - 2023-08-13 20:06:07 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-13 20:06:07 --> Input Class Initialized
+INFO - 2023-08-13 20:06:07 --> Language Class Initialized
+INFO - 2023-08-13 20:06:07 --> Loader Class Initialized
+INFO - 2023-08-13 20:06:07 --> Helper loaded: url_helper
+INFO - 2023-08-13 20:06:07 --> Controller Class Initialized
+INFO - 2023-08-13 20:06:07 --> Model "Mconfigkey" initialized
+INFO - 2023-08-13 20:06:07 --> Model "Mmatrix" initialized
+INFO - 2023-08-13 20:06:07 --> Database Driver Class Initialized
+INFO - 2023-08-13 20:06:07 --> Language file loaded: language/english/profiler_lang.php
+INFO - 2023-08-13 20:06:07 --> Profiler Class Initialized
+INFO - 2023-08-13 20:06:07 --> Helper loaded: text_helper
+INFO - 2023-08-13 20:06:07 --> Final output sent to browser
+DEBUG - 2023-08-13 20:06:07 --> Total execution time: 0.2788
+INFO - 2023-08-13 20:08:11 --> Config Class Initialized
+INFO - 2023-08-13 20:08:11 --> Hooks Class Initialized
+DEBUG - 2023-08-13 20:08:11 --> UTF-8 Support Enabled
+INFO - 2023-08-13 20:08:11 --> Utf8 Class Initialized
+INFO - 2023-08-13 20:08:11 --> URI Class Initialized
+INFO - 2023-08-13 20:08:11 --> Router Class Initialized
+INFO - 2023-08-13 20:08:11 --> Output Class Initialized
+INFO - 2023-08-13 20:08:11 --> Security Class Initialized
+DEBUG - 2023-08-13 20:08:11 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-13 20:08:11 --> Input Class Initialized
+INFO - 2023-08-13 20:08:11 --> Language Class Initialized
+INFO - 2023-08-13 20:08:11 --> Loader Class Initialized
+INFO - 2023-08-13 20:08:11 --> Helper loaded: url_helper
+INFO - 2023-08-13 20:08:11 --> Controller Class Initialized
+INFO - 2023-08-13 20:08:11 --> Model "Mconfigkey" initialized
+INFO - 2023-08-13 20:08:11 --> Model "Mmatrix" initialized
+INFO - 2023-08-13 20:08:11 --> Database Driver Class Initialized
+INFO - 2023-08-13 20:08:11 --> Language file loaded: language/english/profiler_lang.php
+INFO - 2023-08-13 20:08:11 --> Profiler Class Initialized
+INFO - 2023-08-13 20:08:11 --> Helper loaded: text_helper
+INFO - 2023-08-13 20:08:11 --> Final output sent to browser
+DEBUG - 2023-08-13 20:08:11 --> Total execution time: 0.2559
+INFO - 2023-08-13 20:09:52 --> Config Class Initialized
+INFO - 2023-08-13 20:09:52 --> Hooks Class Initialized
+DEBUG - 2023-08-13 20:09:52 --> UTF-8 Support Enabled
+INFO - 2023-08-13 20:09:52 --> Utf8 Class Initialized
+INFO - 2023-08-13 20:09:52 --> URI Class Initialized
+INFO - 2023-08-13 20:09:52 --> Router Class Initialized
+INFO - 2023-08-13 20:09:52 --> Output Class Initialized
+INFO - 2023-08-13 20:09:52 --> Security Class Initialized
+DEBUG - 2023-08-13 20:09:52 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-13 20:09:52 --> Input Class Initialized
+INFO - 2023-08-13 20:09:52 --> Language Class Initialized
+INFO - 2023-08-13 20:09:52 --> Loader Class Initialized
+INFO - 2023-08-13 20:09:52 --> Helper loaded: url_helper
+INFO - 2023-08-13 20:09:52 --> Controller Class Initialized
+INFO - 2023-08-13 20:09:52 --> Model "Mconfigkey" initialized
+INFO - 2023-08-13 20:09:52 --> Model "Mmatrix" initialized
+INFO - 2023-08-13 20:09:52 --> Database Driver Class Initialized
+INFO - 2023-08-13 20:09:52 --> Language file loaded: language/english/profiler_lang.php
+INFO - 2023-08-13 20:09:52 --> Profiler Class Initialized
+INFO - 2023-08-13 20:09:52 --> Helper loaded: text_helper
+INFO - 2023-08-13 20:09:52 --> Final output sent to browser
+DEBUG - 2023-08-13 20:09:52 --> Total execution time: 0.2416
+INFO - 2023-08-13 21:53:04 --> Config Class Initialized
+INFO - 2023-08-13 21:53:04 --> Hooks Class Initialized
+DEBUG - 2023-08-13 21:53:04 --> UTF-8 Support Enabled
+INFO - 2023-08-13 21:53:04 --> Utf8 Class Initialized
+INFO - 2023-08-13 21:53:04 --> URI Class Initialized
+INFO - 2023-08-13 21:53:04 --> Router Class Initialized
+INFO - 2023-08-13 21:53:04 --> Output Class Initialized
+INFO - 2023-08-13 21:53:04 --> Security Class Initialized
+DEBUG - 2023-08-13 21:53:04 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-13 21:53:04 --> Input Class Initialized
+INFO - 2023-08-13 21:53:04 --> Language Class Initialized
+INFO - 2023-08-13 21:53:04 --> Loader Class Initialized
+INFO - 2023-08-13 21:53:04 --> Helper loaded: url_helper
+INFO - 2023-08-13 21:53:04 --> Controller Class Initialized
+INFO - 2023-08-13 21:53:04 --> Model "Mconfigkey" initialized
+INFO - 2023-08-13 21:53:04 --> Language file loaded: language/english/profiler_lang.php
+INFO - 2023-08-13 21:53:04 --> Profiler Class Initialized
+INFO - 2023-08-13 21:53:04 --> Helper loaded: text_helper
+INFO - 2023-08-13 21:53:04 --> Final output sent to browser
+DEBUG - 2023-08-13 21:53:04 --> Total execution time: 0.0145
+INFO - 2023-08-13 21:53:09 --> Config Class Initialized
+INFO - 2023-08-13 21:53:09 --> Hooks Class Initialized
+DEBUG - 2023-08-13 21:53:09 --> UTF-8 Support Enabled
+INFO - 2023-08-13 21:53:09 --> Utf8 Class Initialized
+INFO - 2023-08-13 21:53:09 --> URI Class Initialized
+INFO - 2023-08-13 21:53:09 --> Router Class Initialized
+INFO - 2023-08-13 21:53:09 --> Output Class Initialized
+INFO - 2023-08-13 21:53:09 --> Security Class Initialized
+DEBUG - 2023-08-13 21:53:09 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-13 21:53:09 --> Input Class Initialized
+INFO - 2023-08-13 21:53:09 --> Language Class Initialized
+INFO - 2023-08-13 21:53:09 --> Loader Class Initialized
+INFO - 2023-08-13 21:53:09 --> Helper loaded: url_helper
+INFO - 2023-08-13 21:53:09 --> Controller Class Initialized
+INFO - 2023-08-13 21:53:09 --> Model "Mauth" initialized
+INFO - 2023-08-13 21:53:09 --> Database Driver Class Initialized
+INFO - 2023-08-13 21:53:09 --> Model "Mconfigkey" initialized
+INFO - 2023-08-13 21:53:09 --> Language file loaded: language/english/profiler_lang.php
+INFO - 2023-08-13 21:53:09 --> Profiler Class Initialized
+INFO - 2023-08-13 21:53:09 --> Helper loaded: text_helper
+ERROR - 2023-08-13 21:53:09 --> Severity: Notice --> Array to string conversion X:\htdocs\pabean-stable\dummyservice\application\libraries\MY_Profiler.php 52
+INFO - 2023-08-13 21:53:09 --> Final output sent to browser
+DEBUG - 2023-08-13 21:53:09 --> Total execution time: 0.2969
+INFO - 2023-08-13 21:53:13 --> Config Class Initialized
+INFO - 2023-08-13 21:53:13 --> Hooks Class Initialized
+DEBUG - 2023-08-13 21:53:13 --> UTF-8 Support Enabled
+INFO - 2023-08-13 21:53:13 --> Utf8 Class Initialized
+INFO - 2023-08-13 21:53:13 --> URI Class Initialized
+INFO - 2023-08-13 21:53:13 --> Router Class Initialized
+INFO - 2023-08-13 21:53:13 --> Output Class Initialized
+INFO - 2023-08-13 21:53:13 --> Security Class Initialized
+DEBUG - 2023-08-13 21:53:13 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-13 21:53:13 --> Input Class Initialized
+INFO - 2023-08-13 21:53:13 --> Language Class Initialized
+INFO - 2023-08-13 21:53:13 --> Loader Class Initialized
+INFO - 2023-08-13 21:53:13 --> Helper loaded: url_helper
+INFO - 2023-08-13 21:53:13 --> Controller Class Initialized
+INFO - 2023-08-13 21:53:13 --> Model "Mauth" initialized
+INFO - 2023-08-13 21:53:13 --> Database Driver Class Initialized
+INFO - 2023-08-13 21:53:14 --> Model "Mconfigkey" initialized
+INFO - 2023-08-13 21:53:14 --> Language file loaded: language/english/profiler_lang.php
+INFO - 2023-08-13 21:53:14 --> Profiler Class Initialized
+INFO - 2023-08-13 21:53:14 --> Helper loaded: text_helper
+ERROR - 2023-08-13 21:53:14 --> Severity: Notice --> Array to string conversion X:\htdocs\pabean-stable\dummyservice\application\libraries\MY_Profiler.php 52
+INFO - 2023-08-13 21:53:14 --> Final output sent to browser
+DEBUG - 2023-08-13 21:53:14 --> Total execution time: 0.2610
+INFO - 2023-08-13 21:54:12 --> Config Class Initialized
+INFO - 2023-08-13 21:54:12 --> Hooks Class Initialized
+DEBUG - 2023-08-13 21:54:12 --> UTF-8 Support Enabled
+INFO - 2023-08-13 21:54:12 --> Utf8 Class Initialized
+INFO - 2023-08-13 21:54:12 --> URI Class Initialized
+INFO - 2023-08-13 21:54:12 --> Router Class Initialized
+INFO - 2023-08-13 21:54:12 --> Output Class Initialized
+INFO - 2023-08-13 21:54:12 --> Security Class Initialized
+DEBUG - 2023-08-13 21:54:12 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-13 21:54:12 --> Input Class Initialized
+INFO - 2023-08-13 21:54:12 --> Language Class Initialized
+INFO - 2023-08-13 21:54:12 --> Loader Class Initialized
+INFO - 2023-08-13 21:54:12 --> Helper loaded: url_helper
+INFO - 2023-08-13 21:54:12 --> Controller Class Initialized
+INFO - 2023-08-13 21:54:12 --> Model "Mauth" initialized
+INFO - 2023-08-13 21:54:12 --> Database Driver Class Initialized
+INFO - 2023-08-13 21:54:12 --> Model "Mconfigkey" initialized
+INFO - 2023-08-13 21:54:12 --> Language file loaded: language/english/profiler_lang.php
+INFO - 2023-08-13 21:54:12 --> Profiler Class Initialized
+INFO - 2023-08-13 21:54:12 --> Helper loaded: text_helper
+ERROR - 2023-08-13 21:54:12 --> Severity: Notice --> Array to string conversion X:\htdocs\pabean-stable\dummyservice\application\libraries\MY_Profiler.php 52
+INFO - 2023-08-13 21:54:12 --> Final output sent to browser
+DEBUG - 2023-08-13 21:54:12 --> Total execution time: 0.3239
+INFO - 2023-08-13 21:56:05 --> Config Class Initialized
+INFO - 2023-08-13 21:56:05 --> Hooks Class Initialized
+DEBUG - 2023-08-13 21:56:05 --> UTF-8 Support Enabled
+INFO - 2023-08-13 21:56:05 --> Utf8 Class Initialized
+INFO - 2023-08-13 21:56:05 --> URI Class Initialized
+INFO - 2023-08-13 21:56:05 --> Router Class Initialized
+INFO - 2023-08-13 21:56:05 --> Output Class Initialized
+INFO - 2023-08-13 21:56:05 --> Security Class Initialized
+DEBUG - 2023-08-13 21:56:05 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-13 21:56:05 --> Input Class Initialized
+INFO - 2023-08-13 21:56:05 --> Language Class Initialized
+INFO - 2023-08-13 21:56:05 --> Loader Class Initialized
+INFO - 2023-08-13 21:56:05 --> Helper loaded: url_helper
+INFO - 2023-08-13 21:56:05 --> Controller Class Initialized
+INFO - 2023-08-13 21:56:05 --> Model "Mauth" initialized
+INFO - 2023-08-13 21:56:05 --> Database Driver Class Initialized
+INFO - 2023-08-13 21:56:05 --> Model "Mconfigkey" initialized
+INFO - 2023-08-13 21:56:05 --> Language file loaded: language/english/profiler_lang.php
+INFO - 2023-08-13 21:56:05 --> Profiler Class Initialized
+INFO - 2023-08-13 21:56:05 --> Helper loaded: text_helper
+INFO - 2023-08-13 21:56:05 --> Final output sent to browser
+DEBUG - 2023-08-13 21:56:05 --> Total execution time: 0.2881
+INFO - 2023-08-13 21:56:52 --> Config Class Initialized
+INFO - 2023-08-13 21:56:52 --> Hooks Class Initialized
+DEBUG - 2023-08-13 21:56:52 --> UTF-8 Support Enabled
+INFO - 2023-08-13 21:56:52 --> Utf8 Class Initialized
+INFO - 2023-08-13 21:56:52 --> URI Class Initialized
+INFO - 2023-08-13 21:56:52 --> Router Class Initialized
+INFO - 2023-08-13 21:56:52 --> Output Class Initialized
+INFO - 2023-08-13 21:56:52 --> Security Class Initialized
+DEBUG - 2023-08-13 21:56:52 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-13 21:56:52 --> Input Class Initialized
+INFO - 2023-08-13 21:56:52 --> Language Class Initialized
+INFO - 2023-08-13 21:56:52 --> Loader Class Initialized
+INFO - 2023-08-13 21:56:52 --> Helper loaded: url_helper
+INFO - 2023-08-13 21:56:52 --> Controller Class Initialized
+INFO - 2023-08-13 21:56:52 --> Model "Mauth" initialized
+INFO - 2023-08-13 21:56:52 --> Database Driver Class Initialized
+INFO - 2023-08-13 21:56:52 --> Model "Mconfigkey" initialized
+INFO - 2023-08-13 21:56:52 --> Language file loaded: language/english/profiler_lang.php
+INFO - 2023-08-13 21:56:52 --> Profiler Class Initialized
+INFO - 2023-08-13 21:56:52 --> Helper loaded: text_helper
+INFO - 2023-08-13 21:56:52 --> Final output sent to browser
+DEBUG - 2023-08-13 21:56:52 --> Total execution time: 0.2682
+INFO - 2023-08-13 22:03:52 --> Config Class Initialized
+INFO - 2023-08-13 22:03:52 --> Hooks Class Initialized
+DEBUG - 2023-08-13 22:03:52 --> UTF-8 Support Enabled
+INFO - 2023-08-13 22:03:52 --> Utf8 Class Initialized
+INFO - 2023-08-13 22:03:52 --> URI Class Initialized
+INFO - 2023-08-13 22:03:52 --> Router Class Initialized
+INFO - 2023-08-13 22:03:52 --> Output Class Initialized
+INFO - 2023-08-13 22:03:52 --> Security Class Initialized
+DEBUG - 2023-08-13 22:03:52 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-13 22:03:52 --> Input Class Initialized
+INFO - 2023-08-13 22:03:52 --> Language Class Initialized
+INFO - 2023-08-13 22:03:52 --> Loader Class Initialized
+INFO - 2023-08-13 22:03:52 --> Helper loaded: url_helper
+INFO - 2023-08-13 22:03:52 --> Controller Class Initialized
+INFO - 2023-08-13 22:03:52 --> Model "Mauth" initialized
+INFO - 2023-08-13 22:03:52 --> Database Driver Class Initialized
+INFO - 2023-08-13 22:03:53 --> Model "Mconfigkey" initialized
+INFO - 2023-08-13 22:03:53 --> Language file loaded: language/english/profiler_lang.php
+INFO - 2023-08-13 22:03:53 --> Profiler Class Initialized
+INFO - 2023-08-13 22:03:53 --> Helper loaded: text_helper
+INFO - 2023-08-13 22:03:53 --> Final output sent to browser
+DEBUG - 2023-08-13 22:03:53 --> Total execution time: 0.2906
+INFO - 2023-08-13 22:04:53 --> Config Class Initialized
+INFO - 2023-08-13 22:04:53 --> Hooks Class Initialized
+DEBUG - 2023-08-13 22:04:53 --> UTF-8 Support Enabled
+INFO - 2023-08-13 22:04:53 --> Utf8 Class Initialized
+INFO - 2023-08-13 22:04:53 --> URI Class Initialized
+INFO - 2023-08-13 22:04:53 --> Router Class Initialized
+INFO - 2023-08-13 22:04:53 --> Output Class Initialized
+INFO - 2023-08-13 22:04:53 --> Security Class Initialized
+DEBUG - 2023-08-13 22:04:53 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-13 22:04:53 --> Input Class Initialized
+INFO - 2023-08-13 22:04:53 --> Language Class Initialized
+INFO - 2023-08-13 22:04:53 --> Loader Class Initialized
+INFO - 2023-08-13 22:04:53 --> Helper loaded: url_helper
+INFO - 2023-08-13 22:04:53 --> Controller Class Initialized
+INFO - 2023-08-13 22:04:53 --> Model "Mauth" initialized
+INFO - 2023-08-13 22:04:53 --> Database Driver Class Initialized
+INFO - 2023-08-13 22:04:53 --> Model "Mconfigkey" initialized
+INFO - 2023-08-13 22:04:53 --> Language file loaded: language/english/profiler_lang.php
+INFO - 2023-08-13 22:04:53 --> Profiler Class Initialized
+INFO - 2023-08-13 22:04:53 --> Helper loaded: text_helper
+INFO - 2023-08-13 22:04:53 --> Final output sent to browser
+DEBUG - 2023-08-13 22:04:53 --> Total execution time: 0.3040
+INFO - 2023-08-13 22:05:54 --> Config Class Initialized
+INFO - 2023-08-13 22:05:54 --> Hooks Class Initialized
+DEBUG - 2023-08-13 22:05:54 --> UTF-8 Support Enabled
+INFO - 2023-08-13 22:05:54 --> Utf8 Class Initialized
+INFO - 2023-08-13 22:05:54 --> URI Class Initialized
+INFO - 2023-08-13 22:05:54 --> Router Class Initialized
+INFO - 2023-08-13 22:05:54 --> Output Class Initialized
+INFO - 2023-08-13 22:05:54 --> Security Class Initialized
+DEBUG - 2023-08-13 22:05:54 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-13 22:05:54 --> Input Class Initialized
+INFO - 2023-08-13 22:05:54 --> Language Class Initialized
+INFO - 2023-08-13 22:05:54 --> Loader Class Initialized
+INFO - 2023-08-13 22:05:54 --> Helper loaded: url_helper
+INFO - 2023-08-13 22:05:54 --> Controller Class Initialized
+INFO - 2023-08-13 22:05:54 --> Model "Mauth" initialized
+INFO - 2023-08-13 22:05:54 --> Database Driver Class Initialized
+INFO - 2023-08-13 22:05:55 --> Model "Mconfigkey" initialized
+INFO - 2023-08-13 22:05:55 --> Language file loaded: language/english/profiler_lang.php
+INFO - 2023-08-13 22:05:55 --> Profiler Class Initialized
+INFO - 2023-08-13 22:05:55 --> Helper loaded: text_helper
+INFO - 2023-08-13 22:05:55 --> Final output sent to browser
+DEBUG - 2023-08-13 22:05:55 --> Total execution time: 0.2879
+INFO - 2023-08-13 22:06:20 --> Config Class Initialized
+INFO - 2023-08-13 22:06:20 --> Hooks Class Initialized
+DEBUG - 2023-08-13 22:06:20 --> UTF-8 Support Enabled
+INFO - 2023-08-13 22:06:20 --> Utf8 Class Initialized
+INFO - 2023-08-13 22:06:20 --> URI Class Initialized
+INFO - 2023-08-13 22:06:20 --> Router Class Initialized
+INFO - 2023-08-13 22:06:20 --> Output Class Initialized
+INFO - 2023-08-13 22:06:20 --> Security Class Initialized
+DEBUG - 2023-08-13 22:06:20 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-13 22:06:20 --> Input Class Initialized
+INFO - 2023-08-13 22:06:20 --> Language Class Initialized
+INFO - 2023-08-13 22:06:20 --> Loader Class Initialized
+INFO - 2023-08-13 22:06:20 --> Helper loaded: url_helper
+INFO - 2023-08-13 22:06:20 --> Controller Class Initialized
+INFO - 2023-08-13 22:06:20 --> Model "Mauth" initialized
+INFO - 2023-08-13 22:06:20 --> Database Driver Class Initialized
+INFO - 2023-08-13 22:06:20 --> Model "Mconfigkey" initialized
+INFO - 2023-08-13 22:06:20 --> Language file loaded: language/english/profiler_lang.php
+INFO - 2023-08-13 22:06:20 --> Profiler Class Initialized
+INFO - 2023-08-13 22:06:20 --> Helper loaded: text_helper
+INFO - 2023-08-13 22:06:20 --> Final output sent to browser
+DEBUG - 2023-08-13 22:06:20 --> Total execution time: 0.2707
+INFO - 2023-08-13 22:29:34 --> Config Class Initialized
+INFO - 2023-08-13 22:29:34 --> Hooks Class Initialized
+DEBUG - 2023-08-13 22:29:34 --> UTF-8 Support Enabled
+INFO - 2023-08-13 22:29:34 --> Utf8 Class Initialized
+INFO - 2023-08-13 22:29:34 --> URI Class Initialized
+INFO - 2023-08-13 22:29:34 --> Router Class Initialized
+INFO - 2023-08-13 22:29:34 --> Output Class Initialized
+INFO - 2023-08-13 22:29:34 --> Security Class Initialized
+DEBUG - 2023-08-13 22:29:34 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-13 22:29:34 --> Input Class Initialized
+INFO - 2023-08-13 22:29:34 --> Language Class Initialized
+INFO - 2023-08-13 22:29:34 --> Loader Class Initialized
+INFO - 2023-08-13 22:29:34 --> Helper loaded: url_helper
+INFO - 2023-08-13 22:29:34 --> Controller Class Initialized
+INFO - 2023-08-13 22:29:34 --> Model "Mauth" initialized
+INFO - 2023-08-13 22:29:34 --> Database Driver Class Initialized
+INFO - 2023-08-13 22:29:34 --> Model "Mconfigkey" initialized
+INFO - 2023-08-13 22:29:34 --> Language file loaded: language/english/profiler_lang.php
+INFO - 2023-08-13 22:29:34 --> Profiler Class Initialized
+INFO - 2023-08-13 22:29:34 --> Helper loaded: text_helper
+INFO - 2023-08-13 22:29:34 --> Final output sent to browser
+DEBUG - 2023-08-13 22:29:34 --> Total execution time: 0.2602
+INFO - 2023-08-13 22:30:35 --> Config Class Initialized
+INFO - 2023-08-13 22:30:35 --> Hooks Class Initialized
+DEBUG - 2023-08-13 22:30:35 --> UTF-8 Support Enabled
+INFO - 2023-08-13 22:30:35 --> Utf8 Class Initialized
+INFO - 2023-08-13 22:30:35 --> URI Class Initialized
+INFO - 2023-08-13 22:30:35 --> Router Class Initialized
+INFO - 2023-08-13 22:30:35 --> Output Class Initialized
+INFO - 2023-08-13 22:30:35 --> Security Class Initialized
+DEBUG - 2023-08-13 22:30:35 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-13 22:30:35 --> Input Class Initialized
+INFO - 2023-08-13 22:30:35 --> Language Class Initialized
+INFO - 2023-08-13 22:30:35 --> Loader Class Initialized
+INFO - 2023-08-13 22:30:35 --> Helper loaded: url_helper
+INFO - 2023-08-13 22:30:35 --> Controller Class Initialized
+INFO - 2023-08-13 22:30:35 --> Model "Mauth" initialized
+INFO - 2023-08-13 22:30:35 --> Database Driver Class Initialized
+INFO - 2023-08-13 22:30:35 --> Model "Mconfigkey" initialized
+INFO - 2023-08-13 22:30:35 --> Language file loaded: language/english/profiler_lang.php
+INFO - 2023-08-13 22:30:35 --> Profiler Class Initialized
+INFO - 2023-08-13 22:30:35 --> Helper loaded: text_helper
+INFO - 2023-08-13 22:30:35 --> Final output sent to browser
+DEBUG - 2023-08-13 22:30:35 --> Total execution time: 0.2870
+INFO - 2023-08-13 22:30:47 --> Config Class Initialized
+INFO - 2023-08-13 22:30:47 --> Hooks Class Initialized
+DEBUG - 2023-08-13 22:30:47 --> UTF-8 Support Enabled
+INFO - 2023-08-13 22:30:47 --> Utf8 Class Initialized
+INFO - 2023-08-13 22:30:47 --> URI Class Initialized
+INFO - 2023-08-13 22:30:47 --> Router Class Initialized
+INFO - 2023-08-13 22:30:47 --> Output Class Initialized
+INFO - 2023-08-13 22:30:47 --> Security Class Initialized
+DEBUG - 2023-08-13 22:30:47 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-13 22:30:47 --> Input Class Initialized
+INFO - 2023-08-13 22:30:47 --> Language Class Initialized
+INFO - 2023-08-13 22:30:47 --> Loader Class Initialized
+INFO - 2023-08-13 22:30:47 --> Helper loaded: url_helper
+INFO - 2023-08-13 22:30:47 --> Controller Class Initialized
+INFO - 2023-08-13 22:30:47 --> Model "Mauth" initialized
+INFO - 2023-08-13 22:30:47 --> Database Driver Class Initialized
+INFO - 2023-08-13 22:30:47 --> Model "Mconfigkey" initialized
+INFO - 2023-08-13 22:30:47 --> Language file loaded: language/english/profiler_lang.php
+INFO - 2023-08-13 22:30:47 --> Profiler Class Initialized
+INFO - 2023-08-13 22:30:47 --> Helper loaded: text_helper
+INFO - 2023-08-13 22:30:47 --> Final output sent to browser
+DEBUG - 2023-08-13 22:30:47 --> Total execution time: 0.2551
+INFO - 2023-08-13 22:35:35 --> Config Class Initialized
+INFO - 2023-08-13 22:35:35 --> Hooks Class Initialized
+DEBUG - 2023-08-13 22:35:35 --> UTF-8 Support Enabled
+INFO - 2023-08-13 22:35:35 --> Utf8 Class Initialized
+INFO - 2023-08-13 22:35:35 --> URI Class Initialized
+INFO - 2023-08-13 22:35:35 --> Router Class Initialized
+INFO - 2023-08-13 22:35:35 --> Output Class Initialized
+INFO - 2023-08-13 22:35:35 --> Security Class Initialized
+DEBUG - 2023-08-13 22:35:35 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-13 22:35:35 --> Input Class Initialized
+INFO - 2023-08-13 22:35:35 --> Language Class Initialized
+INFO - 2023-08-13 22:35:35 --> Loader Class Initialized
+INFO - 2023-08-13 22:35:35 --> Helper loaded: url_helper
+INFO - 2023-08-13 22:35:35 --> Controller Class Initialized
+INFO - 2023-08-13 22:35:35 --> Model "Mauth" initialized
+INFO - 2023-08-13 22:35:35 --> Database Driver Class Initialized
+INFO - 2023-08-13 22:35:36 --> Model "Mconfigkey" initialized
+INFO - 2023-08-13 22:35:36 --> Language file loaded: language/english/profiler_lang.php
+INFO - 2023-08-13 22:35:36 --> Profiler Class Initialized
+INFO - 2023-08-13 22:35:36 --> Helper loaded: text_helper
+INFO - 2023-08-13 22:35:36 --> Final output sent to browser
+DEBUG - 2023-08-13 22:35:36 --> Total execution time: 0.2818
+INFO - 2023-08-13 22:36:49 --> Config Class Initialized
+INFO - 2023-08-13 22:36:49 --> Hooks Class Initialized
+DEBUG - 2023-08-13 22:36:49 --> UTF-8 Support Enabled
+INFO - 2023-08-13 22:36:49 --> Utf8 Class Initialized
+INFO - 2023-08-13 22:36:49 --> URI Class Initialized
+INFO - 2023-08-13 22:36:49 --> Router Class Initialized
+INFO - 2023-08-13 22:36:49 --> Output Class Initialized
+INFO - 2023-08-13 22:36:49 --> Security Class Initialized
+DEBUG - 2023-08-13 22:36:49 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-13 22:36:49 --> Input Class Initialized
+INFO - 2023-08-13 22:36:49 --> Language Class Initialized
+INFO - 2023-08-13 22:36:49 --> Loader Class Initialized
+INFO - 2023-08-13 22:36:49 --> Helper loaded: url_helper
+INFO - 2023-08-13 22:36:49 --> Controller Class Initialized
+INFO - 2023-08-13 22:36:49 --> Model "Mauth" initialized
+INFO - 2023-08-13 22:36:49 --> Database Driver Class Initialized
+INFO - 2023-08-13 22:36:50 --> Model "Mconfigkey" initialized
+INFO - 2023-08-13 22:36:50 --> Language file loaded: language/english/profiler_lang.php
+INFO - 2023-08-13 22:36:50 --> Profiler Class Initialized
+INFO - 2023-08-13 22:36:50 --> Helper loaded: text_helper
+INFO - 2023-08-13 22:36:50 --> Final output sent to browser
+DEBUG - 2023-08-13 22:36:50 --> Total execution time: 0.3129
+INFO - 2023-08-13 23:14:44 --> Config Class Initialized
+INFO - 2023-08-13 23:14:44 --> Hooks Class Initialized
+DEBUG - 2023-08-13 23:14:44 --> UTF-8 Support Enabled
+INFO - 2023-08-13 23:14:44 --> Utf8 Class Initialized
+INFO - 2023-08-13 23:14:44 --> URI Class Initialized
+INFO - 2023-08-13 23:14:44 --> Router Class Initialized
+INFO - 2023-08-13 23:14:44 --> Output Class Initialized
+INFO - 2023-08-13 23:14:44 --> Security Class Initialized
+DEBUG - 2023-08-13 23:14:44 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-13 23:14:44 --> Input Class Initialized
+INFO - 2023-08-13 23:14:44 --> Language Class Initialized
+INFO - 2023-08-13 23:14:44 --> Loader Class Initialized
+INFO - 2023-08-13 23:14:44 --> Helper loaded: url_helper
+INFO - 2023-08-13 23:14:44 --> Controller Class Initialized
+INFO - 2023-08-13 23:14:44 --> Model "Mauth" initialized
+INFO - 2023-08-13 23:14:44 --> Database Driver Class Initialized
+INFO - 2023-08-13 23:14:45 --> Model "Mconfigkey" initialized
+INFO - 2023-08-13 23:14:45 --> Language file loaded: language/english/profiler_lang.php
+INFO - 2023-08-13 23:14:45 --> Profiler Class Initialized
+INFO - 2023-08-13 23:14:45 --> Helper loaded: text_helper
+ERROR - 2023-08-13 23:14:45 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at X:\htdocs\pabean-stable\dummyservice\application\controllers\Home.php:64) X:\htdocs\pabean-stable\dummyservice\system\core\Common.php 570
+INFO - 2023-08-13 23:19:08 --> Config Class Initialized
+INFO - 2023-08-13 23:19:08 --> Hooks Class Initialized
+DEBUG - 2023-08-13 23:19:08 --> UTF-8 Support Enabled
+INFO - 2023-08-13 23:19:08 --> Utf8 Class Initialized
+INFO - 2023-08-13 23:19:08 --> URI Class Initialized
+INFO - 2023-08-13 23:19:08 --> Router Class Initialized
+INFO - 2023-08-13 23:19:08 --> Output Class Initialized
+INFO - 2023-08-13 23:19:08 --> Security Class Initialized
+DEBUG - 2023-08-13 23:19:08 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-13 23:19:08 --> Input Class Initialized
+INFO - 2023-08-13 23:19:08 --> Language Class Initialized
+INFO - 2023-08-13 23:19:08 --> Loader Class Initialized
+INFO - 2023-08-13 23:19:08 --> Helper loaded: url_helper
+INFO - 2023-08-13 23:19:08 --> Controller Class Initialized
+INFO - 2023-08-13 23:19:08 --> Model "Mauth" initialized
+INFO - 2023-08-13 23:19:08 --> Database Driver Class Initialized
+INFO - 2023-08-13 23:19:09 --> Model "Mconfigkey" initialized
+INFO - 2023-08-13 23:19:09 --> Language file loaded: language/english/profiler_lang.php
+INFO - 2023-08-13 23:19:09 --> Profiler Class Initialized
+INFO - 2023-08-13 23:19:09 --> Helper loaded: text_helper
+ERROR - 2023-08-13 23:19:09 --> Severity: Notice --> Undefined property: MY_Profiler::$http://localhost/pabean/dummyservice/home/auth X:\htdocs\pabean-stable\dummyservice\application\libraries\MY_Profiler.php 20
+ERROR - 2023-08-13 23:19:09 --> Severity: error --> Exception: Call to a member function getSegments() on null X:\htdocs\pabean-stable\dummyservice\application\libraries\MY_Profiler.php 20
+ERROR - 2023-08-13 23:19:09 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at X:\htdocs\pabean-stable\dummyservice\application\controllers\Home.php:64) X:\htdocs\pabean-stable\dummyservice\system\core\Common.php 570
+INFO - 2023-08-13 23:25:47 --> Config Class Initialized
+INFO - 2023-08-13 23:25:47 --> Hooks Class Initialized
+DEBUG - 2023-08-13 23:25:47 --> UTF-8 Support Enabled
+INFO - 2023-08-13 23:25:47 --> Utf8 Class Initialized
+INFO - 2023-08-13 23:25:47 --> URI Class Initialized
+INFO - 2023-08-13 23:25:47 --> Router Class Initialized
+INFO - 2023-08-13 23:25:47 --> Output Class Initialized
+INFO - 2023-08-13 23:25:47 --> Security Class Initialized
+DEBUG - 2023-08-13 23:25:47 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-13 23:25:47 --> Input Class Initialized
+INFO - 2023-08-13 23:25:47 --> Language Class Initialized
+INFO - 2023-08-13 23:25:47 --> Loader Class Initialized
+INFO - 2023-08-13 23:25:47 --> Helper loaded: url_helper
+INFO - 2023-08-13 23:25:47 --> Controller Class Initialized
+INFO - 2023-08-13 23:25:47 --> Model "Mauth" initialized
+INFO - 2023-08-13 23:25:47 --> Database Driver Class Initialized
+INFO - 2023-08-13 23:25:47 --> Model "Mconfigkey" initialized
+INFO - 2023-08-13 23:25:47 --> Language file loaded: language/english/profiler_lang.php
+INFO - 2023-08-13 23:25:47 --> Profiler Class Initialized
+INFO - 2023-08-13 23:25:47 --> Helper loaded: text_helper
+ERROR - 2023-08-13 23:25:47 --> Severity: error --> Exception: Call to undefined method CI_URI::getSegments() X:\htdocs\pabean-stable\dummyservice\application\libraries\MY_Profiler.php 20
+ERROR - 2023-08-13 23:25:47 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at X:\htdocs\pabean-stable\dummyservice\application\controllers\Home.php:64) X:\htdocs\pabean-stable\dummyservice\system\core\Common.php 570
+INFO - 2023-08-13 23:26:39 --> Config Class Initialized
+INFO - 2023-08-13 23:26:39 --> Hooks Class Initialized
+DEBUG - 2023-08-13 23:26:39 --> UTF-8 Support Enabled
+INFO - 2023-08-13 23:26:39 --> Utf8 Class Initialized
+INFO - 2023-08-13 23:26:39 --> URI Class Initialized
+INFO - 2023-08-13 23:26:39 --> Router Class Initialized
+INFO - 2023-08-13 23:26:39 --> Output Class Initialized
+INFO - 2023-08-13 23:26:39 --> Security Class Initialized
+DEBUG - 2023-08-13 23:26:39 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-13 23:26:39 --> Input Class Initialized
+INFO - 2023-08-13 23:26:39 --> Language Class Initialized
+INFO - 2023-08-13 23:26:39 --> Loader Class Initialized
+INFO - 2023-08-13 23:26:39 --> Helper loaded: url_helper
+INFO - 2023-08-13 23:26:39 --> Controller Class Initialized
+INFO - 2023-08-13 23:26:39 --> Model "Mauth" initialized
+INFO - 2023-08-13 23:26:39 --> Database Driver Class Initialized
+INFO - 2023-08-13 23:26:39 --> Model "Mconfigkey" initialized
+INFO - 2023-08-13 23:26:39 --> Language file loaded: language/english/profiler_lang.php
+INFO - 2023-08-13 23:26:39 --> Profiler Class Initialized
+INFO - 2023-08-13 23:26:39 --> Helper loaded: text_helper
+ERROR - 2023-08-13 23:26:39 --> Severity: Notice --> Undefined property: MY_Profiler::$ X:\htdocs\pabean-stable\dummyservice\application\libraries\MY_Profiler.php 29
+ERROR - 2023-08-13 23:26:39 --> Severity: error --> Exception: Call to a member function insert() on null X:\htdocs\pabean-stable\dummyservice\application\libraries\MY_Profiler.php 29
+ERROR - 2023-08-13 23:26:39 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at X:\htdocs\pabean-stable\dummyservice\application\controllers\Home.php:64) X:\htdocs\pabean-stable\dummyservice\system\core\Common.php 570
+INFO - 2023-08-13 23:27:18 --> Config Class Initialized
+INFO - 2023-08-13 23:27:18 --> Hooks Class Initialized
+DEBUG - 2023-08-13 23:27:18 --> UTF-8 Support Enabled
+INFO - 2023-08-13 23:27:18 --> Utf8 Class Initialized
+INFO - 2023-08-13 23:27:18 --> URI Class Initialized
+INFO - 2023-08-13 23:27:18 --> Router Class Initialized
+INFO - 2023-08-13 23:27:18 --> Output Class Initialized
+INFO - 2023-08-13 23:27:18 --> Security Class Initialized
+DEBUG - 2023-08-13 23:27:18 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-13 23:27:18 --> Input Class Initialized
+INFO - 2023-08-13 23:27:18 --> Language Class Initialized
+INFO - 2023-08-13 23:27:18 --> Loader Class Initialized
+INFO - 2023-08-13 23:27:18 --> Helper loaded: url_helper
+INFO - 2023-08-13 23:27:18 --> Controller Class Initialized
+INFO - 2023-08-13 23:27:18 --> Model "Mauth" initialized
+INFO - 2023-08-13 23:27:18 --> Database Driver Class Initialized
+INFO - 2023-08-13 23:27:18 --> Model "Mconfigkey" initialized
+INFO - 2023-08-13 23:27:18 --> Language file loaded: language/english/profiler_lang.php
+INFO - 2023-08-13 23:27:18 --> Profiler Class Initialized
+INFO - 2023-08-13 23:27:18 --> Helper loaded: text_helper
+ERROR - 2023-08-13 23:27:18 --> Query error: [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Invalid column name 'USERNAME'. - Invalid query: INSERT INTO "LOG_MY_ACTIVITIES" ("DATABASE_NAME", "TOTAL_QUERIES", "QUERIES", "EVENT", "MODE_SOURCE", "IP_ADDRESS", "USERNAME") VALUES ('dbit', 2, 'SELECT CASE WHEN (@@OPTIONS | 256) = @@OPTIONS THEN 1 ELSE 0 END AS qi; EXEC SP_USERLOGIN
+            @VUSERNAME=&#039;pemiaw&#039;,
+            @VUSERPASSWORD=&#039;pemiaw&#039;
+        ; ', 'home', 'auth', '::1', 'admin')
+INFO - 2023-08-13 23:27:18 --> Language file loaded: language/english/db_lang.php
+ERROR - 2023-08-13 23:27:18 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at X:\htdocs\pabean-stable\dummyservice\application\controllers\Home.php:64) X:\htdocs\pabean-stable\dummyservice\system\core\Common.php 570
+INFO - 2023-08-13 23:27:59 --> Config Class Initialized
+INFO - 2023-08-13 23:27:59 --> Hooks Class Initialized
+DEBUG - 2023-08-13 23:27:59 --> UTF-8 Support Enabled
+INFO - 2023-08-13 23:27:59 --> Utf8 Class Initialized
+INFO - 2023-08-13 23:27:59 --> URI Class Initialized
+INFO - 2023-08-13 23:27:59 --> Router Class Initialized
+INFO - 2023-08-13 23:27:59 --> Output Class Initialized
+INFO - 2023-08-13 23:27:59 --> Security Class Initialized
+DEBUG - 2023-08-13 23:27:59 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-13 23:27:59 --> Input Class Initialized
+INFO - 2023-08-13 23:27:59 --> Language Class Initialized
+INFO - 2023-08-13 23:27:59 --> Loader Class Initialized
+INFO - 2023-08-13 23:27:59 --> Helper loaded: url_helper
+INFO - 2023-08-13 23:27:59 --> Controller Class Initialized
+INFO - 2023-08-13 23:27:59 --> Model "Mauth" initialized
+INFO - 2023-08-13 23:27:59 --> Database Driver Class Initialized
+INFO - 2023-08-13 23:27:59 --> Model "Mconfigkey" initialized
+INFO - 2023-08-13 23:27:59 --> Language file loaded: language/english/profiler_lang.php
+INFO - 2023-08-13 23:27:59 --> Profiler Class Initialized
+INFO - 2023-08-13 23:27:59 --> Helper loaded: text_helper
+INFO - 2023-08-13 23:27:59 --> Final output sent to browser
+DEBUG - 2023-08-13 23:27:59 --> Total execution time: 0.2642
+INFO - 2023-08-13 23:32:10 --> Config Class Initialized
+INFO - 2023-08-13 23:32:10 --> Hooks Class Initialized
+DEBUG - 2023-08-13 23:32:10 --> UTF-8 Support Enabled
+INFO - 2023-08-13 23:32:10 --> Utf8 Class Initialized
+INFO - 2023-08-13 23:32:10 --> URI Class Initialized
+INFO - 2023-08-13 23:32:10 --> Router Class Initialized
+INFO - 2023-08-13 23:32:10 --> Output Class Initialized
+INFO - 2023-08-13 23:32:10 --> Security Class Initialized
+DEBUG - 2023-08-13 23:32:10 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-13 23:32:10 --> Input Class Initialized
+INFO - 2023-08-13 23:32:10 --> Language Class Initialized
+INFO - 2023-08-13 23:32:10 --> Loader Class Initialized
+INFO - 2023-08-13 23:32:10 --> Helper loaded: url_helper
+INFO - 2023-08-13 23:32:10 --> Controller Class Initialized
+INFO - 2023-08-13 23:32:10 --> Model "Mconfigkey" initialized
+INFO - 2023-08-13 23:32:10 --> Model "Mmatrix" initialized
+INFO - 2023-08-13 23:32:10 --> Database Driver Class Initialized
+INFO - 2023-08-13 23:32:10 --> Language file loaded: language/english/profiler_lang.php
+INFO - 2023-08-13 23:32:10 --> Profiler Class Initialized
+INFO - 2023-08-13 23:32:10 --> Helper loaded: text_helper
+ERROR - 2023-08-13 23:32:10 --> Severity: error --> Exception: Call to undefined method Home::current_url() X:\htdocs\pabean-stable\dummyservice\application\libraries\MY_Profiler.php 18
+INFO - 2023-08-13 23:32:50 --> Config Class Initialized
+INFO - 2023-08-13 23:32:50 --> Hooks Class Initialized
+DEBUG - 2023-08-13 23:32:50 --> UTF-8 Support Enabled
+INFO - 2023-08-13 23:32:50 --> Utf8 Class Initialized
+INFO - 2023-08-13 23:32:50 --> URI Class Initialized
+INFO - 2023-08-13 23:32:50 --> Router Class Initialized
+INFO - 2023-08-13 23:32:50 --> Output Class Initialized
+INFO - 2023-08-13 23:32:50 --> Security Class Initialized
+DEBUG - 2023-08-13 23:32:50 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-13 23:32:50 --> Input Class Initialized
+INFO - 2023-08-13 23:32:50 --> Language Class Initialized
+INFO - 2023-08-13 23:32:50 --> Loader Class Initialized
+INFO - 2023-08-13 23:32:50 --> Helper loaded: url_helper
+INFO - 2023-08-13 23:32:50 --> Controller Class Initialized
+INFO - 2023-08-13 23:32:50 --> Model "Mconfigkey" initialized
+INFO - 2023-08-13 23:32:50 --> Model "Mmatrix" initialized
+INFO - 2023-08-13 23:32:50 --> Database Driver Class Initialized
+INFO - 2023-08-13 23:32:50 --> Language file loaded: language/english/profiler_lang.php
+INFO - 2023-08-13 23:32:50 --> Profiler Class Initialized
+INFO - 2023-08-13 23:32:50 --> Helper loaded: text_helper
+ERROR - 2023-08-13 23:32:50 --> Severity: error --> Exception: Call to undefined method Home::current_url() X:\htdocs\pabean-stable\dummyservice\application\libraries\MY_Profiler.php 18
+INFO - 2023-08-13 23:33:25 --> Config Class Initialized
+INFO - 2023-08-13 23:33:25 --> Hooks Class Initialized
+DEBUG - 2023-08-13 23:33:25 --> UTF-8 Support Enabled
+INFO - 2023-08-13 23:33:25 --> Utf8 Class Initialized
+INFO - 2023-08-13 23:33:25 --> URI Class Initialized
+INFO - 2023-08-13 23:33:25 --> Router Class Initialized
+INFO - 2023-08-13 23:33:25 --> Output Class Initialized
+INFO - 2023-08-13 23:33:25 --> Security Class Initialized
+DEBUG - 2023-08-13 23:33:25 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-13 23:33:25 --> Input Class Initialized
+INFO - 2023-08-13 23:33:25 --> Language Class Initialized
+INFO - 2023-08-13 23:33:25 --> Loader Class Initialized
+INFO - 2023-08-13 23:33:25 --> Helper loaded: url_helper
+INFO - 2023-08-13 23:33:25 --> Controller Class Initialized
+INFO - 2023-08-13 23:33:25 --> Model "Mconfigkey" initialized
+INFO - 2023-08-13 23:33:25 --> Language file loaded: language/english/profiler_lang.php
+INFO - 2023-08-13 23:33:25 --> Profiler Class Initialized
+INFO - 2023-08-13 23:33:25 --> Helper loaded: text_helper
+INFO - 2023-08-13 23:33:25 --> Database Driver Class Initialized
+ERROR - 2023-08-13 23:33:26 --> Severity: error --> Exception: Call to undefined method Home::current_url() X:\htdocs\pabean-stable\dummyservice\application\libraries\MY_Profiler.php 18
+INFO - 2023-08-13 23:37:38 --> Config Class Initialized
+INFO - 2023-08-13 23:37:38 --> Hooks Class Initialized
+DEBUG - 2023-08-13 23:37:38 --> UTF-8 Support Enabled
+INFO - 2023-08-13 23:37:38 --> Utf8 Class Initialized
+INFO - 2023-08-13 23:37:38 --> URI Class Initialized
+INFO - 2023-08-13 23:37:38 --> Router Class Initialized
+INFO - 2023-08-13 23:37:38 --> Output Class Initialized
+INFO - 2023-08-13 23:37:38 --> Security Class Initialized
+DEBUG - 2023-08-13 23:37:38 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-13 23:37:38 --> Input Class Initialized
+INFO - 2023-08-13 23:37:38 --> Language Class Initialized
+INFO - 2023-08-13 23:37:38 --> Loader Class Initialized
+INFO - 2023-08-13 23:37:38 --> Helper loaded: url_helper
+INFO - 2023-08-13 23:37:38 --> Controller Class Initialized
+INFO - 2023-08-13 23:37:38 --> Model "Mauth" initialized
+INFO - 2023-08-13 23:37:38 --> Database Driver Class Initialized
+INFO - 2023-08-13 23:37:39 --> Model "Mconfigkey" initialized
+ERROR - 2023-08-13 23:37:39 --> Severity: error --> Exception: syntax error, unexpected '->' (T_OBJECT_OPERATOR) X:\htdocs\pabean-stable\dummyservice\application\libraries\MY_Profiler.php 20
+ERROR - 2023-08-13 23:37:39 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at X:\htdocs\pabean-stable\dummyservice\application\controllers\Home.php:64) X:\htdocs\pabean-stable\dummyservice\system\core\Common.php 570
+INFO - 2023-08-13 23:58:27 --> Config Class Initialized
+INFO - 2023-08-13 23:58:27 --> Hooks Class Initialized
+DEBUG - 2023-08-13 23:58:27 --> UTF-8 Support Enabled
+INFO - 2023-08-13 23:58:27 --> Utf8 Class Initialized
+INFO - 2023-08-13 23:58:27 --> URI Class Initialized
+INFO - 2023-08-13 23:58:27 --> Router Class Initialized
+INFO - 2023-08-13 23:58:27 --> Output Class Initialized
+INFO - 2023-08-13 23:58:27 --> Security Class Initialized
+DEBUG - 2023-08-13 23:58:27 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-13 23:58:27 --> Input Class Initialized
+INFO - 2023-08-13 23:58:27 --> Language Class Initialized
+INFO - 2023-08-13 23:58:27 --> Loader Class Initialized
+INFO - 2023-08-13 23:58:27 --> Helper loaded: url_helper
+INFO - 2023-08-13 23:58:27 --> Controller Class Initialized
+INFO - 2023-08-13 23:58:27 --> Model "Mauth" initialized
+INFO - 2023-08-13 23:58:27 --> Database Driver Class Initialized
+INFO - 2023-08-13 23:58:27 --> Model "Mconfigkey" initialized
+INFO - 2023-08-13 23:58:27 --> Language file loaded: language/english/profiler_lang.php
+INFO - 2023-08-13 23:58:27 --> Profiler Class Initialized
+INFO - 2023-08-13 23:58:27 --> Helper loaded: text_helper
+INFO - 2023-08-13 23:58:27 --> Final output sent to browser
+DEBUG - 2023-08-13 23:58:27 --> Total execution time: 0.2922

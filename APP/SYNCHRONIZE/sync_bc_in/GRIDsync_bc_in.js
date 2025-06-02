@@ -1,0 +1,115 @@
+Ext.define("TDK.SYNCHRONIZE.sync_bc_in.GRIDsync_bc_in", {
+  extend: "Ext.form.Panel",
+  alias: "widget.GRIDsync_bc_in",
+  reference: "GRIDsync_bc_in",
+  frame: false,
+  border: false,
+  autoScroll: true,
+  layout: { type: "vbox", pack: "start", align: "stretch" },
+  items: [
+    {
+      xtype: "grid",
+      pid: "GRIDsync_bc_in",
+      emptyText: "No Matching Records",
+      autoScroll: true,
+      flex: 1,
+      plugins: ["filterfield"],
+      viewConfig: {
+        enableTextSelection: true,
+        getRowClass: function (record) {
+          return record.get("NOMOR_AJU") === null || record.get("NOMOR_DAFTAR") === null ? "gridrow-red" : "";
+        },
+      },
+      columns: [
+        { xtype: "rownumberer", width: 50 },
+        {
+          xtype: "actioncolumn",
+          width: 35,
+          align: "center",
+          menuDisabled: true,
+          sortable: false,
+          items: [
+            {
+              icon: vconfig.getstyle + "icon/grid.png",
+              handler: "btdetail_rows_click",
+              tooltip: "Detail Dokumen",
+            },
+          ],
+        },
+        { sortable: true, width: 150, filter: { xtype: "textfield" }, header: "DOKUMEN", dataIndex: "NOMOR_DOKUMEN" },
+        { sortable: true, width: 100, filter: { xtype: "textfield" }, header: "TGL DOKUMEN", dataIndex: "TANGGAL_DOKUMEN" },
+        { sortable: true, width: 250, filter: { xtype: "textfield" }, header: "NO AJU", dataIndex: "NOMOR_AJU" },
+        { sortable: true, width: 100, filter: { xtype: "textfield" }, header: "TANGGAL AJU", dataIndex: "TANGGAL_AJU" },
+        { sortable: true, width: 100, filter: { xtype: "textfield" }, header: "NO DAFTAR", dataIndex: "NOMOR_DAFTAR" },
+        { sortable: true, width: 100, filter: { xtype: "textfield" }, header: "TANGGAL DAFTAR", dataIndex: "TANGGAL_DAFTAR" },
+        { sortable: true, width: 65, filter: { xtype: "textfield" }, header: "BC TYPE", dataIndex: "KODE_DOKUMEN_PABEAN" },
+        { sortable: true, width: 65, filter: { xtype: "textfield" }, header: "STATUS", dataIndex: "KODE_STATUS" },
+        { sortable: true, width: 200, filter: { xtype: "textfield" }, header: "STATUS URAIAN", dataIndex: "URAIAN_STATUS" },
+        { sortable: true, width: 350, filter: { xtype: "textfield" }, header: "SUPPLIER", dataIndex: "NAMA_PEMASOK" },
+      ],
+      bbar: {
+        xtype: "pagingtoolbar",
+        displayInfo: true,
+        displayMsg: "Displaying topics {0} - {1} of {2}",
+        emptyMsg: "No topics to display",
+      },
+      listeners: {
+        afterrender: "GRIDsync_bc_in_load",
+      },
+    },
+  ],
+  dockedItems: [
+    {
+      xtype: "toolbar",
+      height: 30,
+      dock: "top",
+      items: [
+        "-",
+        { xtype: "button", text: "Refresh", pid: "btresfresh", icon: vconfig.getstyle + "icon/update.ico", tooltip: "Refresh Data" },
+        "-",
+        {
+          xtype: "combobox",
+          name: "CBO_FILTERKEY",
+          fieldLabel: "Pilih Tahun AJU",
+          labelWidth: 100,
+          width: 200,
+          displayField: "TAHUN_AJU",
+          valueField: "TAHUN_AJU",
+          fieldCls: "fieldinput",
+          allowBlank: false,
+          queryMode: "local",
+          forceSelection: true,
+          typeAhead: true,
+          minChars: 0,
+          anyMatch: true,
+          value: moment(new Date()).format("YYYY"),
+          store: {
+            autoLoad: true,
+            remoteSort: false,
+            remoteFilter: false,
+            pageSize: 0,
+            proxy: {
+              type: "ajax",
+              disableCaching: false,
+              noCache: false,
+              headers: { Authorization: "Bearer " + localStorage.getItem("ST_NJC_JWT") },
+              actionMethods: { read: "POST" },
+              url: vconfig.service_api + "sync_bc_in/sync_bc_ins",
+              extraParams: {
+                method: "read_tahun_aju",
+              },
+              reader: {
+                type: "json",
+                rootProperty: "Rows",
+                totalProperty: "TotalRows",
+                successProperty: "success",
+              },
+            },
+          },
+        },
+        "-",
+      ],
+      // other options....
+    },
+  ],
+});

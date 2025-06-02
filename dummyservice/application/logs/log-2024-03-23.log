@@ -1,0 +1,1808 @@
+INFO - 2024-03-23 04:11:46 --> Config Class Initialized
+INFO - 2024-03-23 04:11:46 --> Hooks Class Initialized
+DEBUG - 2024-03-23 04:11:46 --> UTF-8 Support Enabled
+INFO - 2024-03-23 04:11:46 --> Utf8 Class Initialized
+INFO - 2024-03-23 04:11:46 --> URI Class Initialized
+INFO - 2024-03-23 04:11:46 --> Router Class Initialized
+INFO - 2024-03-23 04:11:47 --> Output Class Initialized
+INFO - 2024-03-23 04:11:47 --> Security Class Initialized
+DEBUG - 2024-03-23 04:11:47 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-03-23 04:11:47 --> Input Class Initialized
+INFO - 2024-03-23 04:11:47 --> Language Class Initialized
+INFO - 2024-03-23 04:11:47 --> Loader Class Initialized
+INFO - 2024-03-23 04:11:47 --> Helper loaded: url_helper
+INFO - 2024-03-23 04:11:47 --> Database Driver Class Initialized
+INFO - 2024-03-23 04:11:47 --> Controller Class Initialized
+INFO - 2024-03-23 04:11:47 --> Model "Mconfigkey" initialized
+INFO - 2024-03-23 04:11:47 --> Final output sent to browser
+DEBUG - 2024-03-23 04:11:47 --> Total execution time: 0.1982
+INFO - 2024-03-23 04:11:52 --> Config Class Initialized
+INFO - 2024-03-23 04:11:52 --> Hooks Class Initialized
+DEBUG - 2024-03-23 04:11:52 --> UTF-8 Support Enabled
+INFO - 2024-03-23 04:11:52 --> Utf8 Class Initialized
+INFO - 2024-03-23 04:11:52 --> URI Class Initialized
+INFO - 2024-03-23 04:11:52 --> Router Class Initialized
+INFO - 2024-03-23 04:11:52 --> Output Class Initialized
+INFO - 2024-03-23 04:11:52 --> Security Class Initialized
+DEBUG - 2024-03-23 04:11:52 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-03-23 04:11:52 --> Input Class Initialized
+INFO - 2024-03-23 04:11:52 --> Language Class Initialized
+INFO - 2024-03-23 04:11:52 --> Loader Class Initialized
+INFO - 2024-03-23 04:11:52 --> Helper loaded: url_helper
+INFO - 2024-03-23 04:11:52 --> Database Driver Class Initialized
+INFO - 2024-03-23 04:11:52 --> Controller Class Initialized
+INFO - 2024-03-23 04:11:52 --> Model "Mauth" initialized
+INFO - 2024-03-23 04:11:52 --> Final output sent to browser
+DEBUG - 2024-03-23 04:11:52 --> Total execution time: 0.0210
+INFO - 2024-03-23 04:11:55 --> Config Class Initialized
+INFO - 2024-03-23 04:11:55 --> Hooks Class Initialized
+DEBUG - 2024-03-23 04:11:55 --> UTF-8 Support Enabled
+INFO - 2024-03-23 04:11:55 --> Utf8 Class Initialized
+INFO - 2024-03-23 04:11:55 --> URI Class Initialized
+INFO - 2024-03-23 04:11:55 --> Router Class Initialized
+INFO - 2024-03-23 04:11:55 --> Output Class Initialized
+INFO - 2024-03-23 04:11:55 --> Security Class Initialized
+DEBUG - 2024-03-23 04:11:55 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-03-23 04:11:55 --> Input Class Initialized
+INFO - 2024-03-23 04:11:55 --> Language Class Initialized
+INFO - 2024-03-23 04:11:55 --> Loader Class Initialized
+INFO - 2024-03-23 04:11:55 --> Helper loaded: url_helper
+INFO - 2024-03-23 04:11:55 --> Database Driver Class Initialized
+INFO - 2024-03-23 04:11:55 --> Controller Class Initialized
+INFO - 2024-03-23 04:11:55 --> Model "Mauth" initialized
+INFO - 2024-03-23 04:11:55 --> Final output sent to browser
+DEBUG - 2024-03-23 04:11:55 --> Total execution time: 0.0193
+INFO - 2024-03-23 04:11:59 --> Config Class Initialized
+INFO - 2024-03-23 04:11:59 --> Hooks Class Initialized
+DEBUG - 2024-03-23 04:11:59 --> UTF-8 Support Enabled
+INFO - 2024-03-23 04:11:59 --> Utf8 Class Initialized
+INFO - 2024-03-23 04:11:59 --> URI Class Initialized
+INFO - 2024-03-23 04:11:59 --> Router Class Initialized
+INFO - 2024-03-23 04:11:59 --> Output Class Initialized
+INFO - 2024-03-23 04:11:59 --> Security Class Initialized
+DEBUG - 2024-03-23 04:11:59 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-03-23 04:11:59 --> Input Class Initialized
+INFO - 2024-03-23 04:11:59 --> Language Class Initialized
+INFO - 2024-03-23 04:11:59 --> Loader Class Initialized
+INFO - 2024-03-23 04:11:59 --> Helper loaded: url_helper
+INFO - 2024-03-23 04:11:59 --> Database Driver Class Initialized
+INFO - 2024-03-23 04:11:59 --> Controller Class Initialized
+INFO - 2024-03-23 04:11:59 --> Model "Mauth" initialized
+INFO - 2024-03-23 04:11:59 --> Final output sent to browser
+DEBUG - 2024-03-23 04:11:59 --> Total execution time: 0.0192
+INFO - 2024-03-23 04:12:00 --> Config Class Initialized
+INFO - 2024-03-23 04:12:00 --> Hooks Class Initialized
+DEBUG - 2024-03-23 04:12:00 --> UTF-8 Support Enabled
+INFO - 2024-03-23 04:12:00 --> Utf8 Class Initialized
+INFO - 2024-03-23 04:12:00 --> URI Class Initialized
+INFO - 2024-03-23 04:12:00 --> Router Class Initialized
+INFO - 2024-03-23 04:12:00 --> Output Class Initialized
+INFO - 2024-03-23 04:12:00 --> Security Class Initialized
+DEBUG - 2024-03-23 04:12:00 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-03-23 04:12:00 --> Input Class Initialized
+INFO - 2024-03-23 04:12:00 --> Language Class Initialized
+INFO - 2024-03-23 04:12:00 --> Loader Class Initialized
+INFO - 2024-03-23 04:12:00 --> Helper loaded: url_helper
+INFO - 2024-03-23 04:12:00 --> Database Driver Class Initialized
+INFO - 2024-03-23 04:12:00 --> Controller Class Initialized
+INFO - 2024-03-23 04:12:00 --> Model "Mauth" initialized
+INFO - 2024-03-23 04:12:00 --> Model "Mconfigkey" initialized
+INFO - 2024-03-23 04:12:00 --> Final output sent to browser
+DEBUG - 2024-03-23 04:12:00 --> Total execution time: 0.0241
+INFO - 2024-03-23 04:17:40 --> Config Class Initialized
+INFO - 2024-03-23 04:17:40 --> Hooks Class Initialized
+DEBUG - 2024-03-23 04:17:40 --> UTF-8 Support Enabled
+INFO - 2024-03-23 04:17:40 --> Utf8 Class Initialized
+INFO - 2024-03-23 04:17:40 --> URI Class Initialized
+INFO - 2024-03-23 04:17:40 --> Router Class Initialized
+INFO - 2024-03-23 04:17:40 --> Output Class Initialized
+INFO - 2024-03-23 04:17:40 --> Security Class Initialized
+DEBUG - 2024-03-23 04:17:40 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-03-23 04:17:40 --> Input Class Initialized
+INFO - 2024-03-23 04:17:40 --> Language Class Initialized
+INFO - 2024-03-23 04:17:40 --> Loader Class Initialized
+INFO - 2024-03-23 04:17:40 --> Helper loaded: url_helper
+INFO - 2024-03-23 04:17:40 --> Database Driver Class Initialized
+INFO - 2024-03-23 04:17:40 --> Controller Class Initialized
+INFO - 2024-03-23 04:17:40 --> Model "Mauth" initialized
+INFO - 2024-03-23 04:17:40 --> Model "Mconfigkey" initialized
+INFO - 2024-03-23 04:17:40 --> Final output sent to browser
+DEBUG - 2024-03-23 04:17:40 --> Total execution time: 0.0251
+INFO - 2024-03-23 04:19:30 --> Config Class Initialized
+INFO - 2024-03-23 04:19:30 --> Hooks Class Initialized
+DEBUG - 2024-03-23 04:19:30 --> UTF-8 Support Enabled
+INFO - 2024-03-23 04:19:30 --> Utf8 Class Initialized
+INFO - 2024-03-23 04:19:30 --> URI Class Initialized
+INFO - 2024-03-23 04:19:30 --> Router Class Initialized
+INFO - 2024-03-23 04:19:30 --> Output Class Initialized
+INFO - 2024-03-23 04:19:30 --> Security Class Initialized
+DEBUG - 2024-03-23 04:19:30 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-03-23 04:19:30 --> Input Class Initialized
+INFO - 2024-03-23 04:19:30 --> Language Class Initialized
+INFO - 2024-03-23 04:19:30 --> Loader Class Initialized
+INFO - 2024-03-23 04:19:30 --> Helper loaded: url_helper
+INFO - 2024-03-23 04:19:30 --> Database Driver Class Initialized
+INFO - 2024-03-23 04:19:30 --> Controller Class Initialized
+INFO - 2024-03-23 04:19:30 --> Model "Mconfigkey" initialized
+INFO - 2024-03-23 04:19:30 --> Final output sent to browser
+DEBUG - 2024-03-23 04:19:30 --> Total execution time: 0.0204
+INFO - 2024-03-23 04:19:44 --> Config Class Initialized
+INFO - 2024-03-23 04:19:44 --> Hooks Class Initialized
+DEBUG - 2024-03-23 04:19:44 --> UTF-8 Support Enabled
+INFO - 2024-03-23 04:19:44 --> Utf8 Class Initialized
+INFO - 2024-03-23 04:19:44 --> URI Class Initialized
+INFO - 2024-03-23 04:19:44 --> Router Class Initialized
+INFO - 2024-03-23 04:19:44 --> Output Class Initialized
+INFO - 2024-03-23 04:19:44 --> Security Class Initialized
+DEBUG - 2024-03-23 04:19:44 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-03-23 04:19:44 --> Input Class Initialized
+INFO - 2024-03-23 04:19:44 --> Language Class Initialized
+INFO - 2024-03-23 04:19:44 --> Loader Class Initialized
+INFO - 2024-03-23 04:19:44 --> Helper loaded: url_helper
+INFO - 2024-03-23 04:19:44 --> Database Driver Class Initialized
+INFO - 2024-03-23 04:19:44 --> Controller Class Initialized
+INFO - 2024-03-23 04:19:44 --> Model "Mconfigkey" initialized
+INFO - 2024-03-23 04:19:44 --> Final output sent to browser
+DEBUG - 2024-03-23 04:19:44 --> Total execution time: 0.0193
+INFO - 2024-03-23 04:19:46 --> Config Class Initialized
+INFO - 2024-03-23 04:19:46 --> Hooks Class Initialized
+DEBUG - 2024-03-23 04:19:46 --> UTF-8 Support Enabled
+INFO - 2024-03-23 04:19:46 --> Utf8 Class Initialized
+INFO - 2024-03-23 04:19:46 --> URI Class Initialized
+INFO - 2024-03-23 04:19:46 --> Router Class Initialized
+INFO - 2024-03-23 04:19:46 --> Output Class Initialized
+INFO - 2024-03-23 04:19:46 --> Security Class Initialized
+DEBUG - 2024-03-23 04:19:46 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-03-23 04:19:46 --> Input Class Initialized
+INFO - 2024-03-23 04:19:46 --> Language Class Initialized
+INFO - 2024-03-23 04:19:46 --> Loader Class Initialized
+INFO - 2024-03-23 04:19:46 --> Helper loaded: url_helper
+INFO - 2024-03-23 04:19:46 --> Database Driver Class Initialized
+INFO - 2024-03-23 04:19:46 --> Controller Class Initialized
+INFO - 2024-03-23 04:19:46 --> Model "Mconfigkey" initialized
+INFO - 2024-03-23 04:19:46 --> Model "Mgoods_control" initialized
+INFO - 2024-03-23 04:19:46 --> Final output sent to browser
+DEBUG - 2024-03-23 04:19:46 --> Total execution time: 0.0302
+INFO - 2024-03-23 04:25:33 --> Config Class Initialized
+INFO - 2024-03-23 04:25:33 --> Hooks Class Initialized
+DEBUG - 2024-03-23 04:25:33 --> UTF-8 Support Enabled
+INFO - 2024-03-23 04:25:33 --> Utf8 Class Initialized
+INFO - 2024-03-23 04:25:33 --> URI Class Initialized
+INFO - 2024-03-23 04:25:33 --> Router Class Initialized
+INFO - 2024-03-23 04:25:33 --> Output Class Initialized
+INFO - 2024-03-23 04:25:33 --> Security Class Initialized
+DEBUG - 2024-03-23 04:25:33 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-03-23 04:25:33 --> Input Class Initialized
+INFO - 2024-03-23 04:25:33 --> Language Class Initialized
+INFO - 2024-03-23 04:25:33 --> Loader Class Initialized
+INFO - 2024-03-23 04:25:33 --> Helper loaded: url_helper
+INFO - 2024-03-23 04:25:33 --> Database Driver Class Initialized
+INFO - 2024-03-23 04:25:33 --> Controller Class Initialized
+INFO - 2024-03-23 04:25:33 --> Model "Mconfigkey" initialized
+INFO - 2024-03-23 04:25:33 --> Model "Mgoods_in" initialized
+INFO - 2024-03-23 04:25:33 --> Final output sent to browser
+DEBUG - 2024-03-23 04:25:33 --> Total execution time: 0.0218
+INFO - 2024-03-23 04:26:21 --> Config Class Initialized
+INFO - 2024-03-23 04:26:21 --> Hooks Class Initialized
+DEBUG - 2024-03-23 04:26:21 --> UTF-8 Support Enabled
+INFO - 2024-03-23 04:26:21 --> Utf8 Class Initialized
+INFO - 2024-03-23 04:26:21 --> URI Class Initialized
+INFO - 2024-03-23 04:26:21 --> Router Class Initialized
+INFO - 2024-03-23 04:26:21 --> Output Class Initialized
+INFO - 2024-03-23 04:26:21 --> Security Class Initialized
+DEBUG - 2024-03-23 04:26:21 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-03-23 04:26:21 --> Input Class Initialized
+INFO - 2024-03-23 04:26:21 --> Language Class Initialized
+INFO - 2024-03-23 04:26:21 --> Loader Class Initialized
+INFO - 2024-03-23 04:26:21 --> Helper loaded: url_helper
+INFO - 2024-03-23 04:26:21 --> Database Driver Class Initialized
+INFO - 2024-03-23 04:26:21 --> Controller Class Initialized
+INFO - 2024-03-23 04:26:21 --> Model "Mconfigkey" initialized
+INFO - 2024-03-23 04:26:21 --> Final output sent to browser
+DEBUG - 2024-03-23 04:26:21 --> Total execution time: 0.0197
+INFO - 2024-03-23 04:26:25 --> Config Class Initialized
+INFO - 2024-03-23 04:26:25 --> Hooks Class Initialized
+DEBUG - 2024-03-23 04:26:25 --> UTF-8 Support Enabled
+INFO - 2024-03-23 04:26:25 --> Utf8 Class Initialized
+INFO - 2024-03-23 04:26:25 --> URI Class Initialized
+INFO - 2024-03-23 04:26:25 --> Router Class Initialized
+INFO - 2024-03-23 04:26:25 --> Output Class Initialized
+INFO - 2024-03-23 04:26:25 --> Security Class Initialized
+DEBUG - 2024-03-23 04:26:25 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-03-23 04:26:25 --> Input Class Initialized
+INFO - 2024-03-23 04:26:25 --> Language Class Initialized
+INFO - 2024-03-23 04:26:25 --> Loader Class Initialized
+INFO - 2024-03-23 04:26:25 --> Helper loaded: url_helper
+INFO - 2024-03-23 04:26:25 --> Database Driver Class Initialized
+INFO - 2024-03-23 04:26:25 --> Controller Class Initialized
+INFO - 2024-03-23 04:26:25 --> Model "Mconfigkey" initialized
+INFO - 2024-03-23 04:26:25 --> Model "Mgoods_control" initialized
+INFO - 2024-03-23 04:26:25 --> Final output sent to browser
+DEBUG - 2024-03-23 04:26:25 --> Total execution time: 0.0207
+INFO - 2024-03-23 04:26:41 --> Config Class Initialized
+INFO - 2024-03-23 04:26:41 --> Hooks Class Initialized
+DEBUG - 2024-03-23 04:26:41 --> UTF-8 Support Enabled
+INFO - 2024-03-23 04:26:41 --> Utf8 Class Initialized
+INFO - 2024-03-23 04:26:41 --> URI Class Initialized
+INFO - 2024-03-23 04:26:41 --> Router Class Initialized
+INFO - 2024-03-23 04:26:41 --> Output Class Initialized
+INFO - 2024-03-23 04:26:41 --> Security Class Initialized
+DEBUG - 2024-03-23 04:26:41 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-03-23 04:26:41 --> Input Class Initialized
+INFO - 2024-03-23 04:26:41 --> Language Class Initialized
+INFO - 2024-03-23 04:26:41 --> Loader Class Initialized
+INFO - 2024-03-23 04:26:41 --> Helper loaded: url_helper
+INFO - 2024-03-23 04:26:41 --> Database Driver Class Initialized
+INFO - 2024-03-23 04:26:41 --> Controller Class Initialized
+INFO - 2024-03-23 04:26:41 --> Model "Mconfigkey" initialized
+INFO - 2024-03-23 04:26:41 --> Final output sent to browser
+DEBUG - 2024-03-23 04:26:41 --> Total execution time: 0.0191
+INFO - 2024-03-23 04:26:44 --> Config Class Initialized
+INFO - 2024-03-23 04:26:44 --> Hooks Class Initialized
+DEBUG - 2024-03-23 04:26:44 --> UTF-8 Support Enabled
+INFO - 2024-03-23 04:26:44 --> Utf8 Class Initialized
+INFO - 2024-03-23 04:26:44 --> URI Class Initialized
+INFO - 2024-03-23 04:26:44 --> Router Class Initialized
+INFO - 2024-03-23 04:26:44 --> Output Class Initialized
+INFO - 2024-03-23 04:26:44 --> Security Class Initialized
+DEBUG - 2024-03-23 04:26:44 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-03-23 04:26:44 --> Input Class Initialized
+INFO - 2024-03-23 04:26:44 --> Language Class Initialized
+INFO - 2024-03-23 04:26:44 --> Loader Class Initialized
+INFO - 2024-03-23 04:26:44 --> Helper loaded: url_helper
+INFO - 2024-03-23 04:26:44 --> Database Driver Class Initialized
+INFO - 2024-03-23 04:26:44 --> Controller Class Initialized
+INFO - 2024-03-23 04:26:44 --> Model "Mconfigkey" initialized
+INFO - 2024-03-23 04:26:44 --> Model "Mgoods_control" initialized
+INFO - 2024-03-23 04:26:44 --> Final output sent to browser
+DEBUG - 2024-03-23 04:26:44 --> Total execution time: 0.0210
+INFO - 2024-03-23 04:26:45 --> Config Class Initialized
+INFO - 2024-03-23 04:26:45 --> Hooks Class Initialized
+DEBUG - 2024-03-23 04:26:45 --> UTF-8 Support Enabled
+INFO - 2024-03-23 04:26:45 --> Utf8 Class Initialized
+INFO - 2024-03-23 04:26:45 --> URI Class Initialized
+INFO - 2024-03-23 04:26:45 --> Router Class Initialized
+INFO - 2024-03-23 04:26:45 --> Output Class Initialized
+INFO - 2024-03-23 04:26:45 --> Security Class Initialized
+DEBUG - 2024-03-23 04:26:45 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-03-23 04:26:45 --> Input Class Initialized
+INFO - 2024-03-23 04:26:45 --> Language Class Initialized
+INFO - 2024-03-23 04:26:45 --> Loader Class Initialized
+INFO - 2024-03-23 04:26:45 --> Helper loaded: url_helper
+INFO - 2024-03-23 04:26:45 --> Database Driver Class Initialized
+INFO - 2024-03-23 04:26:45 --> Controller Class Initialized
+INFO - 2024-03-23 04:26:45 --> Model "Mconfigkey" initialized
+INFO - 2024-03-23 04:26:45 --> Final output sent to browser
+DEBUG - 2024-03-23 04:26:45 --> Total execution time: 0.0189
+INFO - 2024-03-23 04:28:06 --> Config Class Initialized
+INFO - 2024-03-23 04:28:06 --> Hooks Class Initialized
+DEBUG - 2024-03-23 04:28:06 --> UTF-8 Support Enabled
+INFO - 2024-03-23 04:28:06 --> Utf8 Class Initialized
+INFO - 2024-03-23 04:28:06 --> URI Class Initialized
+INFO - 2024-03-23 04:28:06 --> Router Class Initialized
+INFO - 2024-03-23 04:28:06 --> Output Class Initialized
+INFO - 2024-03-23 04:28:06 --> Security Class Initialized
+DEBUG - 2024-03-23 04:28:06 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-03-23 04:28:06 --> Input Class Initialized
+INFO - 2024-03-23 04:28:06 --> Language Class Initialized
+INFO - 2024-03-23 04:28:06 --> Loader Class Initialized
+INFO - 2024-03-23 04:28:06 --> Helper loaded: url_helper
+INFO - 2024-03-23 04:28:06 --> Database Driver Class Initialized
+INFO - 2024-03-23 04:28:06 --> Controller Class Initialized
+INFO - 2024-03-23 04:28:06 --> Model "Mconfigkey" initialized
+INFO - 2024-03-23 04:28:06 --> Model "Mgoods_control" initialized
+INFO - 2024-03-23 04:28:06 --> Final output sent to browser
+DEBUG - 2024-03-23 04:28:06 --> Total execution time: 0.0323
+INFO - 2024-03-23 04:29:28 --> Config Class Initialized
+INFO - 2024-03-23 04:29:28 --> Hooks Class Initialized
+DEBUG - 2024-03-23 04:29:28 --> UTF-8 Support Enabled
+INFO - 2024-03-23 04:29:28 --> Utf8 Class Initialized
+INFO - 2024-03-23 04:29:28 --> URI Class Initialized
+INFO - 2024-03-23 04:29:28 --> Router Class Initialized
+INFO - 2024-03-23 04:29:28 --> Output Class Initialized
+INFO - 2024-03-23 04:29:28 --> Security Class Initialized
+DEBUG - 2024-03-23 04:29:28 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-03-23 04:29:28 --> Input Class Initialized
+INFO - 2024-03-23 04:29:28 --> Language Class Initialized
+INFO - 2024-03-23 04:29:28 --> Loader Class Initialized
+INFO - 2024-03-23 04:29:28 --> Helper loaded: url_helper
+INFO - 2024-03-23 04:29:28 --> Database Driver Class Initialized
+INFO - 2024-03-23 04:29:28 --> Controller Class Initialized
+INFO - 2024-03-23 04:29:28 --> Model "Mconfigkey" initialized
+INFO - 2024-03-23 04:29:29 --> Final output sent to browser
+DEBUG - 2024-03-23 04:29:29 --> Total execution time: 0.0205
+INFO - 2024-03-23 04:29:31 --> Config Class Initialized
+INFO - 2024-03-23 04:29:31 --> Hooks Class Initialized
+DEBUG - 2024-03-23 04:29:31 --> UTF-8 Support Enabled
+INFO - 2024-03-23 04:29:31 --> Utf8 Class Initialized
+INFO - 2024-03-23 04:29:31 --> URI Class Initialized
+INFO - 2024-03-23 04:29:31 --> Router Class Initialized
+INFO - 2024-03-23 04:29:31 --> Output Class Initialized
+INFO - 2024-03-23 04:29:31 --> Security Class Initialized
+DEBUG - 2024-03-23 04:29:31 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-03-23 04:29:31 --> Input Class Initialized
+INFO - 2024-03-23 04:29:31 --> Language Class Initialized
+INFO - 2024-03-23 04:29:31 --> Loader Class Initialized
+INFO - 2024-03-23 04:29:31 --> Helper loaded: url_helper
+INFO - 2024-03-23 04:29:31 --> Database Driver Class Initialized
+INFO - 2024-03-23 04:29:31 --> Controller Class Initialized
+INFO - 2024-03-23 04:29:31 --> Model "Mconfigkey" initialized
+INFO - 2024-03-23 04:29:31 --> Model "Mgoods_control" initialized
+INFO - 2024-03-23 04:29:31 --> Final output sent to browser
+DEBUG - 2024-03-23 04:29:31 --> Total execution time: 0.0205
+INFO - 2024-03-23 04:29:31 --> Config Class Initialized
+INFO - 2024-03-23 04:29:31 --> Hooks Class Initialized
+DEBUG - 2024-03-23 04:29:31 --> UTF-8 Support Enabled
+INFO - 2024-03-23 04:29:31 --> Utf8 Class Initialized
+INFO - 2024-03-23 04:29:31 --> URI Class Initialized
+INFO - 2024-03-23 04:29:31 --> Router Class Initialized
+INFO - 2024-03-23 04:29:31 --> Output Class Initialized
+INFO - 2024-03-23 04:29:31 --> Security Class Initialized
+DEBUG - 2024-03-23 04:29:31 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-03-23 04:29:31 --> Input Class Initialized
+INFO - 2024-03-23 04:29:31 --> Language Class Initialized
+INFO - 2024-03-23 04:29:32 --> Loader Class Initialized
+INFO - 2024-03-23 04:29:32 --> Helper loaded: url_helper
+INFO - 2024-03-23 04:29:32 --> Database Driver Class Initialized
+INFO - 2024-03-23 04:29:32 --> Controller Class Initialized
+INFO - 2024-03-23 04:29:32 --> Model "Mconfigkey" initialized
+INFO - 2024-03-23 04:29:32 --> Model "Mgoods_control" initialized
+INFO - 2024-03-23 04:29:32 --> Final output sent to browser
+DEBUG - 2024-03-23 04:29:32 --> Total execution time: 0.0292
+INFO - 2024-03-23 04:29:37 --> Config Class Initialized
+INFO - 2024-03-23 04:29:37 --> Hooks Class Initialized
+DEBUG - 2024-03-23 04:29:37 --> UTF-8 Support Enabled
+INFO - 2024-03-23 04:29:37 --> Utf8 Class Initialized
+INFO - 2024-03-23 04:29:37 --> URI Class Initialized
+INFO - 2024-03-23 04:29:37 --> Router Class Initialized
+INFO - 2024-03-23 04:29:37 --> Output Class Initialized
+INFO - 2024-03-23 04:29:37 --> Security Class Initialized
+DEBUG - 2024-03-23 04:29:37 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-03-23 04:29:37 --> Input Class Initialized
+INFO - 2024-03-23 04:29:37 --> Language Class Initialized
+INFO - 2024-03-23 04:29:37 --> Loader Class Initialized
+INFO - 2024-03-23 04:29:37 --> Helper loaded: url_helper
+INFO - 2024-03-23 04:29:37 --> Database Driver Class Initialized
+INFO - 2024-03-23 04:29:37 --> Controller Class Initialized
+INFO - 2024-03-23 04:29:37 --> Model "Mconfigkey" initialized
+INFO - 2024-03-23 04:29:37 --> Model "Mgoods_control" initialized
+INFO - 2024-03-23 04:29:37 --> Final output sent to browser
+DEBUG - 2024-03-23 04:29:37 --> Total execution time: 0.0293
+INFO - 2024-03-23 04:31:23 --> Config Class Initialized
+INFO - 2024-03-23 04:31:23 --> Hooks Class Initialized
+DEBUG - 2024-03-23 04:31:23 --> UTF-8 Support Enabled
+INFO - 2024-03-23 04:31:23 --> Utf8 Class Initialized
+INFO - 2024-03-23 04:31:23 --> URI Class Initialized
+INFO - 2024-03-23 04:31:23 --> Router Class Initialized
+INFO - 2024-03-23 04:31:23 --> Output Class Initialized
+INFO - 2024-03-23 04:31:23 --> Security Class Initialized
+DEBUG - 2024-03-23 04:31:23 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-03-23 04:31:23 --> Input Class Initialized
+INFO - 2024-03-23 04:31:23 --> Language Class Initialized
+INFO - 2024-03-23 04:31:23 --> Loader Class Initialized
+INFO - 2024-03-23 04:31:23 --> Helper loaded: url_helper
+INFO - 2024-03-23 04:31:23 --> Database Driver Class Initialized
+INFO - 2024-03-23 04:31:23 --> Controller Class Initialized
+INFO - 2024-03-23 04:31:23 --> Model "Mconfigkey" initialized
+INFO - 2024-03-23 04:31:23 --> Final output sent to browser
+DEBUG - 2024-03-23 04:31:23 --> Total execution time: 0.0199
+INFO - 2024-03-23 04:31:28 --> Config Class Initialized
+INFO - 2024-03-23 04:31:28 --> Hooks Class Initialized
+DEBUG - 2024-03-23 04:31:28 --> UTF-8 Support Enabled
+INFO - 2024-03-23 04:31:28 --> Utf8 Class Initialized
+INFO - 2024-03-23 04:31:28 --> URI Class Initialized
+INFO - 2024-03-23 04:31:28 --> Router Class Initialized
+INFO - 2024-03-23 04:31:28 --> Output Class Initialized
+INFO - 2024-03-23 04:31:28 --> Security Class Initialized
+DEBUG - 2024-03-23 04:31:28 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-03-23 04:31:28 --> Input Class Initialized
+INFO - 2024-03-23 04:31:28 --> Language Class Initialized
+INFO - 2024-03-23 04:31:28 --> Loader Class Initialized
+INFO - 2024-03-23 04:31:28 --> Helper loaded: url_helper
+INFO - 2024-03-23 04:31:28 --> Database Driver Class Initialized
+INFO - 2024-03-23 04:31:28 --> Controller Class Initialized
+INFO - 2024-03-23 04:31:28 --> Model "Mconfigkey" initialized
+INFO - 2024-03-23 04:31:28 --> Model "Mgoods_control" initialized
+INFO - 2024-03-23 04:31:28 --> Final output sent to browser
+DEBUG - 2024-03-23 04:31:28 --> Total execution time: 0.0203
+INFO - 2024-03-23 04:31:30 --> Config Class Initialized
+INFO - 2024-03-23 04:31:30 --> Hooks Class Initialized
+DEBUG - 2024-03-23 04:31:30 --> UTF-8 Support Enabled
+INFO - 2024-03-23 04:31:30 --> Utf8 Class Initialized
+INFO - 2024-03-23 04:31:30 --> URI Class Initialized
+INFO - 2024-03-23 04:31:30 --> Router Class Initialized
+INFO - 2024-03-23 04:31:30 --> Output Class Initialized
+INFO - 2024-03-23 04:31:30 --> Security Class Initialized
+DEBUG - 2024-03-23 04:31:30 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-03-23 04:31:30 --> Input Class Initialized
+INFO - 2024-03-23 04:31:30 --> Language Class Initialized
+INFO - 2024-03-23 04:31:30 --> Loader Class Initialized
+INFO - 2024-03-23 04:31:30 --> Helper loaded: url_helper
+INFO - 2024-03-23 04:31:30 --> Database Driver Class Initialized
+INFO - 2024-03-23 04:31:30 --> Controller Class Initialized
+INFO - 2024-03-23 04:31:30 --> Model "Mconfigkey" initialized
+INFO - 2024-03-23 04:31:30 --> Model "Mgoods_control" initialized
+INFO - 2024-03-23 04:31:30 --> Final output sent to browser
+DEBUG - 2024-03-23 04:31:30 --> Total execution time: 0.0293
+INFO - 2024-03-23 04:32:26 --> Config Class Initialized
+INFO - 2024-03-23 04:32:26 --> Hooks Class Initialized
+DEBUG - 2024-03-23 04:32:26 --> UTF-8 Support Enabled
+INFO - 2024-03-23 04:32:26 --> Utf8 Class Initialized
+INFO - 2024-03-23 04:32:26 --> URI Class Initialized
+INFO - 2024-03-23 04:32:26 --> Router Class Initialized
+INFO - 2024-03-23 04:32:26 --> Output Class Initialized
+INFO - 2024-03-23 04:32:26 --> Security Class Initialized
+DEBUG - 2024-03-23 04:32:26 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-03-23 04:32:26 --> Input Class Initialized
+INFO - 2024-03-23 04:32:26 --> Language Class Initialized
+INFO - 2024-03-23 04:32:26 --> Loader Class Initialized
+INFO - 2024-03-23 04:32:26 --> Helper loaded: url_helper
+INFO - 2024-03-23 04:32:26 --> Database Driver Class Initialized
+INFO - 2024-03-23 04:32:26 --> Controller Class Initialized
+INFO - 2024-03-23 04:32:26 --> Model "Mconfigkey" initialized
+INFO - 2024-03-23 04:32:26 --> Final output sent to browser
+DEBUG - 2024-03-23 04:32:26 --> Total execution time: 0.0199
+INFO - 2024-03-23 04:32:32 --> Config Class Initialized
+INFO - 2024-03-23 04:32:32 --> Hooks Class Initialized
+DEBUG - 2024-03-23 04:32:32 --> UTF-8 Support Enabled
+INFO - 2024-03-23 04:32:32 --> Utf8 Class Initialized
+INFO - 2024-03-23 04:32:32 --> URI Class Initialized
+INFO - 2024-03-23 04:32:32 --> Router Class Initialized
+INFO - 2024-03-23 04:32:32 --> Output Class Initialized
+INFO - 2024-03-23 04:32:32 --> Security Class Initialized
+DEBUG - 2024-03-23 04:32:32 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-03-23 04:32:32 --> Input Class Initialized
+INFO - 2024-03-23 04:32:32 --> Language Class Initialized
+INFO - 2024-03-23 04:32:32 --> Loader Class Initialized
+INFO - 2024-03-23 04:32:32 --> Helper loaded: url_helper
+INFO - 2024-03-23 04:32:32 --> Database Driver Class Initialized
+INFO - 2024-03-23 04:32:32 --> Controller Class Initialized
+INFO - 2024-03-23 04:32:32 --> Model "Mconfigkey" initialized
+INFO - 2024-03-23 04:32:32 --> Model "Mgoods_control" initialized
+INFO - 2024-03-23 04:32:32 --> Final output sent to browser
+DEBUG - 2024-03-23 04:32:32 --> Total execution time: 0.0205
+INFO - 2024-03-23 04:32:34 --> Config Class Initialized
+INFO - 2024-03-23 04:32:34 --> Hooks Class Initialized
+DEBUG - 2024-03-23 04:32:34 --> UTF-8 Support Enabled
+INFO - 2024-03-23 04:32:34 --> Utf8 Class Initialized
+INFO - 2024-03-23 04:32:34 --> URI Class Initialized
+INFO - 2024-03-23 04:32:34 --> Router Class Initialized
+INFO - 2024-03-23 04:32:34 --> Output Class Initialized
+INFO - 2024-03-23 04:32:34 --> Security Class Initialized
+DEBUG - 2024-03-23 04:32:34 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-03-23 04:32:34 --> Input Class Initialized
+INFO - 2024-03-23 04:32:34 --> Language Class Initialized
+INFO - 2024-03-23 04:32:34 --> Loader Class Initialized
+INFO - 2024-03-23 04:32:34 --> Helper loaded: url_helper
+INFO - 2024-03-23 04:32:34 --> Database Driver Class Initialized
+INFO - 2024-03-23 04:32:34 --> Controller Class Initialized
+INFO - 2024-03-23 04:32:34 --> Model "Mconfigkey" initialized
+INFO - 2024-03-23 04:32:34 --> Model "Minv_fg_control" initialized
+ERROR - 2024-03-23 04:32:34 --> Query error: [Microsoft][ODBC Driver 18 for SQL Server][SQL Server]Invalid object name 'wh_inv_detail'. - Invalid query: SELECT COUNT(*) AS "numrows"
+FROM (
+            SELECT 
+            A.MAPP_PARTNO, SUM(A.RECEIPT_QTY) as IN_QTY
+            FROM wh_inv_detail A
+            where
+            A.IS_FROM_AW='NO'
+            GROUP BY
+            A.MAPP_PARTNO ) A
+LEFT JOIN 
+        (
+            SELECT 
+            A.MAPP_PARTNO,SUM(A.OUT_QTY) as OUT_QTY
+            FROM wh_inv_detail_out A
+            where
+            A.IS_FROM_AW='NO'
+            GROUP BY
+            A.MAPP_PARTNO
+            ) B
+         ON "A"."MAPP_PARTNO" = "B"."MAPP_PARTNO"
+LEFT JOIN "mst_part" "C" ON "A"."MAPP_PARTNO" = "C"."PART_NO"
+INFO - 2024-03-23 04:32:34 --> Language file loaded: language/english/db_lang.php
+INFO - 2024-03-23 04:43:09 --> Config Class Initialized
+INFO - 2024-03-23 04:43:09 --> Hooks Class Initialized
+DEBUG - 2024-03-23 04:43:09 --> UTF-8 Support Enabled
+INFO - 2024-03-23 04:43:09 --> Utf8 Class Initialized
+INFO - 2024-03-23 04:43:09 --> URI Class Initialized
+INFO - 2024-03-23 04:43:09 --> Router Class Initialized
+INFO - 2024-03-23 04:43:09 --> Output Class Initialized
+INFO - 2024-03-23 04:43:09 --> Security Class Initialized
+DEBUG - 2024-03-23 04:43:09 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-03-23 04:43:09 --> Input Class Initialized
+INFO - 2024-03-23 04:43:09 --> Language Class Initialized
+INFO - 2024-03-23 04:43:09 --> Loader Class Initialized
+INFO - 2024-03-23 04:43:09 --> Helper loaded: url_helper
+INFO - 2024-03-23 04:43:09 --> Database Driver Class Initialized
+INFO - 2024-03-23 04:43:09 --> Controller Class Initialized
+INFO - 2024-03-23 04:43:09 --> Model "Mconfigkey" initialized
+INFO - 2024-03-23 04:43:09 --> Final output sent to browser
+DEBUG - 2024-03-23 04:43:09 --> Total execution time: 0.0210
+INFO - 2024-03-23 04:43:10 --> Config Class Initialized
+INFO - 2024-03-23 04:43:10 --> Hooks Class Initialized
+DEBUG - 2024-03-23 04:43:10 --> UTF-8 Support Enabled
+INFO - 2024-03-23 04:43:10 --> Utf8 Class Initialized
+INFO - 2024-03-23 04:43:10 --> URI Class Initialized
+INFO - 2024-03-23 04:43:10 --> Router Class Initialized
+INFO - 2024-03-23 04:43:10 --> Output Class Initialized
+INFO - 2024-03-23 04:43:10 --> Security Class Initialized
+DEBUG - 2024-03-23 04:43:10 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-03-23 04:43:10 --> Input Class Initialized
+INFO - 2024-03-23 04:43:10 --> Language Class Initialized
+INFO - 2024-03-23 04:43:10 --> Loader Class Initialized
+INFO - 2024-03-23 04:43:10 --> Helper loaded: url_helper
+INFO - 2024-03-23 04:43:10 --> Database Driver Class Initialized
+INFO - 2024-03-23 04:43:11 --> Controller Class Initialized
+INFO - 2024-03-23 04:43:11 --> Model "Mconfigkey" initialized
+INFO - 2024-03-23 04:43:11 --> Model "Mbcin_16" initialized
+INFO - 2024-03-23 04:43:11 --> Final output sent to browser
+DEBUG - 2024-03-23 04:43:11 --> Total execution time: 0.0342
+INFO - 2024-03-23 04:43:11 --> Config Class Initialized
+INFO - 2024-03-23 04:43:11 --> Hooks Class Initialized
+DEBUG - 2024-03-23 04:43:11 --> UTF-8 Support Enabled
+INFO - 2024-03-23 04:43:11 --> Utf8 Class Initialized
+INFO - 2024-03-23 04:43:11 --> URI Class Initialized
+INFO - 2024-03-23 04:43:11 --> Router Class Initialized
+INFO - 2024-03-23 04:43:11 --> Output Class Initialized
+INFO - 2024-03-23 04:43:11 --> Security Class Initialized
+DEBUG - 2024-03-23 04:43:11 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-03-23 04:43:11 --> Input Class Initialized
+INFO - 2024-03-23 04:43:11 --> Language Class Initialized
+INFO - 2024-03-23 04:43:11 --> Loader Class Initialized
+INFO - 2024-03-23 04:43:11 --> Helper loaded: url_helper
+INFO - 2024-03-23 04:43:11 --> Database Driver Class Initialized
+INFO - 2024-03-23 04:43:11 --> Controller Class Initialized
+INFO - 2024-03-23 04:43:11 --> Model "Mconfigkey" initialized
+INFO - 2024-03-23 04:43:11 --> Model "Mbcin_271" initialized
+INFO - 2024-03-23 04:43:11 --> Final output sent to browser
+DEBUG - 2024-03-23 04:43:11 --> Total execution time: 0.0280
+INFO - 2024-03-23 04:43:12 --> Config Class Initialized
+INFO - 2024-03-23 04:43:12 --> Hooks Class Initialized
+DEBUG - 2024-03-23 04:43:12 --> UTF-8 Support Enabled
+INFO - 2024-03-23 04:43:12 --> Utf8 Class Initialized
+INFO - 2024-03-23 04:43:12 --> URI Class Initialized
+INFO - 2024-03-23 04:43:12 --> Router Class Initialized
+INFO - 2024-03-23 04:43:12 --> Output Class Initialized
+INFO - 2024-03-23 04:43:12 --> Security Class Initialized
+DEBUG - 2024-03-23 04:43:12 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-03-23 04:43:12 --> Input Class Initialized
+INFO - 2024-03-23 04:43:12 --> Language Class Initialized
+INFO - 2024-03-23 04:43:12 --> Loader Class Initialized
+INFO - 2024-03-23 04:43:12 --> Helper loaded: url_helper
+INFO - 2024-03-23 04:43:12 --> Database Driver Class Initialized
+INFO - 2024-03-23 04:43:12 --> Controller Class Initialized
+INFO - 2024-03-23 04:43:12 --> Model "Mconfigkey" initialized
+INFO - 2024-03-23 04:43:12 --> Model "Mbcin_40" initialized
+INFO - 2024-03-23 04:43:12 --> Final output sent to browser
+DEBUG - 2024-03-23 04:43:12 --> Total execution time: 0.0337
+INFO - 2024-03-23 04:43:13 --> Config Class Initialized
+INFO - 2024-03-23 04:43:13 --> Hooks Class Initialized
+DEBUG - 2024-03-23 04:43:13 --> UTF-8 Support Enabled
+INFO - 2024-03-23 04:43:13 --> Utf8 Class Initialized
+INFO - 2024-03-23 04:43:13 --> URI Class Initialized
+INFO - 2024-03-23 04:43:13 --> Router Class Initialized
+INFO - 2024-03-23 04:43:13 --> Output Class Initialized
+INFO - 2024-03-23 04:43:13 --> Security Class Initialized
+DEBUG - 2024-03-23 04:43:13 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-03-23 04:43:13 --> Input Class Initialized
+INFO - 2024-03-23 04:43:13 --> Language Class Initialized
+INFO - 2024-03-23 04:43:13 --> Loader Class Initialized
+INFO - 2024-03-23 04:43:13 --> Helper loaded: url_helper
+INFO - 2024-03-23 04:43:13 --> Database Driver Class Initialized
+INFO - 2024-03-23 04:43:13 --> Controller Class Initialized
+INFO - 2024-03-23 04:43:13 --> Model "Mconfigkey" initialized
+INFO - 2024-03-23 04:43:13 --> Model "Mbcout_30" initialized
+INFO - 2024-03-23 04:43:13 --> Final output sent to browser
+DEBUG - 2024-03-23 04:43:13 --> Total execution time: 0.0338
+INFO - 2024-03-23 04:43:13 --> Config Class Initialized
+INFO - 2024-03-23 04:43:13 --> Hooks Class Initialized
+DEBUG - 2024-03-23 04:43:13 --> UTF-8 Support Enabled
+INFO - 2024-03-23 04:43:13 --> Utf8 Class Initialized
+INFO - 2024-03-23 04:43:13 --> URI Class Initialized
+INFO - 2024-03-23 04:43:13 --> Router Class Initialized
+INFO - 2024-03-23 04:43:13 --> Output Class Initialized
+INFO - 2024-03-23 04:43:13 --> Security Class Initialized
+DEBUG - 2024-03-23 04:43:13 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-03-23 04:43:13 --> Input Class Initialized
+INFO - 2024-03-23 04:43:13 --> Language Class Initialized
+INFO - 2024-03-23 04:43:13 --> Loader Class Initialized
+INFO - 2024-03-23 04:43:13 --> Helper loaded: url_helper
+INFO - 2024-03-23 04:43:13 --> Database Driver Class Initialized
+INFO - 2024-03-23 04:43:13 --> Controller Class Initialized
+INFO - 2024-03-23 04:43:13 --> Model "Mconfigkey" initialized
+INFO - 2024-03-23 04:43:13 --> Model "Mbcout_28" initialized
+INFO - 2024-03-23 04:43:13 --> Final output sent to browser
+DEBUG - 2024-03-23 04:43:13 --> Total execution time: 0.0477
+INFO - 2024-03-23 04:43:14 --> Config Class Initialized
+INFO - 2024-03-23 04:43:14 --> Hooks Class Initialized
+DEBUG - 2024-03-23 04:43:14 --> UTF-8 Support Enabled
+INFO - 2024-03-23 04:43:14 --> Utf8 Class Initialized
+INFO - 2024-03-23 04:43:14 --> URI Class Initialized
+INFO - 2024-03-23 04:43:14 --> Router Class Initialized
+INFO - 2024-03-23 04:43:14 --> Output Class Initialized
+INFO - 2024-03-23 04:43:14 --> Security Class Initialized
+DEBUG - 2024-03-23 04:43:14 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-03-23 04:43:14 --> Input Class Initialized
+INFO - 2024-03-23 04:43:14 --> Language Class Initialized
+INFO - 2024-03-23 04:43:14 --> Loader Class Initialized
+INFO - 2024-03-23 04:43:14 --> Helper loaded: url_helper
+INFO - 2024-03-23 04:43:14 --> Database Driver Class Initialized
+INFO - 2024-03-23 04:43:14 --> Controller Class Initialized
+INFO - 2024-03-23 04:43:14 --> Model "Mconfigkey" initialized
+INFO - 2024-03-23 04:43:14 --> Model "Mbcout_27" initialized
+INFO - 2024-03-23 04:43:14 --> Final output sent to browser
+DEBUG - 2024-03-23 04:43:14 --> Total execution time: 0.0331
+INFO - 2024-03-23 04:43:15 --> Config Class Initialized
+INFO - 2024-03-23 04:43:15 --> Hooks Class Initialized
+DEBUG - 2024-03-23 04:43:15 --> UTF-8 Support Enabled
+INFO - 2024-03-23 04:43:15 --> Utf8 Class Initialized
+INFO - 2024-03-23 04:43:15 --> URI Class Initialized
+INFO - 2024-03-23 04:43:15 --> Router Class Initialized
+INFO - 2024-03-23 04:43:15 --> Output Class Initialized
+INFO - 2024-03-23 04:43:15 --> Security Class Initialized
+DEBUG - 2024-03-23 04:43:15 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-03-23 04:43:15 --> Input Class Initialized
+INFO - 2024-03-23 04:43:15 --> Language Class Initialized
+INFO - 2024-03-23 04:43:15 --> Loader Class Initialized
+INFO - 2024-03-23 04:43:15 --> Helper loaded: url_helper
+INFO - 2024-03-23 04:43:15 --> Database Driver Class Initialized
+INFO - 2024-03-23 04:43:15 --> Controller Class Initialized
+INFO - 2024-03-23 04:43:15 --> Model "Mconfigkey" initialized
+INFO - 2024-03-23 04:43:15 --> Model "Mbcout_41" initialized
+INFO - 2024-03-23 04:43:15 --> Final output sent to browser
+DEBUG - 2024-03-23 04:43:15 --> Total execution time: 0.0340
+INFO - 2024-03-23 04:43:16 --> Config Class Initialized
+INFO - 2024-03-23 04:43:16 --> Hooks Class Initialized
+DEBUG - 2024-03-23 04:43:16 --> UTF-8 Support Enabled
+INFO - 2024-03-23 04:43:16 --> Utf8 Class Initialized
+INFO - 2024-03-23 04:43:16 --> URI Class Initialized
+INFO - 2024-03-23 04:43:16 --> Router Class Initialized
+INFO - 2024-03-23 04:43:16 --> Output Class Initialized
+INFO - 2024-03-23 04:43:16 --> Security Class Initialized
+DEBUG - 2024-03-23 04:43:16 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-03-23 04:43:16 --> Input Class Initialized
+INFO - 2024-03-23 04:43:16 --> Language Class Initialized
+INFO - 2024-03-23 04:43:16 --> Loader Class Initialized
+INFO - 2024-03-23 04:43:16 --> Helper loaded: url_helper
+INFO - 2024-03-23 04:43:16 --> Database Driver Class Initialized
+INFO - 2024-03-23 04:43:16 --> Controller Class Initialized
+INFO - 2024-03-23 04:43:16 --> Model "Mconfigkey" initialized
+INFO - 2024-03-23 04:43:16 --> Final output sent to browser
+DEBUG - 2024-03-23 04:43:16 --> Total execution time: 0.0192
+INFO - 2024-03-23 04:47:02 --> Config Class Initialized
+INFO - 2024-03-23 04:47:02 --> Hooks Class Initialized
+DEBUG - 2024-03-23 04:47:02 --> UTF-8 Support Enabled
+INFO - 2024-03-23 04:47:02 --> Utf8 Class Initialized
+INFO - 2024-03-23 04:47:02 --> URI Class Initialized
+INFO - 2024-03-23 04:47:02 --> Router Class Initialized
+INFO - 2024-03-23 04:47:02 --> Output Class Initialized
+INFO - 2024-03-23 04:47:02 --> Security Class Initialized
+DEBUG - 2024-03-23 04:47:02 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-03-23 04:47:02 --> Input Class Initialized
+INFO - 2024-03-23 04:47:02 --> Language Class Initialized
+INFO - 2024-03-23 04:47:02 --> Loader Class Initialized
+INFO - 2024-03-23 04:47:02 --> Helper loaded: url_helper
+INFO - 2024-03-23 04:47:02 --> Database Driver Class Initialized
+INFO - 2024-03-23 04:47:02 --> Controller Class Initialized
+INFO - 2024-03-23 04:47:02 --> Model "Mconfigkey" initialized
+INFO - 2024-03-23 04:47:02 --> Model "Mbcin_16" initialized
+INFO - 2024-03-23 04:47:02 --> Final output sent to browser
+DEBUG - 2024-03-23 04:47:02 --> Total execution time: 0.0212
+INFO - 2024-03-23 04:47:11 --> Config Class Initialized
+INFO - 2024-03-23 04:47:11 --> Hooks Class Initialized
+DEBUG - 2024-03-23 04:47:11 --> UTF-8 Support Enabled
+INFO - 2024-03-23 04:47:11 --> Utf8 Class Initialized
+INFO - 2024-03-23 04:47:11 --> URI Class Initialized
+INFO - 2024-03-23 04:47:11 --> Router Class Initialized
+INFO - 2024-03-23 04:47:11 --> Output Class Initialized
+INFO - 2024-03-23 04:47:11 --> Security Class Initialized
+DEBUG - 2024-03-23 04:47:11 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-03-23 04:47:11 --> Input Class Initialized
+INFO - 2024-03-23 04:47:11 --> Language Class Initialized
+INFO - 2024-03-23 04:47:11 --> Loader Class Initialized
+INFO - 2024-03-23 04:47:11 --> Helper loaded: url_helper
+INFO - 2024-03-23 04:47:11 --> Database Driver Class Initialized
+INFO - 2024-03-23 04:47:11 --> Controller Class Initialized
+INFO - 2024-03-23 04:47:11 --> Model "Mconfigkey" initialized
+INFO - 2024-03-23 04:47:11 --> Final output sent to browser
+DEBUG - 2024-03-23 04:47:11 --> Total execution time: 0.0194
+INFO - 2024-03-23 04:47:17 --> Config Class Initialized
+INFO - 2024-03-23 04:47:17 --> Hooks Class Initialized
+DEBUG - 2024-03-23 04:47:17 --> UTF-8 Support Enabled
+INFO - 2024-03-23 04:47:17 --> Utf8 Class Initialized
+INFO - 2024-03-23 04:47:17 --> URI Class Initialized
+INFO - 2024-03-23 04:47:17 --> Router Class Initialized
+INFO - 2024-03-23 04:47:17 --> Output Class Initialized
+INFO - 2024-03-23 04:47:17 --> Security Class Initialized
+DEBUG - 2024-03-23 04:47:17 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-03-23 04:47:17 --> Input Class Initialized
+INFO - 2024-03-23 04:47:17 --> Language Class Initialized
+INFO - 2024-03-23 04:47:17 --> Loader Class Initialized
+INFO - 2024-03-23 04:47:17 --> Helper loaded: url_helper
+INFO - 2024-03-23 04:47:17 --> Database Driver Class Initialized
+INFO - 2024-03-23 04:47:17 --> Controller Class Initialized
+INFO - 2024-03-23 04:47:17 --> Model "Mconfigkey" initialized
+INFO - 2024-03-23 04:47:17 --> Model "Mbcin_16" initialized
+INFO - 2024-03-23 04:47:17 --> Final output sent to browser
+DEBUG - 2024-03-23 04:47:17 --> Total execution time: 0.0209
+INFO - 2024-03-23 04:47:26 --> Config Class Initialized
+INFO - 2024-03-23 04:47:26 --> Hooks Class Initialized
+DEBUG - 2024-03-23 04:47:26 --> UTF-8 Support Enabled
+INFO - 2024-03-23 04:47:26 --> Utf8 Class Initialized
+INFO - 2024-03-23 04:47:26 --> URI Class Initialized
+INFO - 2024-03-23 04:47:26 --> Router Class Initialized
+INFO - 2024-03-23 04:47:26 --> Output Class Initialized
+INFO - 2024-03-23 04:47:26 --> Security Class Initialized
+DEBUG - 2024-03-23 04:47:26 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-03-23 04:47:26 --> Input Class Initialized
+INFO - 2024-03-23 04:47:26 --> Language Class Initialized
+INFO - 2024-03-23 04:47:26 --> Loader Class Initialized
+INFO - 2024-03-23 04:47:26 --> Helper loaded: url_helper
+INFO - 2024-03-23 04:47:26 --> Database Driver Class Initialized
+INFO - 2024-03-23 04:47:26 --> Controller Class Initialized
+INFO - 2024-03-23 04:47:26 --> Model "Mconfigkey" initialized
+INFO - 2024-03-23 04:47:26 --> Model "Mbcin_271" initialized
+INFO - 2024-03-23 04:47:26 --> Final output sent to browser
+DEBUG - 2024-03-23 04:47:26 --> Total execution time: 0.0207
+INFO - 2024-03-23 04:54:22 --> Config Class Initialized
+INFO - 2024-03-23 04:54:22 --> Hooks Class Initialized
+DEBUG - 2024-03-23 04:54:22 --> UTF-8 Support Enabled
+INFO - 2024-03-23 04:54:22 --> Utf8 Class Initialized
+INFO - 2024-03-23 04:54:22 --> URI Class Initialized
+INFO - 2024-03-23 04:54:22 --> Router Class Initialized
+INFO - 2024-03-23 04:54:22 --> Output Class Initialized
+INFO - 2024-03-23 04:54:22 --> Security Class Initialized
+DEBUG - 2024-03-23 04:54:22 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-03-23 04:54:22 --> Input Class Initialized
+INFO - 2024-03-23 04:54:22 --> Language Class Initialized
+INFO - 2024-03-23 04:54:22 --> Loader Class Initialized
+INFO - 2024-03-23 04:54:22 --> Helper loaded: url_helper
+INFO - 2024-03-23 04:54:22 --> Database Driver Class Initialized
+INFO - 2024-03-23 04:54:22 --> Controller Class Initialized
+INFO - 2024-03-23 04:54:22 --> Model "Mconfigkey" initialized
+INFO - 2024-03-23 04:54:22 --> Final output sent to browser
+DEBUG - 2024-03-23 04:54:22 --> Total execution time: 0.0209
+INFO - 2024-03-23 04:54:28 --> Config Class Initialized
+INFO - 2024-03-23 04:54:28 --> Hooks Class Initialized
+DEBUG - 2024-03-23 04:54:28 --> UTF-8 Support Enabled
+INFO - 2024-03-23 04:54:28 --> Utf8 Class Initialized
+INFO - 2024-03-23 04:54:28 --> URI Class Initialized
+INFO - 2024-03-23 04:54:28 --> Router Class Initialized
+INFO - 2024-03-23 04:54:28 --> Output Class Initialized
+INFO - 2024-03-23 04:54:28 --> Security Class Initialized
+DEBUG - 2024-03-23 04:54:28 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-03-23 04:54:28 --> Input Class Initialized
+INFO - 2024-03-23 04:54:28 --> Language Class Initialized
+INFO - 2024-03-23 04:54:28 --> Loader Class Initialized
+INFO - 2024-03-23 04:54:28 --> Helper loaded: url_helper
+INFO - 2024-03-23 04:54:28 --> Database Driver Class Initialized
+INFO - 2024-03-23 04:54:28 --> Controller Class Initialized
+INFO - 2024-03-23 04:54:28 --> Model "Mconfigkey" initialized
+INFO - 2024-03-23 04:54:28 --> Model "Mportal_data" initialized
+INFO - 2024-03-23 04:54:28 --> Final output sent to browser
+DEBUG - 2024-03-23 04:54:28 --> Total execution time: 0.0652
+INFO - 2024-03-23 04:54:31 --> Config Class Initialized
+INFO - 2024-03-23 04:54:31 --> Hooks Class Initialized
+DEBUG - 2024-03-23 04:54:31 --> UTF-8 Support Enabled
+INFO - 2024-03-23 04:54:31 --> Utf8 Class Initialized
+INFO - 2024-03-23 04:54:31 --> URI Class Initialized
+INFO - 2024-03-23 04:54:31 --> Router Class Initialized
+INFO - 2024-03-23 04:54:31 --> Output Class Initialized
+INFO - 2024-03-23 04:54:31 --> Security Class Initialized
+DEBUG - 2024-03-23 04:54:31 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-03-23 04:54:31 --> Input Class Initialized
+INFO - 2024-03-23 04:54:31 --> Language Class Initialized
+INFO - 2024-03-23 04:54:31 --> Loader Class Initialized
+INFO - 2024-03-23 04:54:31 --> Helper loaded: url_helper
+INFO - 2024-03-23 04:54:31 --> Database Driver Class Initialized
+INFO - 2024-03-23 04:54:31 --> Controller Class Initialized
+INFO - 2024-03-23 04:54:32 --> Final output sent to browser
+DEBUG - 2024-03-23 04:54:32 --> Total execution time: 0.5793
+INFO - 2024-03-23 04:59:30 --> Config Class Initialized
+INFO - 2024-03-23 04:59:30 --> Hooks Class Initialized
+DEBUG - 2024-03-23 04:59:30 --> UTF-8 Support Enabled
+INFO - 2024-03-23 04:59:30 --> Utf8 Class Initialized
+INFO - 2024-03-23 04:59:30 --> URI Class Initialized
+INFO - 2024-03-23 04:59:30 --> Router Class Initialized
+INFO - 2024-03-23 04:59:30 --> Output Class Initialized
+INFO - 2024-03-23 04:59:30 --> Security Class Initialized
+DEBUG - 2024-03-23 04:59:30 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-03-23 04:59:30 --> Input Class Initialized
+INFO - 2024-03-23 04:59:30 --> Language Class Initialized
+INFO - 2024-03-23 04:59:30 --> Loader Class Initialized
+INFO - 2024-03-23 04:59:30 --> Helper loaded: url_helper
+INFO - 2024-03-23 04:59:30 --> Database Driver Class Initialized
+INFO - 2024-03-23 04:59:30 --> Controller Class Initialized
+INFO - 2024-03-23 04:59:50 --> Final output sent to browser
+DEBUG - 2024-03-23 04:59:50 --> Total execution time: 19.8452
+INFO - 2024-03-23 05:03:50 --> Config Class Initialized
+INFO - 2024-03-23 05:03:50 --> Hooks Class Initialized
+DEBUG - 2024-03-23 05:03:50 --> UTF-8 Support Enabled
+INFO - 2024-03-23 05:03:50 --> Utf8 Class Initialized
+INFO - 2024-03-23 05:03:50 --> URI Class Initialized
+INFO - 2024-03-23 05:03:50 --> Router Class Initialized
+INFO - 2024-03-23 05:03:50 --> Output Class Initialized
+INFO - 2024-03-23 05:03:50 --> Security Class Initialized
+DEBUG - 2024-03-23 05:03:50 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-03-23 05:03:50 --> Input Class Initialized
+INFO - 2024-03-23 05:03:50 --> Language Class Initialized
+INFO - 2024-03-23 05:03:50 --> Loader Class Initialized
+INFO - 2024-03-23 05:03:50 --> Helper loaded: url_helper
+INFO - 2024-03-23 05:03:50 --> Database Driver Class Initialized
+INFO - 2024-03-23 05:03:51 --> Controller Class Initialized
+INFO - 2024-03-23 05:03:51 --> Model "Mconfigkey" initialized
+INFO - 2024-03-23 05:03:51 --> Final output sent to browser
+DEBUG - 2024-03-23 05:03:51 --> Total execution time: 0.0201
+INFO - 2024-03-23 05:04:50 --> Config Class Initialized
+INFO - 2024-03-23 05:04:50 --> Hooks Class Initialized
+DEBUG - 2024-03-23 05:04:50 --> UTF-8 Support Enabled
+INFO - 2024-03-23 05:04:50 --> Utf8 Class Initialized
+INFO - 2024-03-23 05:04:50 --> URI Class Initialized
+INFO - 2024-03-23 05:04:50 --> Router Class Initialized
+INFO - 2024-03-23 05:04:50 --> Output Class Initialized
+INFO - 2024-03-23 05:04:50 --> Security Class Initialized
+DEBUG - 2024-03-23 05:04:50 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-03-23 05:04:50 --> Input Class Initialized
+INFO - 2024-03-23 05:04:50 --> Language Class Initialized
+INFO - 2024-03-23 05:04:50 --> Loader Class Initialized
+INFO - 2024-03-23 05:04:50 --> Helper loaded: url_helper
+INFO - 2024-03-23 05:04:50 --> Database Driver Class Initialized
+INFO - 2024-03-23 05:04:50 --> Controller Class Initialized
+INFO - 2024-03-23 05:04:50 --> Model "Mconfigkey" initialized
+INFO - 2024-03-23 05:04:50 --> Model "Mportal_data" initialized
+INFO - 2024-03-23 05:04:51 --> Final output sent to browser
+DEBUG - 2024-03-23 05:04:51 --> Total execution time: 0.0674
+INFO - 2024-03-23 05:04:53 --> Config Class Initialized
+INFO - 2024-03-23 05:04:53 --> Hooks Class Initialized
+DEBUG - 2024-03-23 05:04:53 --> UTF-8 Support Enabled
+INFO - 2024-03-23 05:04:53 --> Utf8 Class Initialized
+INFO - 2024-03-23 05:04:53 --> URI Class Initialized
+INFO - 2024-03-23 05:04:53 --> Router Class Initialized
+INFO - 2024-03-23 05:04:53 --> Output Class Initialized
+INFO - 2024-03-23 05:04:53 --> Security Class Initialized
+DEBUG - 2024-03-23 05:04:53 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-03-23 05:04:53 --> Input Class Initialized
+INFO - 2024-03-23 05:04:53 --> Language Class Initialized
+INFO - 2024-03-23 05:04:53 --> Loader Class Initialized
+INFO - 2024-03-23 05:04:53 --> Helper loaded: url_helper
+INFO - 2024-03-23 05:04:53 --> Database Driver Class Initialized
+INFO - 2024-03-23 05:04:53 --> Controller Class Initialized
+INFO - 2024-03-23 05:04:54 --> Final output sent to browser
+DEBUG - 2024-03-23 05:04:54 --> Total execution time: 0.6340
+INFO - 2024-03-23 05:05:16 --> Config Class Initialized
+INFO - 2024-03-23 05:05:16 --> Hooks Class Initialized
+DEBUG - 2024-03-23 05:05:16 --> UTF-8 Support Enabled
+INFO - 2024-03-23 05:05:16 --> Utf8 Class Initialized
+INFO - 2024-03-23 05:05:16 --> URI Class Initialized
+INFO - 2024-03-23 05:05:16 --> Router Class Initialized
+INFO - 2024-03-23 05:05:16 --> Output Class Initialized
+INFO - 2024-03-23 05:05:16 --> Security Class Initialized
+DEBUG - 2024-03-23 05:05:16 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-03-23 05:05:16 --> Input Class Initialized
+INFO - 2024-03-23 05:05:16 --> Language Class Initialized
+INFO - 2024-03-23 05:05:16 --> Loader Class Initialized
+INFO - 2024-03-23 05:05:16 --> Helper loaded: url_helper
+INFO - 2024-03-23 05:05:16 --> Database Driver Class Initialized
+INFO - 2024-03-23 05:05:16 --> Controller Class Initialized
+ERROR - 2024-03-23 05:05:17 --> Severity: Warning --> file_put_contents(D:/uploads/plb/from_portal/): failed to open stream: No such file or directory D:\xampp\htdocs\plb\dummyservice\application\controllers\PortalApi.php 220
+INFO - 2024-03-23 05:05:17 --> Model "Mportal_data" initialized
+ERROR - 2024-03-23 05:05:17 --> Severity: Warning --> Illegal string offset 'FileName' D:\xampp\htdocs\plb\dummyservice\application\models\Mportal_data.php 1697
+ERROR - 2024-03-23 05:05:17 --> Severity: Warning --> Illegal string offset 'FilePath' D:\xampp\htdocs\plb\dummyservice\application\models\Mportal_data.php 1698
+ERROR - 2024-03-23 05:05:17 --> Severity: Warning --> Illegal string offset 'VUSERNAME' D:\xampp\htdocs\plb\dummyservice\application\models\Mportal_data.php 1699
+ERROR - 2024-03-23 05:05:17 --> Query error: [Microsoft][ODBC Driver 18 for SQL Server][SQL Server]Invalid object name 'dbit.dbo.axSheetList'. - Invalid query: 
+        EXEC SP_UPLOAD_PORTAL_DATA
+        @VNOMORAJU='0',
+        @VFILENAME='0',
+        @VUSER='0',
+        @VMODE='PROCESS'
+        
+INFO - 2024-03-23 05:05:17 --> Language file loaded: language/english/db_lang.php
+INFO - 2024-03-23 05:07:42 --> Config Class Initialized
+INFO - 2024-03-23 05:07:42 --> Hooks Class Initialized
+DEBUG - 2024-03-23 05:07:42 --> UTF-8 Support Enabled
+INFO - 2024-03-23 05:07:42 --> Utf8 Class Initialized
+INFO - 2024-03-23 05:07:42 --> URI Class Initialized
+INFO - 2024-03-23 05:07:42 --> Router Class Initialized
+INFO - 2024-03-23 05:07:42 --> Output Class Initialized
+INFO - 2024-03-23 05:07:42 --> Security Class Initialized
+DEBUG - 2024-03-23 05:07:42 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-03-23 05:07:42 --> Input Class Initialized
+INFO - 2024-03-23 05:07:42 --> Language Class Initialized
+INFO - 2024-03-23 05:07:42 --> Loader Class Initialized
+INFO - 2024-03-23 05:07:42 --> Helper loaded: url_helper
+INFO - 2024-03-23 05:07:42 --> Database Driver Class Initialized
+INFO - 2024-03-23 05:07:42 --> Controller Class Initialized
+ERROR - 2024-03-23 05:07:42 --> Severity: Warning --> file_put_contents(D:/uploads/plb/from_portal/): failed to open stream: No such file or directory D:\xampp\htdocs\plb\dummyservice\application\controllers\PortalApi.php 220
+INFO - 2024-03-23 05:07:42 --> Model "Mportal_data" initialized
+ERROR - 2024-03-23 05:07:42 --> Severity: Warning --> Illegal string offset 'FileName' D:\xampp\htdocs\plb\dummyservice\application\models\Mportal_data.php 1697
+ERROR - 2024-03-23 05:07:42 --> Severity: Warning --> Illegal string offset 'FilePath' D:\xampp\htdocs\plb\dummyservice\application\models\Mportal_data.php 1698
+ERROR - 2024-03-23 05:07:42 --> Severity: Warning --> Illegal string offset 'VUSERNAME' D:\xampp\htdocs\plb\dummyservice\application\models\Mportal_data.php 1699
+ERROR - 2024-03-23 05:07:42 --> Query error: [Microsoft][ODBC Driver 18 for SQL Server][SQL Server]Execution of user code in the .NET Framework is disabled. Enable "clr enabled" configuration option. - Invalid query: 
+        EXEC SP_UPLOAD_PORTAL_DATA
+        @VNOMORAJU='0',
+        @VFILENAME='0',
+        @VUSER='0',
+        @VMODE='PROCESS'
+        
+INFO - 2024-03-23 05:07:42 --> Language file loaded: language/english/db_lang.php
+INFO - 2024-03-23 05:08:40 --> Config Class Initialized
+INFO - 2024-03-23 05:08:40 --> Hooks Class Initialized
+DEBUG - 2024-03-23 05:08:40 --> UTF-8 Support Enabled
+INFO - 2024-03-23 05:08:40 --> Utf8 Class Initialized
+INFO - 2024-03-23 05:08:40 --> URI Class Initialized
+INFO - 2024-03-23 05:08:40 --> Router Class Initialized
+INFO - 2024-03-23 05:08:40 --> Output Class Initialized
+INFO - 2024-03-23 05:08:40 --> Security Class Initialized
+DEBUG - 2024-03-23 05:08:40 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-03-23 05:08:40 --> Input Class Initialized
+INFO - 2024-03-23 05:08:40 --> Language Class Initialized
+INFO - 2024-03-23 05:08:40 --> Loader Class Initialized
+INFO - 2024-03-23 05:08:40 --> Helper loaded: url_helper
+INFO - 2024-03-23 05:08:40 --> Database Driver Class Initialized
+INFO - 2024-03-23 05:08:40 --> Controller Class Initialized
+ERROR - 2024-03-23 05:08:40 --> Severity: Warning --> file_put_contents(D:/uploads/plb/from_portal/): failed to open stream: No such file or directory D:\xampp\htdocs\plb\dummyservice\application\controllers\PortalApi.php 220
+INFO - 2024-03-23 05:08:40 --> Model "Mportal_data" initialized
+ERROR - 2024-03-23 05:08:40 --> Severity: Warning --> Illegal string offset 'FileName' D:\xampp\htdocs\plb\dummyservice\application\models\Mportal_data.php 1697
+ERROR - 2024-03-23 05:08:40 --> Severity: Warning --> Illegal string offset 'FilePath' D:\xampp\htdocs\plb\dummyservice\application\models\Mportal_data.php 1698
+ERROR - 2024-03-23 05:08:40 --> Severity: Warning --> Illegal string offset 'VUSERNAME' D:\xampp\htdocs\plb\dummyservice\application\models\Mportal_data.php 1699
+ERROR - 2024-03-23 05:08:40 --> Query error: [Microsoft][ODBC Driver 18 for SQL Server][SQL Server]An error occurred in the Microsoft .NET Framework while trying to load assembly id 65537. The server may be running out of resources, or the assembly may not be trusted. Run the query again, or check documentation to see how to solve the assembly trust issues. For more information about this error: 
+System.IO.FileLoadException: Could not load file or assembly 'fileio, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null' or one of its dependencies. An error relating to security occurred. (Exception from HRESULT: 0x8013150A)
+System.IO.FileLoadException: 
+   at System.Reflection.RuntimeAssembly._nLoad(AssemblyName fileName, String codeBase, Evidence assemblySecurity, RuntimeAssembly locationHint, StackCrawlMark& stackMark, Int - Invalid query: 
+        EXEC SP_UPLOAD_PORTAL_DATA
+        @VNOMORAJU='0',
+        @VFILENAME='0',
+        @VUSER='0',
+        @VMODE='PROCESS'
+        
+INFO - 2024-03-23 05:08:40 --> Language file loaded: language/english/db_lang.php
+INFO - 2024-03-23 05:15:15 --> Config Class Initialized
+INFO - 2024-03-23 05:15:15 --> Hooks Class Initialized
+DEBUG - 2024-03-23 05:15:15 --> UTF-8 Support Enabled
+INFO - 2024-03-23 05:15:15 --> Utf8 Class Initialized
+INFO - 2024-03-23 05:15:15 --> URI Class Initialized
+INFO - 2024-03-23 05:15:15 --> Router Class Initialized
+INFO - 2024-03-23 05:15:15 --> Output Class Initialized
+INFO - 2024-03-23 05:15:15 --> Security Class Initialized
+DEBUG - 2024-03-23 05:15:15 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-03-23 05:15:15 --> Input Class Initialized
+INFO - 2024-03-23 05:15:15 --> Language Class Initialized
+INFO - 2024-03-23 05:15:15 --> Loader Class Initialized
+INFO - 2024-03-23 05:15:15 --> Helper loaded: url_helper
+INFO - 2024-03-23 05:15:15 --> Database Driver Class Initialized
+INFO - 2024-03-23 05:15:15 --> Controller Class Initialized
+ERROR - 2024-03-23 05:15:16 --> Severity: Warning --> file_put_contents(D:/uploads/plb/from_portal/): failed to open stream: No such file or directory D:\xampp\htdocs\plb\dummyservice\application\controllers\PortalApi.php 220
+INFO - 2024-03-23 05:15:16 --> Model "Mportal_data" initialized
+ERROR - 2024-03-23 05:15:16 --> Severity: Warning --> Illegal string offset 'FileName' D:\xampp\htdocs\plb\dummyservice\application\models\Mportal_data.php 1697
+ERROR - 2024-03-23 05:15:16 --> Severity: Warning --> Illegal string offset 'FilePath' D:\xampp\htdocs\plb\dummyservice\application\models\Mportal_data.php 1698
+ERROR - 2024-03-23 05:15:16 --> Severity: Warning --> Illegal string offset 'VUSERNAME' D:\xampp\htdocs\plb\dummyservice\application\models\Mportal_data.php 1699
+ERROR - 2024-03-23 05:15:16 --> Query error: [Microsoft][ODBC Driver 18 for SQL Server][SQL Server]An error occurred in the Microsoft .NET Framework while trying to load assembly id 65537. The server may be running out of resources, or the assembly may not be trusted. Run the query again, or check documentation to see how to solve the assembly trust issues. For more information about this error: 
+System.IO.FileLoadException: Could not load file or assembly 'fileio, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null' or one of its dependencies. An error relating to security occurred. (Exception from HRESULT: 0x8013150A)
+System.IO.FileLoadException: 
+   at System.Reflection.RuntimeAssembly._nLoad(AssemblyName fileName, String codeBase, Evidence assemblySecurity, RuntimeAssembly locationHint, StackCrawlMark& stackMark, Int - Invalid query: 
+        EXEC SP_UPLOAD_PORTAL_DATA
+        @VNOMORAJU='0',
+        @VFILENAME='0',
+        @VUSER='0',
+        @VMODE='PROCESS'
+        
+INFO - 2024-03-23 05:15:16 --> Language file loaded: language/english/db_lang.php
+INFO - 2024-03-23 05:19:55 --> Config Class Initialized
+INFO - 2024-03-23 05:19:55 --> Hooks Class Initialized
+DEBUG - 2024-03-23 05:19:55 --> UTF-8 Support Enabled
+INFO - 2024-03-23 05:19:55 --> Utf8 Class Initialized
+INFO - 2024-03-23 05:19:55 --> URI Class Initialized
+INFO - 2024-03-23 05:19:55 --> Router Class Initialized
+INFO - 2024-03-23 05:19:55 --> Output Class Initialized
+INFO - 2024-03-23 05:19:55 --> Security Class Initialized
+DEBUG - 2024-03-23 05:19:55 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-03-23 05:19:55 --> Input Class Initialized
+INFO - 2024-03-23 05:19:55 --> Language Class Initialized
+INFO - 2024-03-23 05:19:55 --> Loader Class Initialized
+INFO - 2024-03-23 05:19:55 --> Helper loaded: url_helper
+INFO - 2024-03-23 05:19:55 --> Database Driver Class Initialized
+INFO - 2024-03-23 05:19:55 --> Controller Class Initialized
+ERROR - 2024-03-23 05:19:56 --> Severity: Warning --> file_put_contents(D:/uploads/plb/from_portal/): failed to open stream: No such file or directory D:\xampp\htdocs\plb\dummyservice\application\controllers\PortalApi.php 220
+INFO - 2024-03-23 05:19:56 --> Model "Mportal_data" initialized
+ERROR - 2024-03-23 05:19:56 --> Severity: Warning --> Illegal string offset 'FileName' D:\xampp\htdocs\plb\dummyservice\application\models\Mportal_data.php 1697
+ERROR - 2024-03-23 05:19:56 --> Severity: Warning --> Illegal string offset 'FilePath' D:\xampp\htdocs\plb\dummyservice\application\models\Mportal_data.php 1698
+ERROR - 2024-03-23 05:19:56 --> Severity: Warning --> Illegal string offset 'VUSERNAME' D:\xampp\htdocs\plb\dummyservice\application\models\Mportal_data.php 1699
+ERROR - 2024-03-23 05:19:56 --> Query error: [Microsoft][ODBC Driver 18 for SQL Server][SQL Server]A .NET Framework error occurred during execution of user-defined routine or aggregate "axSheetList": 
+System.InvalidOperationException: The 'Microsoft.ACE.OLEDB.12.0' provider is not registered on the local machine.
+System.InvalidOperationException: 
+   at System.Data.OleDb.OleDbServicesWrapper.GetDataSource(OleDbConnectionString constr, DataSourceWrapper& datasrcWrapper)
+   at System.Data.OleDb.OleDbConnectionInternal..ctor(OleDbConnectionString constr, OleDbConnection connection)
+   at System.Data.OleDb.OleDbConnectionFactory.CreateConnection(DbConnectionOptions options, DbConnectionPoolKey poolKey, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningObject)
+   at System.Data.ProviderBase.DbConnectionFactory.C - Invalid query: 
+        EXEC SP_UPLOAD_PORTAL_DATA
+        @VNOMORAJU='0',
+        @VFILENAME='0',
+        @VUSER='0',
+        @VMODE='PROCESS'
+        
+INFO - 2024-03-23 05:19:56 --> Language file loaded: language/english/db_lang.php
+INFO - 2024-03-23 05:24:10 --> Config Class Initialized
+INFO - 2024-03-23 05:24:10 --> Hooks Class Initialized
+DEBUG - 2024-03-23 05:24:10 --> UTF-8 Support Enabled
+INFO - 2024-03-23 05:24:10 --> Utf8 Class Initialized
+INFO - 2024-03-23 05:24:10 --> URI Class Initialized
+INFO - 2024-03-23 05:24:10 --> Router Class Initialized
+INFO - 2024-03-23 05:24:10 --> Output Class Initialized
+INFO - 2024-03-23 05:24:10 --> Security Class Initialized
+DEBUG - 2024-03-23 05:24:10 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-03-23 05:24:10 --> Input Class Initialized
+INFO - 2024-03-23 05:24:10 --> Language Class Initialized
+INFO - 2024-03-23 05:24:10 --> Loader Class Initialized
+INFO - 2024-03-23 05:24:10 --> Helper loaded: url_helper
+INFO - 2024-03-23 05:24:10 --> Database Driver Class Initialized
+INFO - 2024-03-23 05:24:10 --> Controller Class Initialized
+INFO - 2024-03-23 05:24:41 --> Model "Mportal_data" initialized
+ERROR - 2024-03-23 05:24:41 --> Severity: Warning --> Illegal string offset 'FileName' D:\xampp\htdocs\plb\dummyservice\application\models\Mportal_data.php 1697
+ERROR - 2024-03-23 05:24:41 --> Severity: Warning --> Illegal string offset 'FilePath' D:\xampp\htdocs\plb\dummyservice\application\models\Mportal_data.php 1698
+ERROR - 2024-03-23 05:24:41 --> Severity: Warning --> Illegal string offset 'VUSERNAME' D:\xampp\htdocs\plb\dummyservice\application\models\Mportal_data.php 1699
+ERROR - 2024-03-23 05:24:41 --> Query error: [Microsoft][ODBC Driver 18 for SQL Server][SQL Server]A .NET Framework error occurred during execution of user-defined routine or aggregate "axSheetList": 
+System.InvalidOperationException: The 'Microsoft.ACE.OLEDB.12.0' provider is not registered on the local machine.
+System.InvalidOperationException: 
+   at System.Data.OleDb.OleDbServicesWrapper.GetDataSource(OleDbConnectionString constr, DataSourceWrapper& datasrcWrapper)
+   at System.Data.OleDb.OleDbConnectionInternal..ctor(OleDbConnectionString constr, OleDbConnection connection)
+   at System.Data.OleDb.OleDbConnectionFactory.CreateConnection(DbConnectionOptions options, DbConnectionPoolKey poolKey, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningObject)
+   at System.Data.ProviderBase.DbConnectionFactory.C - Invalid query: 
+        EXEC SP_UPLOAD_PORTAL_DATA
+        @VNOMORAJU='0',
+        @VFILENAME='0',
+        @VUSER='0',
+        @VMODE='PROCESS'
+        
+INFO - 2024-03-23 05:24:41 --> Language file loaded: language/english/db_lang.php
+INFO - 2024-03-23 05:34:35 --> Config Class Initialized
+INFO - 2024-03-23 05:34:35 --> Hooks Class Initialized
+DEBUG - 2024-03-23 05:34:35 --> UTF-8 Support Enabled
+INFO - 2024-03-23 05:34:35 --> Utf8 Class Initialized
+INFO - 2024-03-23 05:34:35 --> URI Class Initialized
+INFO - 2024-03-23 05:34:35 --> Router Class Initialized
+INFO - 2024-03-23 05:34:35 --> Output Class Initialized
+INFO - 2024-03-23 05:34:35 --> Security Class Initialized
+DEBUG - 2024-03-23 05:34:35 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-03-23 05:34:35 --> Input Class Initialized
+INFO - 2024-03-23 05:34:35 --> Language Class Initialized
+INFO - 2024-03-23 05:34:35 --> Loader Class Initialized
+INFO - 2024-03-23 05:34:35 --> Helper loaded: url_helper
+INFO - 2024-03-23 05:34:35 --> Database Driver Class Initialized
+INFO - 2024-03-23 05:34:35 --> Controller Class Initialized
+ERROR - 2024-03-23 05:34:36 --> Severity: Warning --> file_put_contents(D:/uploads/plb/from_portal/): failed to open stream: No such file or directory D:\xampp\htdocs\plb\dummyservice\application\controllers\PortalApi.php 220
+INFO - 2024-03-23 05:34:36 --> Model "Mportal_data" initialized
+ERROR - 2024-03-23 05:34:36 --> Severity: Warning --> Illegal string offset 'FileName' D:\xampp\htdocs\plb\dummyservice\application\models\Mportal_data.php 1697
+ERROR - 2024-03-23 05:34:36 --> Severity: Warning --> Illegal string offset 'FilePath' D:\xampp\htdocs\plb\dummyservice\application\models\Mportal_data.php 1698
+ERROR - 2024-03-23 05:34:36 --> Severity: Warning --> Illegal string offset 'VUSERNAME' D:\xampp\htdocs\plb\dummyservice\application\models\Mportal_data.php 1699
+ERROR - 2024-03-23 05:34:36 --> Query error: [Microsoft][ODBC Driver 18 for SQL Server][SQL Server]A .NET Framework error occurred during execution of user-defined routine or aggregate "axSheetList": 
+System.InvalidOperationException: The 'Microsoft.ACE.OLEDB.12.0' provider is not registered on the local machine.
+System.InvalidOperationException: 
+   at System.Data.OleDb.OleDbServicesWrapper.GetDataSource(OleDbConnectionString constr, DataSourceWrapper& datasrcWrapper)
+   at System.Data.OleDb.OleDbConnectionInternal..ctor(OleDbConnectionString constr, OleDbConnection connection)
+   at System.Data.OleDb.OleDbConnectionFactory.CreateConnection(DbConnectionOptions options, DbConnectionPoolKey poolKey, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningObject)
+   at System.Data.ProviderBase.DbConnectionFactory.C - Invalid query: 
+        EXEC SP_UPLOAD_PORTAL_DATA
+        @VNOMORAJU='0',
+        @VFILENAME='0',
+        @VUSER='0',
+        @VMODE='PROCESS'
+        
+INFO - 2024-03-23 05:34:36 --> Language file loaded: language/english/db_lang.php
+INFO - 2024-03-23 05:37:26 --> Config Class Initialized
+INFO - 2024-03-23 05:37:26 --> Hooks Class Initialized
+DEBUG - 2024-03-23 05:37:26 --> UTF-8 Support Enabled
+INFO - 2024-03-23 05:37:26 --> Utf8 Class Initialized
+INFO - 2024-03-23 05:37:26 --> URI Class Initialized
+INFO - 2024-03-23 05:37:26 --> Router Class Initialized
+INFO - 2024-03-23 05:37:26 --> Output Class Initialized
+INFO - 2024-03-23 05:37:26 --> Security Class Initialized
+DEBUG - 2024-03-23 05:37:26 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-03-23 05:37:26 --> Input Class Initialized
+INFO - 2024-03-23 05:37:26 --> Language Class Initialized
+INFO - 2024-03-23 05:37:26 --> Loader Class Initialized
+INFO - 2024-03-23 05:37:26 --> Helper loaded: url_helper
+INFO - 2024-03-23 05:37:26 --> Database Driver Class Initialized
+INFO - 2024-03-23 05:37:26 --> Controller Class Initialized
+INFO - 2024-03-23 05:37:56 --> Model "Mportal_data" initialized
+ERROR - 2024-03-23 05:37:56 --> Query error: [Microsoft][ODBC Driver 18 for SQL Server][SQL Server]A .NET Framework error occurred during execution of user-defined routine or aggregate "axSheetList": 
+System.InvalidOperationException: The 'Microsoft.ACE.OLEDB.12.0' provider is not registered on the local machine.
+System.InvalidOperationException: 
+   at System.Data.OleDb.OleDbServicesWrapper.GetDataSource(OleDbConnectionString constr, DataSourceWrapper& datasrcWrapper)
+   at System.Data.OleDb.OleDbConnectionInternal..ctor(OleDbConnectionString constr, OleDbConnection connection)
+   at System.Data.OleDb.OleDbConnectionFactory.CreateConnection(DbConnectionOptions options, DbConnectionPoolKey poolKey, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningObject)
+   at System.Data.ProviderBase.DbConnectionFactory.C - Invalid query: 
+        EXEC SP_UPLOAD_PORTAL_DATA
+        @VNOMORAJU='00002701824220240322100010',
+        @VFILENAME='00002701824220240322100010.xlsx',
+        @VUSER='SP_SYNC',
+        @VMODE='PROCESS'
+        
+INFO - 2024-03-23 05:37:56 --> Language file loaded: language/english/db_lang.php
+INFO - 2024-03-23 05:47:11 --> Config Class Initialized
+INFO - 2024-03-23 05:47:11 --> Hooks Class Initialized
+DEBUG - 2024-03-23 05:47:11 --> UTF-8 Support Enabled
+INFO - 2024-03-23 05:47:11 --> Utf8 Class Initialized
+INFO - 2024-03-23 05:47:11 --> URI Class Initialized
+INFO - 2024-03-23 05:47:11 --> Router Class Initialized
+INFO - 2024-03-23 05:47:11 --> Output Class Initialized
+INFO - 2024-03-23 05:47:11 --> Security Class Initialized
+DEBUG - 2024-03-23 05:47:11 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-03-23 05:47:11 --> Input Class Initialized
+INFO - 2024-03-23 05:47:11 --> Language Class Initialized
+INFO - 2024-03-23 05:47:11 --> Loader Class Initialized
+INFO - 2024-03-23 05:47:11 --> Helper loaded: url_helper
+INFO - 2024-03-23 05:47:11 --> Database Driver Class Initialized
+INFO - 2024-03-23 05:47:11 --> Controller Class Initialized
+ERROR - 2024-03-23 05:47:12 --> Severity: Warning --> file_put_contents(D:/uploads/plb/from_portal/): failed to open stream: No such file or directory D:\xampp\htdocs\plb\dummyservice\application\controllers\PortalApi.php 220
+INFO - 2024-03-23 05:47:12 --> Model "Mportal_data" initialized
+ERROR - 2024-03-23 05:47:12 --> Query error: [Microsoft][ODBC Driver 18 for SQL Server][SQL Server]A .NET Framework error occurred during execution of user-defined routine or aggregate "axSheetList": 
+System.InvalidOperationException: The 'Microsoft.ACE.OLEDB.12.0' provider is not registered on the local machine.
+System.InvalidOperationException: 
+   at System.Data.OleDb.OleDbServicesWrapper.GetDataSource(OleDbConnectionString constr, DataSourceWrapper& datasrcWrapper)
+   at System.Data.OleDb.OleDbConnectionInternal..ctor(OleDbConnectionString constr, OleDbConnection connection)
+   at System.Data.OleDb.OleDbConnectionFactory.CreateConnection(DbConnectionOptions options, DbConnectionPoolKey poolKey, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningObject)
+   at System.Data.ProviderBase.DbConnectionFactory.C - Invalid query: 
+        EXEC SP_UPLOAD_PORTAL_DATA
+        @VNOMORAJU='00002701824220240322100010',
+        @VFILENAME='00002701824220240322100010.xlsx',
+        @VUSER='SP_SYNC',
+        @VMODE='PROCESS'
+        
+INFO - 2024-03-23 05:47:12 --> Language file loaded: language/english/db_lang.php
+INFO - 2024-03-23 05:49:58 --> Config Class Initialized
+INFO - 2024-03-23 05:49:58 --> Hooks Class Initialized
+DEBUG - 2024-03-23 05:49:58 --> UTF-8 Support Enabled
+INFO - 2024-03-23 05:49:58 --> Utf8 Class Initialized
+INFO - 2024-03-23 05:49:58 --> URI Class Initialized
+INFO - 2024-03-23 05:49:58 --> Router Class Initialized
+INFO - 2024-03-23 05:49:58 --> Output Class Initialized
+INFO - 2024-03-23 05:49:58 --> Security Class Initialized
+DEBUG - 2024-03-23 05:49:58 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-03-23 05:49:58 --> Input Class Initialized
+INFO - 2024-03-23 05:49:58 --> Language Class Initialized
+INFO - 2024-03-23 05:49:58 --> Loader Class Initialized
+INFO - 2024-03-23 05:49:58 --> Helper loaded: url_helper
+INFO - 2024-03-23 05:49:58 --> Database Driver Class Initialized
+INFO - 2024-03-23 05:49:58 --> Controller Class Initialized
+INFO - 2024-03-23 05:50:39 --> Model "Mportal_data" initialized
+ERROR - 2024-03-23 05:50:39 --> Query error: [Microsoft][ODBC Driver 18 for SQL Server][SQL Server]A .NET Framework error occurred during execution of user-defined routine or aggregate "axSheetList": 
+System.InvalidOperationException: The 'Microsoft.ACE.OLEDB.12.0' provider is not registered on the local machine.
+System.InvalidOperationException: 
+   at System.Data.OleDb.OleDbServicesWrapper.GetDataSource(OleDbConnectionString constr, DataSourceWrapper& datasrcWrapper)
+   at System.Data.OleDb.OleDbConnectionInternal..ctor(OleDbConnectionString constr, OleDbConnection connection)
+   at System.Data.OleDb.OleDbConnectionFactory.CreateConnection(DbConnectionOptions options, DbConnectionPoolKey poolKey, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningObject)
+   at System.Data.ProviderBase.DbConnectionFactory.C - Invalid query: 
+        EXEC SP_UPLOAD_PORTAL_DATA
+        @VNOMORAJU='00002701824220240322100010',
+        @VFILENAME='00002701824220240322100010.xlsx',
+        @VUSER='SP_SYNC',
+        @VMODE='PROCESS'
+        
+INFO - 2024-03-23 05:50:39 --> Language file loaded: language/english/db_lang.php
+INFO - 2024-03-23 06:01:15 --> Config Class Initialized
+INFO - 2024-03-23 06:01:15 --> Hooks Class Initialized
+DEBUG - 2024-03-23 06:01:15 --> UTF-8 Support Enabled
+INFO - 2024-03-23 06:01:15 --> Utf8 Class Initialized
+INFO - 2024-03-23 06:01:15 --> URI Class Initialized
+INFO - 2024-03-23 06:01:15 --> Router Class Initialized
+INFO - 2024-03-23 06:01:15 --> Output Class Initialized
+INFO - 2024-03-23 06:01:15 --> Security Class Initialized
+DEBUG - 2024-03-23 06:01:15 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-03-23 06:01:15 --> Input Class Initialized
+INFO - 2024-03-23 06:01:15 --> Language Class Initialized
+INFO - 2024-03-23 06:01:15 --> Loader Class Initialized
+INFO - 2024-03-23 06:01:15 --> Helper loaded: url_helper
+INFO - 2024-03-23 06:01:15 --> Database Driver Class Initialized
+INFO - 2024-03-23 06:01:15 --> Controller Class Initialized
+ERROR - 2024-03-23 06:01:16 --> Severity: Warning --> file_put_contents(D:/uploads/plb/from_portal/): failed to open stream: No such file or directory D:\xampp\htdocs\plb\dummyservice\application\controllers\PortalApi.php 220
+INFO - 2024-03-23 06:01:16 --> Model "Mportal_data" initialized
+ERROR - 2024-03-23 06:01:16 --> Query error: [Microsoft][ODBC Driver 18 for SQL Server][SQL Server]SQL Server blocked access to STATEMENT 'OpenRowset/OpenDatasource' of component 'Ad Hoc Distributed Queries' because this component is turned off as part of the security configuration for this server. A system administrator can enable the use of 'Ad Hoc Distributed Queries' by using sp_configure. For more information about enabling 'Ad Hoc Distributed Queries', search for 'Ad Hoc Distributed Queries' in SQL Server Books Online. - Invalid query: 
+        EXEC SP_UPLOAD_PORTAL_DATA
+        @VNOMORAJU='00002701824220240322100010',
+        @VFILENAME='00002701824220240322100010.xlsx',
+        @VUSER='SP_SYNC',
+        @VMODE='PROCESS'
+        
+INFO - 2024-03-23 06:01:16 --> Language file loaded: language/english/db_lang.php
+INFO - 2024-03-23 06:02:56 --> Config Class Initialized
+INFO - 2024-03-23 06:02:56 --> Hooks Class Initialized
+DEBUG - 2024-03-23 06:02:56 --> UTF-8 Support Enabled
+INFO - 2024-03-23 06:02:56 --> Utf8 Class Initialized
+INFO - 2024-03-23 06:02:56 --> URI Class Initialized
+INFO - 2024-03-23 06:02:56 --> Router Class Initialized
+INFO - 2024-03-23 06:02:56 --> Output Class Initialized
+INFO - 2024-03-23 06:02:56 --> Security Class Initialized
+DEBUG - 2024-03-23 06:02:56 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-03-23 06:02:56 --> Input Class Initialized
+INFO - 2024-03-23 06:02:56 --> Language Class Initialized
+INFO - 2024-03-23 06:02:56 --> Loader Class Initialized
+INFO - 2024-03-23 06:02:56 --> Helper loaded: url_helper
+INFO - 2024-03-23 06:02:56 --> Database Driver Class Initialized
+INFO - 2024-03-23 06:02:56 --> Controller Class Initialized
+ERROR - 2024-03-23 06:02:57 --> Severity: Warning --> file_put_contents(D:/uploads/plb/from_portal/): failed to open stream: No such file or directory D:\xampp\htdocs\plb\dummyservice\application\controllers\PortalApi.php 220
+INFO - 2024-03-23 06:02:57 --> Model "Mportal_data" initialized
+ERROR - 2024-03-23 06:02:57 --> Query error: [Microsoft][ODBC Driver 18 for SQL Server][SQL Server]Cannot create an instance of OLE DB provider "Microsoft.ACE.OLEDB.12.0" for linked server "(null)". - Invalid query: 
+        EXEC SP_UPLOAD_PORTAL_DATA
+        @VNOMORAJU='00002701824220240322100010',
+        @VFILENAME='00002701824220240322100010.xlsx',
+        @VUSER='SP_SYNC',
+        @VMODE='PROCESS'
+        
+INFO - 2024-03-23 06:02:57 --> Language file loaded: language/english/db_lang.php
+INFO - 2024-03-23 06:03:48 --> Config Class Initialized
+INFO - 2024-03-23 06:03:48 --> Hooks Class Initialized
+DEBUG - 2024-03-23 06:03:48 --> UTF-8 Support Enabled
+INFO - 2024-03-23 06:03:48 --> Utf8 Class Initialized
+INFO - 2024-03-23 06:03:48 --> URI Class Initialized
+INFO - 2024-03-23 06:03:48 --> Router Class Initialized
+INFO - 2024-03-23 06:03:48 --> Output Class Initialized
+INFO - 2024-03-23 06:03:48 --> Security Class Initialized
+DEBUG - 2024-03-23 06:03:48 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-03-23 06:03:48 --> Input Class Initialized
+INFO - 2024-03-23 06:03:48 --> Language Class Initialized
+INFO - 2024-03-23 06:03:48 --> Loader Class Initialized
+INFO - 2024-03-23 06:03:48 --> Helper loaded: url_helper
+INFO - 2024-03-23 06:03:48 --> Database Driver Class Initialized
+INFO - 2024-03-23 06:03:48 --> Controller Class Initialized
+INFO - 2024-03-23 06:04:18 --> Model "Mportal_data" initialized
+ERROR - 2024-03-23 06:04:18 --> Query error: [Microsoft][ODBC Driver 18 for SQL Server][SQL Server]Cannot create an instance of OLE DB provider "Microsoft.ACE.OLEDB.12.0" for linked server "(null)". - Invalid query: 
+        EXEC SP_UPLOAD_PORTAL_DATA
+        @VNOMORAJU='00002701824220240322100010',
+        @VFILENAME='00002701824220240322100010.xlsx',
+        @VUSER='SP_SYNC',
+        @VMODE='PROCESS'
+        
+INFO - 2024-03-23 06:04:18 --> Language file loaded: language/english/db_lang.php
+INFO - 2024-03-23 06:04:26 --> Config Class Initialized
+INFO - 2024-03-23 06:04:26 --> Hooks Class Initialized
+DEBUG - 2024-03-23 06:04:26 --> UTF-8 Support Enabled
+INFO - 2024-03-23 06:04:26 --> Utf8 Class Initialized
+INFO - 2024-03-23 06:04:26 --> URI Class Initialized
+INFO - 2024-03-23 06:04:26 --> Router Class Initialized
+INFO - 2024-03-23 06:04:26 --> Output Class Initialized
+INFO - 2024-03-23 06:04:26 --> Security Class Initialized
+DEBUG - 2024-03-23 06:04:26 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-03-23 06:04:26 --> Input Class Initialized
+INFO - 2024-03-23 06:04:26 --> Language Class Initialized
+INFO - 2024-03-23 06:04:26 --> Loader Class Initialized
+INFO - 2024-03-23 06:04:26 --> Helper loaded: url_helper
+INFO - 2024-03-23 06:04:26 --> Database Driver Class Initialized
+INFO - 2024-03-23 06:04:26 --> Controller Class Initialized
+ERROR - 2024-03-23 06:04:33 --> Severity: Warning --> file_put_contents(D:/uploads/plb/from_portal/): failed to open stream: No such file or directory D:\xampp\htdocs\plb\dummyservice\application\controllers\PortalApi.php 220
+INFO - 2024-03-23 06:04:33 --> Model "Mportal_data" initialized
+ERROR - 2024-03-23 06:04:33 --> Query error: [Microsoft][ODBC Driver 18 for SQL Server][SQL Server]Cannot create an instance of OLE DB provider "Microsoft.ACE.OLEDB.12.0" for linked server "(null)". - Invalid query: 
+        EXEC SP_UPLOAD_PORTAL_DATA
+        @VNOMORAJU='00002701824220240322100010',
+        @VFILENAME='00002701824220240322100010.xlsx',
+        @VUSER='SP_SYNC',
+        @VMODE='PROCESS'
+        
+INFO - 2024-03-23 06:04:33 --> Language file loaded: language/english/db_lang.php
+INFO - 2024-03-23 06:04:44 --> Config Class Initialized
+INFO - 2024-03-23 06:04:44 --> Hooks Class Initialized
+DEBUG - 2024-03-23 06:04:44 --> UTF-8 Support Enabled
+INFO - 2024-03-23 06:04:44 --> Utf8 Class Initialized
+INFO - 2024-03-23 06:04:44 --> URI Class Initialized
+INFO - 2024-03-23 06:04:44 --> Router Class Initialized
+INFO - 2024-03-23 06:04:44 --> Output Class Initialized
+INFO - 2024-03-23 06:04:44 --> Security Class Initialized
+DEBUG - 2024-03-23 06:04:44 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-03-23 06:04:44 --> Input Class Initialized
+INFO - 2024-03-23 06:04:44 --> Language Class Initialized
+INFO - 2024-03-23 06:04:44 --> Loader Class Initialized
+INFO - 2024-03-23 06:04:44 --> Helper loaded: url_helper
+INFO - 2024-03-23 06:04:44 --> Database Driver Class Initialized
+INFO - 2024-03-23 06:04:44 --> Controller Class Initialized
+INFO - 2024-03-23 06:04:46 --> Model "Mportal_data" initialized
+ERROR - 2024-03-23 06:04:46 --> Query error: [Microsoft][ODBC Driver 18 for SQL Server][SQL Server]Cannot create an instance of OLE DB provider "Microsoft.ACE.OLEDB.12.0" for linked server "(null)". - Invalid query: 
+        EXEC SP_UPLOAD_PORTAL_DATA
+        @VNOMORAJU='15032702559920240322500509',
+        @VFILENAME='15032702559920240322500509.xlsx',
+        @VUSER='SP_SYNC',
+        @VMODE='PROCESS'
+        
+INFO - 2024-03-23 06:04:46 --> Language file loaded: language/english/db_lang.php
+INFO - 2024-03-23 06:08:31 --> Config Class Initialized
+INFO - 2024-03-23 06:08:31 --> Hooks Class Initialized
+DEBUG - 2024-03-23 06:08:31 --> UTF-8 Support Enabled
+INFO - 2024-03-23 06:08:31 --> Utf8 Class Initialized
+INFO - 2024-03-23 06:08:31 --> URI Class Initialized
+INFO - 2024-03-23 06:08:31 --> Router Class Initialized
+INFO - 2024-03-23 06:08:31 --> Output Class Initialized
+INFO - 2024-03-23 06:08:31 --> Security Class Initialized
+DEBUG - 2024-03-23 06:08:31 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-03-23 06:08:31 --> Input Class Initialized
+INFO - 2024-03-23 06:08:31 --> Language Class Initialized
+INFO - 2024-03-23 06:08:31 --> Loader Class Initialized
+INFO - 2024-03-23 06:08:31 --> Helper loaded: url_helper
+INFO - 2024-03-23 06:08:31 --> Database Driver Class Initialized
+INFO - 2024-03-23 06:08:31 --> Controller Class Initialized
+INFO - 2024-03-23 06:08:35 --> Model "Mportal_data" initialized
+ERROR - 2024-03-23 06:08:35 --> Query error: [Microsoft][ODBC Driver 18 for SQL Server][SQL Server]Cannot create an instance of OLE DB provider "Microsoft.ACE.OLEDB.12.0" for linked server "(null)". - Invalid query: 
+        EXEC SP_UPLOAD_PORTAL_DATA
+        @VNOMORAJU='15032702559920240322500509',
+        @VFILENAME='BC27_15032702559920240322500509.xlsx',
+        @VUSER='SP_SYNC',
+        @VMODE='PROCESS'
+        
+INFO - 2024-03-23 06:08:35 --> Language file loaded: language/english/db_lang.php
+INFO - 2024-03-23 06:48:52 --> Config Class Initialized
+INFO - 2024-03-23 06:48:52 --> Hooks Class Initialized
+DEBUG - 2024-03-23 06:48:52 --> UTF-8 Support Enabled
+INFO - 2024-03-23 06:48:52 --> Utf8 Class Initialized
+INFO - 2024-03-23 06:48:52 --> URI Class Initialized
+INFO - 2024-03-23 06:48:52 --> Router Class Initialized
+INFO - 2024-03-23 06:48:52 --> Output Class Initialized
+INFO - 2024-03-23 06:48:52 --> Security Class Initialized
+DEBUG - 2024-03-23 06:48:52 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-03-23 06:48:52 --> Input Class Initialized
+INFO - 2024-03-23 06:48:52 --> Language Class Initialized
+INFO - 2024-03-23 06:48:52 --> Loader Class Initialized
+INFO - 2024-03-23 06:48:52 --> Helper loaded: url_helper
+INFO - 2024-03-23 06:48:52 --> Database Driver Class Initialized
+INFO - 2024-03-23 06:48:53 --> Controller Class Initialized
+INFO - 2024-03-23 06:48:54 --> Model "Mportal_data" initialized
+INFO - 2024-03-23 06:48:57 --> Final output sent to browser
+DEBUG - 2024-03-23 06:48:57 --> Total execution time: 4.2427
+INFO - 2024-03-23 06:54:09 --> Config Class Initialized
+INFO - 2024-03-23 06:54:09 --> Hooks Class Initialized
+DEBUG - 2024-03-23 06:54:09 --> UTF-8 Support Enabled
+INFO - 2024-03-23 06:54:09 --> Utf8 Class Initialized
+INFO - 2024-03-23 06:54:09 --> URI Class Initialized
+INFO - 2024-03-23 06:54:09 --> Router Class Initialized
+INFO - 2024-03-23 06:54:09 --> Output Class Initialized
+INFO - 2024-03-23 06:54:09 --> Security Class Initialized
+DEBUG - 2024-03-23 06:54:09 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-03-23 06:54:09 --> Input Class Initialized
+INFO - 2024-03-23 06:54:09 --> Language Class Initialized
+INFO - 2024-03-23 06:54:09 --> Loader Class Initialized
+INFO - 2024-03-23 06:54:09 --> Helper loaded: url_helper
+INFO - 2024-03-23 06:54:09 --> Database Driver Class Initialized
+INFO - 2024-03-23 06:54:09 --> Controller Class Initialized
+INFO - 2024-03-23 06:54:11 --> Model "Mportal_data" initialized
+INFO - 2024-03-23 06:54:14 --> Final output sent to browser
+DEBUG - 2024-03-23 06:54:14 --> Total execution time: 4.3361
+INFO - 2024-03-23 06:56:13 --> Config Class Initialized
+INFO - 2024-03-23 06:56:13 --> Hooks Class Initialized
+DEBUG - 2024-03-23 06:56:13 --> UTF-8 Support Enabled
+INFO - 2024-03-23 06:56:13 --> Utf8 Class Initialized
+INFO - 2024-03-23 06:56:13 --> URI Class Initialized
+INFO - 2024-03-23 06:56:13 --> Router Class Initialized
+INFO - 2024-03-23 06:56:13 --> Output Class Initialized
+INFO - 2024-03-23 06:56:13 --> Security Class Initialized
+DEBUG - 2024-03-23 06:56:13 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-03-23 06:56:13 --> Input Class Initialized
+INFO - 2024-03-23 06:56:13 --> Language Class Initialized
+INFO - 2024-03-23 06:56:13 --> Loader Class Initialized
+INFO - 2024-03-23 06:56:13 --> Helper loaded: url_helper
+INFO - 2024-03-23 06:56:13 --> Database Driver Class Initialized
+INFO - 2024-03-23 06:56:13 --> Controller Class Initialized
+INFO - 2024-03-23 06:56:21 --> Model "Mportal_data" initialized
+INFO - 2024-03-23 06:56:24 --> Final output sent to browser
+DEBUG - 2024-03-23 06:56:24 --> Total execution time: 10.6063
+INFO - 2024-03-23 06:57:34 --> Config Class Initialized
+INFO - 2024-03-23 06:57:34 --> Hooks Class Initialized
+DEBUG - 2024-03-23 06:57:34 --> UTF-8 Support Enabled
+INFO - 2024-03-23 06:57:34 --> Utf8 Class Initialized
+INFO - 2024-03-23 06:57:34 --> URI Class Initialized
+INFO - 2024-03-23 06:57:34 --> Router Class Initialized
+INFO - 2024-03-23 06:57:34 --> Output Class Initialized
+INFO - 2024-03-23 06:57:34 --> Security Class Initialized
+DEBUG - 2024-03-23 06:57:34 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-03-23 06:57:34 --> Input Class Initialized
+INFO - 2024-03-23 06:57:34 --> Language Class Initialized
+INFO - 2024-03-23 06:57:34 --> Loader Class Initialized
+INFO - 2024-03-23 06:57:34 --> Helper loaded: url_helper
+INFO - 2024-03-23 06:57:34 --> Database Driver Class Initialized
+INFO - 2024-03-23 06:57:34 --> Controller Class Initialized
+INFO - 2024-03-23 06:57:54 --> Model "Mportal_data" initialized
+INFO - 2024-03-23 06:57:57 --> Final output sent to browser
+DEBUG - 2024-03-23 06:57:57 --> Total execution time: 22.8522
+INFO - 2024-03-23 07:20:22 --> Config Class Initialized
+INFO - 2024-03-23 07:20:22 --> Hooks Class Initialized
+DEBUG - 2024-03-23 07:20:22 --> UTF-8 Support Enabled
+INFO - 2024-03-23 07:20:22 --> Utf8 Class Initialized
+INFO - 2024-03-23 07:20:22 --> URI Class Initialized
+INFO - 2024-03-23 07:20:22 --> Router Class Initialized
+INFO - 2024-03-23 07:20:22 --> Output Class Initialized
+INFO - 2024-03-23 07:20:22 --> Security Class Initialized
+DEBUG - 2024-03-23 07:20:22 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-03-23 07:20:22 --> Input Class Initialized
+INFO - 2024-03-23 07:20:22 --> Language Class Initialized
+INFO - 2024-03-23 07:20:22 --> Loader Class Initialized
+INFO - 2024-03-23 07:20:22 --> Helper loaded: url_helper
+INFO - 2024-03-23 07:20:22 --> Database Driver Class Initialized
+INFO - 2024-03-23 07:20:22 --> Controller Class Initialized
+INFO - 2024-03-23 07:20:22 --> Model "Mconfigkey" initialized
+INFO - 2024-03-23 07:20:22 --> Final output sent to browser
+DEBUG - 2024-03-23 07:20:22 --> Total execution time: 0.0213
+INFO - 2024-03-23 07:20:45 --> Config Class Initialized
+INFO - 2024-03-23 07:20:45 --> Hooks Class Initialized
+DEBUG - 2024-03-23 07:20:45 --> UTF-8 Support Enabled
+INFO - 2024-03-23 07:20:45 --> Utf8 Class Initialized
+INFO - 2024-03-23 07:20:45 --> URI Class Initialized
+INFO - 2024-03-23 07:20:45 --> Router Class Initialized
+INFO - 2024-03-23 07:20:45 --> Output Class Initialized
+INFO - 2024-03-23 07:20:45 --> Security Class Initialized
+DEBUG - 2024-03-23 07:20:45 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-03-23 07:20:45 --> Input Class Initialized
+INFO - 2024-03-23 07:20:45 --> Language Class Initialized
+INFO - 2024-03-23 07:20:45 --> Loader Class Initialized
+INFO - 2024-03-23 07:20:45 --> Helper loaded: url_helper
+INFO - 2024-03-23 07:20:45 --> Database Driver Class Initialized
+INFO - 2024-03-23 07:20:45 --> Controller Class Initialized
+INFO - 2024-03-23 07:20:45 --> Model "Mauth" initialized
+INFO - 2024-03-23 07:20:45 --> Model "Mconfigkey" initialized
+INFO - 2024-03-23 07:20:45 --> Final output sent to browser
+DEBUG - 2024-03-23 07:20:45 --> Total execution time: 0.0566
+INFO - 2024-03-23 07:20:50 --> Config Class Initialized
+INFO - 2024-03-23 07:20:50 --> Hooks Class Initialized
+DEBUG - 2024-03-23 07:20:50 --> UTF-8 Support Enabled
+INFO - 2024-03-23 07:20:50 --> Utf8 Class Initialized
+INFO - 2024-03-23 07:20:50 --> URI Class Initialized
+INFO - 2024-03-23 07:20:50 --> Router Class Initialized
+INFO - 2024-03-23 07:20:50 --> Output Class Initialized
+INFO - 2024-03-23 07:20:50 --> Security Class Initialized
+DEBUG - 2024-03-23 07:20:50 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-03-23 07:20:50 --> Input Class Initialized
+INFO - 2024-03-23 07:20:50 --> Language Class Initialized
+INFO - 2024-03-23 07:20:50 --> Loader Class Initialized
+INFO - 2024-03-23 07:20:50 --> Helper loaded: url_helper
+INFO - 2024-03-23 07:20:50 --> Database Driver Class Initialized
+INFO - 2024-03-23 07:20:50 --> Controller Class Initialized
+INFO - 2024-03-23 07:20:50 --> Model "Mconfigkey" initialized
+INFO - 2024-03-23 07:20:50 --> Model "Mportal_data" initialized
+INFO - 2024-03-23 07:20:51 --> Final output sent to browser
+DEBUG - 2024-03-23 07:20:51 --> Total execution time: 0.0923
+INFO - 2024-03-23 07:20:53 --> Config Class Initialized
+INFO - 2024-03-23 07:20:53 --> Hooks Class Initialized
+DEBUG - 2024-03-23 07:20:53 --> UTF-8 Support Enabled
+INFO - 2024-03-23 07:20:53 --> Utf8 Class Initialized
+INFO - 2024-03-23 07:20:53 --> URI Class Initialized
+INFO - 2024-03-23 07:20:53 --> Router Class Initialized
+INFO - 2024-03-23 07:20:53 --> Output Class Initialized
+INFO - 2024-03-23 07:20:53 --> Security Class Initialized
+DEBUG - 2024-03-23 07:20:53 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-03-23 07:20:53 --> Input Class Initialized
+INFO - 2024-03-23 07:20:53 --> Language Class Initialized
+INFO - 2024-03-23 07:20:53 --> Loader Class Initialized
+INFO - 2024-03-23 07:20:53 --> Helper loaded: url_helper
+INFO - 2024-03-23 07:20:53 --> Database Driver Class Initialized
+INFO - 2024-03-23 07:20:53 --> Controller Class Initialized
+INFO - 2024-03-23 07:20:53 --> Model "Mconfigkey" initialized
+INFO - 2024-03-23 07:20:53 --> Model "Mportal_data" initialized
+INFO - 2024-03-23 07:20:53 --> Final output sent to browser
+DEBUG - 2024-03-23 07:20:53 --> Total execution time: 0.0485
+INFO - 2024-03-23 07:20:58 --> Config Class Initialized
+INFO - 2024-03-23 07:20:58 --> Hooks Class Initialized
+DEBUG - 2024-03-23 07:20:58 --> UTF-8 Support Enabled
+INFO - 2024-03-23 07:20:58 --> Utf8 Class Initialized
+INFO - 2024-03-23 07:20:58 --> URI Class Initialized
+INFO - 2024-03-23 07:20:58 --> Router Class Initialized
+INFO - 2024-03-23 07:20:58 --> Output Class Initialized
+INFO - 2024-03-23 07:20:58 --> Security Class Initialized
+DEBUG - 2024-03-23 07:20:58 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-03-23 07:20:58 --> Input Class Initialized
+INFO - 2024-03-23 07:20:58 --> Language Class Initialized
+INFO - 2024-03-23 07:20:58 --> Loader Class Initialized
+INFO - 2024-03-23 07:20:58 --> Helper loaded: url_helper
+INFO - 2024-03-23 07:20:58 --> Database Driver Class Initialized
+INFO - 2024-03-23 07:20:58 --> Controller Class Initialized
+INFO - 2024-03-23 07:21:00 --> Final output sent to browser
+DEBUG - 2024-03-23 07:21:00 --> Total execution time: 1.8796
+INFO - 2024-03-23 07:21:10 --> Config Class Initialized
+INFO - 2024-03-23 07:21:10 --> Hooks Class Initialized
+DEBUG - 2024-03-23 07:21:10 --> UTF-8 Support Enabled
+INFO - 2024-03-23 07:21:10 --> Utf8 Class Initialized
+INFO - 2024-03-23 07:21:10 --> URI Class Initialized
+INFO - 2024-03-23 07:21:10 --> Router Class Initialized
+INFO - 2024-03-23 07:21:10 --> Output Class Initialized
+INFO - 2024-03-23 07:21:10 --> Security Class Initialized
+DEBUG - 2024-03-23 07:21:10 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-03-23 07:21:10 --> Input Class Initialized
+INFO - 2024-03-23 07:21:10 --> Language Class Initialized
+INFO - 2024-03-23 07:21:10 --> Loader Class Initialized
+INFO - 2024-03-23 07:21:10 --> Helper loaded: url_helper
+INFO - 2024-03-23 07:21:10 --> Database Driver Class Initialized
+INFO - 2024-03-23 07:21:10 --> Controller Class Initialized
+INFO - 2024-03-23 07:21:40 --> Model "Mportal_data" initialized
+INFO - 2024-03-23 07:21:43 --> Final output sent to browser
+DEBUG - 2024-03-23 07:21:43 --> Total execution time: 32.9938
+INFO - 2024-03-23 07:21:56 --> Config Class Initialized
+INFO - 2024-03-23 07:21:56 --> Hooks Class Initialized
+DEBUG - 2024-03-23 07:21:56 --> UTF-8 Support Enabled
+INFO - 2024-03-23 07:21:56 --> Utf8 Class Initialized
+INFO - 2024-03-23 07:21:56 --> URI Class Initialized
+INFO - 2024-03-23 07:21:56 --> Router Class Initialized
+INFO - 2024-03-23 07:21:56 --> Output Class Initialized
+INFO - 2024-03-23 07:21:56 --> Security Class Initialized
+DEBUG - 2024-03-23 07:21:56 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-03-23 07:21:56 --> Input Class Initialized
+INFO - 2024-03-23 07:21:56 --> Language Class Initialized
+INFO - 2024-03-23 07:21:56 --> Loader Class Initialized
+INFO - 2024-03-23 07:21:56 --> Helper loaded: url_helper
+INFO - 2024-03-23 07:21:56 --> Database Driver Class Initialized
+INFO - 2024-03-23 07:21:56 --> Controller Class Initialized
+INFO - 2024-03-23 07:21:57 --> Model "Mportal_data" initialized
+INFO - 2024-03-23 07:21:59 --> Final output sent to browser
+DEBUG - 2024-03-23 07:21:59 --> Total execution time: 3.2407
+INFO - 2024-03-23 07:28:29 --> Config Class Initialized
+INFO - 2024-03-23 07:28:29 --> Hooks Class Initialized
+DEBUG - 2024-03-23 07:28:29 --> UTF-8 Support Enabled
+INFO - 2024-03-23 07:28:29 --> Utf8 Class Initialized
+INFO - 2024-03-23 07:28:29 --> URI Class Initialized
+INFO - 2024-03-23 07:28:29 --> Router Class Initialized
+INFO - 2024-03-23 07:28:29 --> Output Class Initialized
+INFO - 2024-03-23 07:28:29 --> Security Class Initialized
+DEBUG - 2024-03-23 07:28:29 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-03-23 07:28:29 --> Input Class Initialized
+INFO - 2024-03-23 07:28:29 --> Language Class Initialized
+INFO - 2024-03-23 07:28:29 --> Loader Class Initialized
+INFO - 2024-03-23 07:28:29 --> Helper loaded: url_helper
+INFO - 2024-03-23 07:28:29 --> Database Driver Class Initialized
+INFO - 2024-03-23 07:28:29 --> Controller Class Initialized
+INFO - 2024-03-23 07:28:30 --> Final output sent to browser
+DEBUG - 2024-03-23 07:28:30 --> Total execution time: 1.9170
+INFO - 2024-03-23 07:28:47 --> Config Class Initialized
+INFO - 2024-03-23 07:28:47 --> Hooks Class Initialized
+DEBUG - 2024-03-23 07:28:47 --> UTF-8 Support Enabled
+INFO - 2024-03-23 07:28:47 --> Utf8 Class Initialized
+INFO - 2024-03-23 07:28:47 --> URI Class Initialized
+INFO - 2024-03-23 07:28:47 --> Router Class Initialized
+INFO - 2024-03-23 07:28:47 --> Output Class Initialized
+INFO - 2024-03-23 07:28:47 --> Security Class Initialized
+DEBUG - 2024-03-23 07:28:47 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-03-23 07:28:47 --> Input Class Initialized
+INFO - 2024-03-23 07:28:47 --> Language Class Initialized
+INFO - 2024-03-23 07:28:47 --> Loader Class Initialized
+INFO - 2024-03-23 07:28:47 --> Helper loaded: url_helper
+INFO - 2024-03-23 07:28:47 --> Database Driver Class Initialized
+INFO - 2024-03-23 07:28:47 --> Controller Class Initialized
+INFO - 2024-03-23 07:29:07 --> Model "Mportal_data" initialized
+ERROR - 2024-03-23 07:29:09 --> Query error: [Microsoft][ODBC Driver 18 for SQL Server][SQL Server]Violation of PRIMARY KEY constraint 'PK__HEADER__1AD8B5381C03AC65'. Cannot insert duplicate key in object 'dbo._FROM_PORTAL40_HEADER'. The duplicate key value is (15032702559920240322500509). - Invalid query: 
+        EXEC SP_UPLOAD_PORTAL_DATA
+        @VNOMORAJU='15032702559920240322500509',
+        @VFILENAME='BC27_15032702559920240322500509.xlsx',
+        @VUSER='SP_SYNC',
+        @VMODE='PROCESS'
+        
+INFO - 2024-03-23 07:29:09 --> Language file loaded: language/english/db_lang.php
+INFO - 2024-03-23 07:35:19 --> Config Class Initialized
+INFO - 2024-03-23 07:35:19 --> Hooks Class Initialized
+DEBUG - 2024-03-23 07:35:19 --> UTF-8 Support Enabled
+INFO - 2024-03-23 07:35:19 --> Utf8 Class Initialized
+INFO - 2024-03-23 07:35:19 --> URI Class Initialized
+INFO - 2024-03-23 07:35:19 --> Router Class Initialized
+INFO - 2024-03-23 07:35:19 --> Output Class Initialized
+INFO - 2024-03-23 07:35:19 --> Security Class Initialized
+DEBUG - 2024-03-23 07:35:19 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-03-23 07:35:19 --> Input Class Initialized
+INFO - 2024-03-23 07:35:19 --> Language Class Initialized
+INFO - 2024-03-23 07:35:19 --> Loader Class Initialized
+INFO - 2024-03-23 07:35:19 --> Helper loaded: url_helper
+INFO - 2024-03-23 07:35:19 --> Database Driver Class Initialized
+INFO - 2024-03-23 07:35:19 --> Controller Class Initialized
+INFO - 2024-03-23 07:35:20 --> Model "Mportal_data" initialized
+ERROR - 2024-03-23 07:35:21 --> Query error: [Microsoft][ODBC Driver 18 for SQL Server][SQL Server]Violation of PRIMARY KEY constraint 'PK__HEADER__1AD8B5381C03AC65'. Cannot insert duplicate key in object 'dbo._FROM_PORTAL40_HEADER'. The duplicate key value is (15032702559920240322500509). - Invalid query: 
+        EXEC SP_UPLOAD_PORTAL_DATA
+        @VNOMORAJU='15032702559920240322500509',
+        @VFILENAME='BC27_15032702559920240322500509.xlsx',
+        @VUSER='SP_SYNC',
+        @VMODE='PROCESS'
+        
+INFO - 2024-03-23 07:35:21 --> Language file loaded: language/english/db_lang.php
+INFO - 2024-03-23 07:35:32 --> Config Class Initialized
+INFO - 2024-03-23 07:35:32 --> Hooks Class Initialized
+DEBUG - 2024-03-23 07:35:32 --> UTF-8 Support Enabled
+INFO - 2024-03-23 07:35:32 --> Utf8 Class Initialized
+INFO - 2024-03-23 07:35:32 --> URI Class Initialized
+INFO - 2024-03-23 07:35:32 --> Router Class Initialized
+INFO - 2024-03-23 07:35:32 --> Output Class Initialized
+INFO - 2024-03-23 07:35:32 --> Security Class Initialized
+DEBUG - 2024-03-23 07:35:32 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-03-23 07:35:32 --> Input Class Initialized
+INFO - 2024-03-23 07:35:32 --> Language Class Initialized
+INFO - 2024-03-23 07:35:32 --> Loader Class Initialized
+INFO - 2024-03-23 07:35:32 --> Helper loaded: url_helper
+INFO - 2024-03-23 07:35:32 --> Database Driver Class Initialized
+INFO - 2024-03-23 07:35:32 --> Controller Class Initialized
+INFO - 2024-03-23 07:35:34 --> Model "Mportal_data" initialized
+INFO - 2024-03-23 07:35:36 --> Final output sent to browser
+DEBUG - 2024-03-23 07:35:36 --> Total execution time: 4.3576
+INFO - 2024-03-23 07:36:22 --> Config Class Initialized
+INFO - 2024-03-23 07:36:22 --> Hooks Class Initialized
+DEBUG - 2024-03-23 07:36:22 --> UTF-8 Support Enabled
+INFO - 2024-03-23 07:36:22 --> Utf8 Class Initialized
+INFO - 2024-03-23 07:36:22 --> URI Class Initialized
+INFO - 2024-03-23 07:36:22 --> Router Class Initialized
+INFO - 2024-03-23 07:36:22 --> Output Class Initialized
+INFO - 2024-03-23 07:36:22 --> Security Class Initialized
+DEBUG - 2024-03-23 07:36:22 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-03-23 07:36:22 --> Input Class Initialized
+INFO - 2024-03-23 07:36:22 --> Language Class Initialized
+INFO - 2024-03-23 07:36:22 --> Loader Class Initialized
+INFO - 2024-03-23 07:36:22 --> Helper loaded: url_helper
+INFO - 2024-03-23 07:36:22 --> Database Driver Class Initialized
+INFO - 2024-03-23 07:36:22 --> Controller Class Initialized
+INFO - 2024-03-23 07:36:24 --> Model "Mportal_data" initialized
+INFO - 2024-03-23 07:36:26 --> Final output sent to browser
+DEBUG - 2024-03-23 07:36:26 --> Total execution time: 3.9329
+INFO - 2024-03-23 22:38:39 --> Config Class Initialized
+INFO - 2024-03-23 22:38:39 --> Hooks Class Initialized
+DEBUG - 2024-03-23 22:38:39 --> UTF-8 Support Enabled
+INFO - 2024-03-23 22:38:39 --> Utf8 Class Initialized
+INFO - 2024-03-23 22:38:39 --> URI Class Initialized
+INFO - 2024-03-23 22:38:39 --> Router Class Initialized
+INFO - 2024-03-23 22:38:39 --> Output Class Initialized
+INFO - 2024-03-23 22:38:39 --> Security Class Initialized
+DEBUG - 2024-03-23 22:38:39 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-03-23 22:38:39 --> Input Class Initialized
+INFO - 2024-03-23 22:38:39 --> Language Class Initialized
+INFO - 2024-03-23 22:38:39 --> Loader Class Initialized
+INFO - 2024-03-23 22:38:39 --> Helper loaded: url_helper
+INFO - 2024-03-23 22:38:39 --> Database Driver Class Initialized
+INFO - 2024-03-23 22:38:39 --> Controller Class Initialized
+INFO - 2024-03-23 22:38:39 --> Model "Mconfigkey" initialized
+INFO - 2024-03-23 22:38:39 --> Final output sent to browser
+DEBUG - 2024-03-23 22:38:39 --> Total execution time: 0.3715
+INFO - 2024-03-23 22:38:46 --> Config Class Initialized
+INFO - 2024-03-23 22:38:46 --> Hooks Class Initialized
+DEBUG - 2024-03-23 22:38:46 --> UTF-8 Support Enabled
+INFO - 2024-03-23 22:38:46 --> Utf8 Class Initialized
+INFO - 2024-03-23 22:38:46 --> URI Class Initialized
+INFO - 2024-03-23 22:38:46 --> Router Class Initialized
+INFO - 2024-03-23 22:38:46 --> Output Class Initialized
+INFO - 2024-03-23 22:38:46 --> Security Class Initialized
+DEBUG - 2024-03-23 22:38:46 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-03-23 22:38:46 --> Input Class Initialized
+INFO - 2024-03-23 22:38:46 --> Language Class Initialized
+INFO - 2024-03-23 22:38:46 --> Loader Class Initialized
+INFO - 2024-03-23 22:38:46 --> Helper loaded: url_helper
+INFO - 2024-03-23 22:38:46 --> Database Driver Class Initialized
+INFO - 2024-03-23 22:38:46 --> Controller Class Initialized
+INFO - 2024-03-23 22:38:46 --> Model "Mauth" initialized
+INFO - 2024-03-23 22:38:46 --> Model "Mconfigkey" initialized
+INFO - 2024-03-23 22:38:46 --> Final output sent to browser
+DEBUG - 2024-03-23 22:38:46 --> Total execution time: 0.0332
+INFO - 2024-03-23 22:39:54 --> Config Class Initialized
+INFO - 2024-03-23 22:39:54 --> Hooks Class Initialized
+DEBUG - 2024-03-23 22:39:54 --> UTF-8 Support Enabled
+INFO - 2024-03-23 22:39:54 --> Utf8 Class Initialized
+INFO - 2024-03-23 22:39:54 --> URI Class Initialized
+INFO - 2024-03-23 22:39:54 --> Router Class Initialized
+INFO - 2024-03-23 22:39:54 --> Output Class Initialized
+INFO - 2024-03-23 22:39:54 --> Security Class Initialized
+DEBUG - 2024-03-23 22:39:54 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-03-23 22:39:54 --> Input Class Initialized
+INFO - 2024-03-23 22:39:54 --> Language Class Initialized
+INFO - 2024-03-23 22:39:54 --> Loader Class Initialized
+INFO - 2024-03-23 22:39:54 --> Helper loaded: url_helper
+INFO - 2024-03-23 22:39:54 --> Database Driver Class Initialized
+INFO - 2024-03-23 22:39:54 --> Controller Class Initialized
+INFO - 2024-03-23 22:39:54 --> Model "Mconfigkey" initialized
+INFO - 2024-03-23 22:39:54 --> Model "Mportal_data" initialized
+INFO - 2024-03-23 22:39:55 --> Final output sent to browser
+DEBUG - 2024-03-23 22:39:55 --> Total execution time: 0.0752
+INFO - 2024-03-23 22:39:57 --> Config Class Initialized
+INFO - 2024-03-23 22:39:57 --> Hooks Class Initialized
+DEBUG - 2024-03-23 22:39:57 --> UTF-8 Support Enabled
+INFO - 2024-03-23 22:39:57 --> Utf8 Class Initialized
+INFO - 2024-03-23 22:39:57 --> URI Class Initialized
+INFO - 2024-03-23 22:39:57 --> Router Class Initialized
+INFO - 2024-03-23 22:39:57 --> Output Class Initialized
+INFO - 2024-03-23 22:39:57 --> Security Class Initialized
+DEBUG - 2024-03-23 22:39:57 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-03-23 22:39:57 --> Input Class Initialized
+INFO - 2024-03-23 22:39:57 --> Language Class Initialized
+INFO - 2024-03-23 22:39:57 --> Loader Class Initialized
+INFO - 2024-03-23 22:39:57 --> Helper loaded: url_helper
+INFO - 2024-03-23 22:39:57 --> Database Driver Class Initialized
+INFO - 2024-03-23 22:39:57 --> Controller Class Initialized
+INFO - 2024-03-23 22:39:58 --> Final output sent to browser
+DEBUG - 2024-03-23 22:39:58 --> Total execution time: 1.2985
+INFO - 2024-03-23 22:40:05 --> Config Class Initialized
+INFO - 2024-03-23 22:40:05 --> Hooks Class Initialized
+DEBUG - 2024-03-23 22:40:05 --> UTF-8 Support Enabled
+INFO - 2024-03-23 22:40:05 --> Utf8 Class Initialized
+INFO - 2024-03-23 22:40:05 --> URI Class Initialized
+INFO - 2024-03-23 22:40:05 --> Router Class Initialized
+INFO - 2024-03-23 22:40:05 --> Output Class Initialized
+INFO - 2024-03-23 22:40:05 --> Security Class Initialized
+DEBUG - 2024-03-23 22:40:05 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-03-23 22:40:05 --> Input Class Initialized
+INFO - 2024-03-23 22:40:05 --> Language Class Initialized
+INFO - 2024-03-23 22:40:05 --> Loader Class Initialized
+INFO - 2024-03-23 22:40:05 --> Helper loaded: url_helper
+INFO - 2024-03-23 22:40:05 --> Database Driver Class Initialized
+INFO - 2024-03-23 22:40:05 --> Controller Class Initialized
+INFO - 2024-03-23 22:40:06 --> Model "Mportal_data" initialized
+ERROR - 2024-03-23 22:40:06 --> Query error: [Microsoft][ODBC Driver 18 for SQL Server][SQL Server]The OLE DB provider "Microsoft.ACE.OLEDB.12.0" for linked server "(null)" reported an error. The provider did not give any information about the error. - Invalid query: 
+        EXEC SP_UPLOAD_PORTAL_DATA
+        @VNOMORAJU='15032702559920240322500507',
+        @VFILENAME='BC27_15032702559920240322500507.xlsx',
+        @VUSER='SP_SYNC',
+        @VMODE='PROCESS'
+        
+INFO - 2024-03-23 22:40:06 --> Language file loaded: language/english/db_lang.php
+INFO - 2024-03-23 22:41:39 --> Config Class Initialized
+INFO - 2024-03-23 22:41:39 --> Hooks Class Initialized
+DEBUG - 2024-03-23 22:41:39 --> UTF-8 Support Enabled
+INFO - 2024-03-23 22:41:39 --> Utf8 Class Initialized
+INFO - 2024-03-23 22:41:39 --> URI Class Initialized
+INFO - 2024-03-23 22:41:39 --> Router Class Initialized
+INFO - 2024-03-23 22:41:39 --> Output Class Initialized
+INFO - 2024-03-23 22:41:39 --> Security Class Initialized
+DEBUG - 2024-03-23 22:41:39 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-03-23 22:41:39 --> Input Class Initialized
+INFO - 2024-03-23 22:41:39 --> Language Class Initialized
+INFO - 2024-03-23 22:41:39 --> Loader Class Initialized
+INFO - 2024-03-23 22:41:39 --> Helper loaded: url_helper
+INFO - 2024-03-23 22:41:39 --> Database Driver Class Initialized
+INFO - 2024-03-23 22:41:39 --> Controller Class Initialized
+INFO - 2024-03-23 22:41:45 --> Final output sent to browser
+DEBUG - 2024-03-23 22:41:45 --> Total execution time: 6.7802
+INFO - 2024-03-23 22:41:58 --> Config Class Initialized
+INFO - 2024-03-23 22:41:58 --> Hooks Class Initialized
+DEBUG - 2024-03-23 22:41:58 --> UTF-8 Support Enabled
+INFO - 2024-03-23 22:41:58 --> Utf8 Class Initialized
+INFO - 2024-03-23 22:41:58 --> URI Class Initialized
+INFO - 2024-03-23 22:41:58 --> Router Class Initialized
+INFO - 2024-03-23 22:41:58 --> Output Class Initialized
+INFO - 2024-03-23 22:41:58 --> Security Class Initialized
+DEBUG - 2024-03-23 22:41:58 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-03-23 22:41:58 --> Input Class Initialized
+INFO - 2024-03-23 22:41:58 --> Language Class Initialized
+INFO - 2024-03-23 22:41:58 --> Loader Class Initialized
+INFO - 2024-03-23 22:41:58 --> Helper loaded: url_helper
+INFO - 2024-03-23 22:41:58 --> Database Driver Class Initialized
+INFO - 2024-03-23 22:41:58 --> Controller Class Initialized
+INFO - 2024-03-23 22:42:29 --> Final output sent to browser
+DEBUG - 2024-03-23 22:42:29 --> Total execution time: 30.3949
+INFO - 2024-03-23 22:43:28 --> Config Class Initialized
+INFO - 2024-03-23 22:43:28 --> Hooks Class Initialized
+DEBUG - 2024-03-23 22:43:28 --> UTF-8 Support Enabled
+INFO - 2024-03-23 22:43:28 --> Utf8 Class Initialized
+INFO - 2024-03-23 22:43:28 --> URI Class Initialized
+INFO - 2024-03-23 22:43:28 --> Router Class Initialized
+INFO - 2024-03-23 22:43:28 --> Output Class Initialized
+INFO - 2024-03-23 22:43:28 --> Security Class Initialized
+DEBUG - 2024-03-23 22:43:28 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-03-23 22:43:28 --> Input Class Initialized
+INFO - 2024-03-23 22:43:28 --> Language Class Initialized
+INFO - 2024-03-23 22:43:28 --> Loader Class Initialized
+INFO - 2024-03-23 22:43:28 --> Helper loaded: url_helper
+INFO - 2024-03-23 22:43:28 --> Database Driver Class Initialized
+INFO - 2024-03-23 22:43:28 --> Controller Class Initialized
+INFO - 2024-03-23 22:43:30 --> Model "Mportal_data" initialized
+ERROR - 2024-03-23 22:43:30 --> Query error: [Microsoft][ODBC Driver 18 for SQL Server][SQL Server]The OLE DB provider "Microsoft.ACE.OLEDB.12.0" for linked server "(null)" reported an error. The provider did not give any information about the error. - Invalid query: 
+        EXEC SP_UPLOAD_PORTAL_DATA
+        @VNOMORAJU='15032702559920240322500507',
+        @VFILENAME='BC27_15032702559920240322500507.xlsx',
+        @VUSER='SP_SYNC',
+        @VMODE='PROCESS'
+        
+INFO - 2024-03-23 22:43:30 --> Language file loaded: language/english/db_lang.php
+INFO - 2024-03-23 23:29:36 --> Config Class Initialized
+INFO - 2024-03-23 23:29:36 --> Hooks Class Initialized
+DEBUG - 2024-03-23 23:29:36 --> UTF-8 Support Enabled
+INFO - 2024-03-23 23:29:36 --> Utf8 Class Initialized
+INFO - 2024-03-23 23:29:36 --> URI Class Initialized
+INFO - 2024-03-23 23:29:36 --> Router Class Initialized
+INFO - 2024-03-23 23:29:36 --> Output Class Initialized
+INFO - 2024-03-23 23:29:36 --> Security Class Initialized
+DEBUG - 2024-03-23 23:29:36 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-03-23 23:29:36 --> Input Class Initialized
+INFO - 2024-03-23 23:29:36 --> Language Class Initialized
+INFO - 2024-03-23 23:29:36 --> Loader Class Initialized
+INFO - 2024-03-23 23:29:36 --> Helper loaded: url_helper
+INFO - 2024-03-23 23:29:36 --> Database Driver Class Initialized
+INFO - 2024-03-23 23:29:36 --> Controller Class Initialized
+INFO - 2024-03-23 23:29:37 --> Model "Mportal_data" initialized
+ERROR - 2024-03-23 23:29:37 --> Query error: [Microsoft][ODBC Driver 18 for SQL Server][SQL Server]The OLE DB provider "Microsoft.ACE.OLEDB.12.0" for linked server "(null)" reported an error. The provider did not give any information about the error. - Invalid query: 
+        EXEC SP_UPLOAD_PORTAL_DATA
+        @VNOMORAJU='15032702559920240322500507',
+        @VFILENAME='BC27_15032702559920240322500507.xlsx',
+        @VUSER='SP_SYNC',
+        @VMODE='PROCESS'
+        
+INFO - 2024-03-23 23:29:37 --> Language file loaded: language/english/db_lang.php

@@ -1,0 +1,781 @@
+INFO - 2023-11-22 09:23:59 --> Config Class Initialized
+INFO - 2023-11-22 09:23:59 --> Hooks Class Initialized
+DEBUG - 2023-11-22 09:23:59 --> UTF-8 Support Enabled
+INFO - 2023-11-22 09:23:59 --> Utf8 Class Initialized
+INFO - 2023-11-22 09:23:59 --> URI Class Initialized
+INFO - 2023-11-22 09:23:59 --> Router Class Initialized
+INFO - 2023-11-22 09:23:59 --> Output Class Initialized
+INFO - 2023-11-22 09:23:59 --> Security Class Initialized
+DEBUG - 2023-11-22 09:24:00 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-11-22 09:24:00 --> Input Class Initialized
+INFO - 2023-11-22 09:24:00 --> Language Class Initialized
+INFO - 2023-11-22 09:24:00 --> Loader Class Initialized
+INFO - 2023-11-22 09:24:00 --> Helper loaded: url_helper
+INFO - 2023-11-22 09:24:00 --> Database Driver Class Initialized
+INFO - 2023-11-22 09:24:00 --> Controller Class Initialized
+INFO - 2023-11-22 09:24:01 --> Model "Mauth" initialized
+INFO - 2023-11-22 09:24:01 --> Model "Mconfigkey" initialized
+INFO - 2023-11-22 09:24:01 --> Final output sent to browser
+DEBUG - 2023-11-22 09:24:01 --> Total execution time: 2.7047
+INFO - 2023-11-22 09:49:57 --> Config Class Initialized
+INFO - 2023-11-22 09:49:57 --> Hooks Class Initialized
+DEBUG - 2023-11-22 09:49:57 --> UTF-8 Support Enabled
+INFO - 2023-11-22 09:49:57 --> Utf8 Class Initialized
+INFO - 2023-11-22 09:49:57 --> URI Class Initialized
+INFO - 2023-11-22 09:49:57 --> Router Class Initialized
+INFO - 2023-11-22 09:49:57 --> Output Class Initialized
+INFO - 2023-11-22 09:49:57 --> Security Class Initialized
+DEBUG - 2023-11-22 09:49:57 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-11-22 09:49:57 --> Input Class Initialized
+INFO - 2023-11-22 09:49:57 --> Language Class Initialized
+INFO - 2023-11-22 09:49:57 --> Loader Class Initialized
+INFO - 2023-11-22 09:49:57 --> Helper loaded: url_helper
+INFO - 2023-11-22 09:49:57 --> Database Driver Class Initialized
+INFO - 2023-11-22 09:49:58 --> Controller Class Initialized
+INFO - 2023-11-22 09:49:58 --> Model "Mauth" initialized
+INFO - 2023-11-22 09:49:58 --> Final output sent to browser
+DEBUG - 2023-11-22 09:49:58 --> Total execution time: 0.4054
+INFO - 2023-11-22 09:56:01 --> Config Class Initialized
+INFO - 2023-11-22 09:56:01 --> Hooks Class Initialized
+DEBUG - 2023-11-22 09:56:01 --> UTF-8 Support Enabled
+INFO - 2023-11-22 09:56:01 --> Utf8 Class Initialized
+INFO - 2023-11-22 09:56:01 --> URI Class Initialized
+INFO - 2023-11-22 09:56:01 --> Router Class Initialized
+INFO - 2023-11-22 09:56:01 --> Output Class Initialized
+INFO - 2023-11-22 09:56:01 --> Security Class Initialized
+DEBUG - 2023-11-22 09:56:01 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-11-22 09:56:01 --> Input Class Initialized
+INFO - 2023-11-22 09:56:01 --> Language Class Initialized
+INFO - 2023-11-22 09:56:02 --> Loader Class Initialized
+INFO - 2023-11-22 09:56:02 --> Helper loaded: url_helper
+INFO - 2023-11-22 09:56:02 --> Database Driver Class Initialized
+INFO - 2023-11-22 09:56:02 --> Controller Class Initialized
+INFO - 2023-11-22 09:56:02 --> Model "Mconfigkey" initialized
+INFO - 2023-11-22 09:56:02 --> Final output sent to browser
+DEBUG - 2023-11-22 09:56:02 --> Total execution time: 1.1674
+INFO - 2023-11-22 09:56:12 --> Config Class Initialized
+INFO - 2023-11-22 09:56:12 --> Hooks Class Initialized
+DEBUG - 2023-11-22 09:56:12 --> UTF-8 Support Enabled
+INFO - 2023-11-22 09:56:12 --> Utf8 Class Initialized
+INFO - 2023-11-22 09:56:12 --> URI Class Initialized
+INFO - 2023-11-22 09:56:12 --> Router Class Initialized
+INFO - 2023-11-22 09:56:12 --> Output Class Initialized
+INFO - 2023-11-22 09:56:12 --> Security Class Initialized
+DEBUG - 2023-11-22 09:56:12 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-11-22 09:56:12 --> Input Class Initialized
+INFO - 2023-11-22 09:56:12 --> Language Class Initialized
+INFO - 2023-11-22 09:56:12 --> Loader Class Initialized
+INFO - 2023-11-22 09:56:12 --> Helper loaded: url_helper
+INFO - 2023-11-22 09:56:12 --> Database Driver Class Initialized
+INFO - 2023-11-22 09:56:13 --> Controller Class Initialized
+INFO - 2023-11-22 09:56:13 --> Model "Mauth" initialized
+INFO - 2023-11-22 09:56:13 --> Model "Mconfigkey" initialized
+INFO - 2023-11-22 09:56:13 --> Final output sent to browser
+DEBUG - 2023-11-22 09:56:13 --> Total execution time: 0.3591
+INFO - 2023-11-22 11:34:57 --> Config Class Initialized
+INFO - 2023-11-22 11:34:57 --> Hooks Class Initialized
+DEBUG - 2023-11-22 11:34:57 --> UTF-8 Support Enabled
+INFO - 2023-11-22 11:34:57 --> Utf8 Class Initialized
+INFO - 2023-11-22 11:34:57 --> URI Class Initialized
+INFO - 2023-11-22 11:34:57 --> Router Class Initialized
+INFO - 2023-11-22 11:34:57 --> Output Class Initialized
+INFO - 2023-11-22 11:34:57 --> Security Class Initialized
+DEBUG - 2023-11-22 11:34:57 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-11-22 11:34:57 --> Input Class Initialized
+INFO - 2023-11-22 11:34:57 --> Language Class Initialized
+INFO - 2023-11-22 11:34:57 --> Loader Class Initialized
+INFO - 2023-11-22 11:34:57 --> Helper loaded: url_helper
+INFO - 2023-11-22 11:34:57 --> Database Driver Class Initialized
+INFO - 2023-11-22 11:34:58 --> Controller Class Initialized
+INFO - 2023-11-22 11:34:58 --> Model "Mauth" initialized
+INFO - 2023-11-22 11:34:58 --> Model "Mconfigkey" initialized
+INFO - 2023-11-22 11:34:58 --> Final output sent to browser
+DEBUG - 2023-11-22 11:34:58 --> Total execution time: 0.3579
+INFO - 2023-11-22 11:53:41 --> Config Class Initialized
+INFO - 2023-11-22 11:53:41 --> Hooks Class Initialized
+DEBUG - 2023-11-22 11:53:41 --> UTF-8 Support Enabled
+INFO - 2023-11-22 11:53:41 --> Utf8 Class Initialized
+INFO - 2023-11-22 11:53:41 --> URI Class Initialized
+INFO - 2023-11-22 11:53:41 --> Router Class Initialized
+INFO - 2023-11-22 11:53:41 --> Output Class Initialized
+INFO - 2023-11-22 11:53:41 --> Security Class Initialized
+DEBUG - 2023-11-22 11:53:41 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-11-22 11:53:41 --> Input Class Initialized
+INFO - 2023-11-22 11:53:41 --> Language Class Initialized
+INFO - 2023-11-22 11:53:41 --> Loader Class Initialized
+INFO - 2023-11-22 11:53:41 --> Helper loaded: url_helper
+INFO - 2023-11-22 11:53:41 --> Database Driver Class Initialized
+INFO - 2023-11-22 11:53:41 --> Controller Class Initialized
+INFO - 2023-11-22 11:53:41 --> Model "Mauth" initialized
+INFO - 2023-11-22 11:53:41 --> Model "Mconfigkey" initialized
+INFO - 2023-11-22 11:53:41 --> Final output sent to browser
+DEBUG - 2023-11-22 11:53:41 --> Total execution time: 0.3953
+INFO - 2023-11-22 11:53:56 --> Config Class Initialized
+INFO - 2023-11-22 11:53:56 --> Hooks Class Initialized
+DEBUG - 2023-11-22 11:53:56 --> UTF-8 Support Enabled
+INFO - 2023-11-22 11:53:56 --> Utf8 Class Initialized
+INFO - 2023-11-22 11:53:56 --> URI Class Initialized
+INFO - 2023-11-22 11:53:56 --> Router Class Initialized
+INFO - 2023-11-22 11:53:56 --> Output Class Initialized
+INFO - 2023-11-22 11:53:56 --> Security Class Initialized
+DEBUG - 2023-11-22 11:53:56 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-11-22 11:53:56 --> Input Class Initialized
+INFO - 2023-11-22 11:53:56 --> Language Class Initialized
+INFO - 2023-11-22 11:53:56 --> Loader Class Initialized
+INFO - 2023-11-22 11:53:56 --> Helper loaded: url_helper
+INFO - 2023-11-22 11:53:56 --> Database Driver Class Initialized
+INFO - 2023-11-22 11:53:56 --> Controller Class Initialized
+INFO - 2023-11-22 11:53:56 --> Model "Mauth" initialized
+INFO - 2023-11-22 11:53:56 --> Model "Mconfigkey" initialized
+INFO - 2023-11-22 11:53:56 --> Final output sent to browser
+DEBUG - 2023-11-22 11:53:56 --> Total execution time: 0.3741
+INFO - 2023-11-22 11:56:48 --> Config Class Initialized
+INFO - 2023-11-22 11:56:48 --> Hooks Class Initialized
+DEBUG - 2023-11-22 11:56:48 --> UTF-8 Support Enabled
+INFO - 2023-11-22 11:56:48 --> Utf8 Class Initialized
+INFO - 2023-11-22 11:56:48 --> URI Class Initialized
+INFO - 2023-11-22 11:56:48 --> Router Class Initialized
+INFO - 2023-11-22 11:56:48 --> Output Class Initialized
+INFO - 2023-11-22 11:56:48 --> Security Class Initialized
+DEBUG - 2023-11-22 11:56:49 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-11-22 11:56:49 --> Input Class Initialized
+INFO - 2023-11-22 11:56:49 --> Language Class Initialized
+INFO - 2023-11-22 11:56:49 --> Loader Class Initialized
+INFO - 2023-11-22 11:56:49 --> Helper loaded: url_helper
+INFO - 2023-11-22 11:56:49 --> Database Driver Class Initialized
+INFO - 2023-11-22 11:56:49 --> Controller Class Initialized
+INFO - 2023-11-22 11:56:49 --> Model "Mauth" initialized
+INFO - 2023-11-22 11:56:49 --> Model "Mconfigkey" initialized
+INFO - 2023-11-22 11:56:49 --> Final output sent to browser
+DEBUG - 2023-11-22 11:56:49 --> Total execution time: 0.3096
+INFO - 2023-11-22 11:59:38 --> Config Class Initialized
+INFO - 2023-11-22 11:59:38 --> Hooks Class Initialized
+DEBUG - 2023-11-22 11:59:38 --> UTF-8 Support Enabled
+INFO - 2023-11-22 11:59:38 --> Utf8 Class Initialized
+INFO - 2023-11-22 11:59:38 --> URI Class Initialized
+INFO - 2023-11-22 11:59:38 --> Router Class Initialized
+INFO - 2023-11-22 11:59:38 --> Output Class Initialized
+INFO - 2023-11-22 11:59:38 --> Security Class Initialized
+DEBUG - 2023-11-22 11:59:38 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-11-22 11:59:38 --> Input Class Initialized
+INFO - 2023-11-22 11:59:38 --> Language Class Initialized
+INFO - 2023-11-22 11:59:38 --> Loader Class Initialized
+INFO - 2023-11-22 11:59:38 --> Helper loaded: url_helper
+INFO - 2023-11-22 11:59:38 --> Database Driver Class Initialized
+INFO - 2023-11-22 11:59:38 --> Controller Class Initialized
+INFO - 2023-11-22 11:59:38 --> Model "Mauth" initialized
+INFO - 2023-11-22 11:59:38 --> Model "Mconfigkey" initialized
+INFO - 2023-11-22 11:59:38 --> Final output sent to browser
+DEBUG - 2023-11-22 11:59:38 --> Total execution time: 0.3157
+INFO - 2023-11-22 12:03:42 --> Config Class Initialized
+INFO - 2023-11-22 12:03:42 --> Hooks Class Initialized
+DEBUG - 2023-11-22 12:03:42 --> UTF-8 Support Enabled
+INFO - 2023-11-22 12:03:42 --> Utf8 Class Initialized
+INFO - 2023-11-22 12:03:42 --> URI Class Initialized
+INFO - 2023-11-22 12:03:42 --> Router Class Initialized
+INFO - 2023-11-22 12:03:42 --> Output Class Initialized
+INFO - 2023-11-22 12:03:42 --> Security Class Initialized
+DEBUG - 2023-11-22 12:03:42 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-11-22 12:03:42 --> Input Class Initialized
+INFO - 2023-11-22 12:03:42 --> Language Class Initialized
+INFO - 2023-11-22 12:03:42 --> Loader Class Initialized
+INFO - 2023-11-22 12:03:42 --> Helper loaded: url_helper
+INFO - 2023-11-22 12:03:42 --> Database Driver Class Initialized
+INFO - 2023-11-22 12:03:43 --> Controller Class Initialized
+INFO - 2023-11-22 12:03:43 --> Model "Mauth" initialized
+INFO - 2023-11-22 12:03:43 --> Model "Mconfigkey" initialized
+INFO - 2023-11-22 12:03:43 --> Final output sent to browser
+DEBUG - 2023-11-22 12:03:43 --> Total execution time: 0.3323
+INFO - 2023-11-22 12:05:11 --> Config Class Initialized
+INFO - 2023-11-22 12:05:11 --> Hooks Class Initialized
+DEBUG - 2023-11-22 12:05:11 --> UTF-8 Support Enabled
+INFO - 2023-11-22 12:05:11 --> Utf8 Class Initialized
+INFO - 2023-11-22 12:05:11 --> URI Class Initialized
+INFO - 2023-11-22 12:05:11 --> Router Class Initialized
+INFO - 2023-11-22 12:05:11 --> Output Class Initialized
+INFO - 2023-11-22 12:05:11 --> Security Class Initialized
+DEBUG - 2023-11-22 12:05:11 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-11-22 12:05:11 --> Input Class Initialized
+INFO - 2023-11-22 12:05:11 --> Language Class Initialized
+INFO - 2023-11-22 12:05:11 --> Loader Class Initialized
+INFO - 2023-11-22 12:05:11 --> Helper loaded: url_helper
+INFO - 2023-11-22 12:05:11 --> Database Driver Class Initialized
+INFO - 2023-11-22 12:05:11 --> Controller Class Initialized
+INFO - 2023-11-22 12:05:11 --> Model "Mauth" initialized
+INFO - 2023-11-22 12:05:11 --> Model "Mconfigkey" initialized
+INFO - 2023-11-22 12:05:11 --> Final output sent to browser
+DEBUG - 2023-11-22 12:05:11 --> Total execution time: 0.3406
+INFO - 2023-11-22 12:10:29 --> Config Class Initialized
+INFO - 2023-11-22 12:10:29 --> Hooks Class Initialized
+DEBUG - 2023-11-22 12:10:29 --> UTF-8 Support Enabled
+INFO - 2023-11-22 12:10:29 --> Utf8 Class Initialized
+INFO - 2023-11-22 12:10:29 --> URI Class Initialized
+INFO - 2023-11-22 12:10:29 --> Router Class Initialized
+INFO - 2023-11-22 12:10:29 --> Output Class Initialized
+INFO - 2023-11-22 12:10:29 --> Security Class Initialized
+DEBUG - 2023-11-22 12:10:29 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-11-22 12:10:29 --> Input Class Initialized
+INFO - 2023-11-22 12:10:29 --> Language Class Initialized
+INFO - 2023-11-22 12:10:29 --> Loader Class Initialized
+INFO - 2023-11-22 12:10:29 --> Helper loaded: url_helper
+INFO - 2023-11-22 12:10:29 --> Database Driver Class Initialized
+INFO - 2023-11-22 12:10:30 --> Controller Class Initialized
+INFO - 2023-11-22 12:10:30 --> Model "Mauth" initialized
+INFO - 2023-11-22 12:10:30 --> Model "Mconfigkey" initialized
+INFO - 2023-11-22 12:10:30 --> Final output sent to browser
+DEBUG - 2023-11-22 12:10:30 --> Total execution time: 0.3774
+INFO - 2023-11-22 12:11:37 --> Config Class Initialized
+INFO - 2023-11-22 12:11:37 --> Hooks Class Initialized
+DEBUG - 2023-11-22 12:11:37 --> UTF-8 Support Enabled
+INFO - 2023-11-22 12:11:37 --> Utf8 Class Initialized
+INFO - 2023-11-22 12:11:37 --> URI Class Initialized
+INFO - 2023-11-22 12:11:37 --> Router Class Initialized
+INFO - 2023-11-22 12:11:37 --> Output Class Initialized
+INFO - 2023-11-22 12:11:37 --> Security Class Initialized
+DEBUG - 2023-11-22 12:11:37 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-11-22 12:11:37 --> Input Class Initialized
+INFO - 2023-11-22 12:11:37 --> Language Class Initialized
+INFO - 2023-11-22 12:11:37 --> Loader Class Initialized
+INFO - 2023-11-22 12:11:37 --> Helper loaded: url_helper
+INFO - 2023-11-22 12:11:37 --> Database Driver Class Initialized
+INFO - 2023-11-22 12:11:38 --> Controller Class Initialized
+INFO - 2023-11-22 12:11:38 --> Model "Mauth" initialized
+INFO - 2023-11-22 12:11:38 --> Model "Mconfigkey" initialized
+INFO - 2023-11-22 12:11:38 --> Final output sent to browser
+DEBUG - 2023-11-22 12:11:38 --> Total execution time: 0.6939
+INFO - 2023-11-22 12:11:51 --> Config Class Initialized
+INFO - 2023-11-22 12:11:51 --> Hooks Class Initialized
+DEBUG - 2023-11-22 12:11:51 --> UTF-8 Support Enabled
+INFO - 2023-11-22 12:11:51 --> Utf8 Class Initialized
+INFO - 2023-11-22 12:11:51 --> URI Class Initialized
+INFO - 2023-11-22 12:11:51 --> Router Class Initialized
+INFO - 2023-11-22 12:11:51 --> Output Class Initialized
+INFO - 2023-11-22 12:11:51 --> Security Class Initialized
+DEBUG - 2023-11-22 12:11:51 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-11-22 12:11:51 --> Input Class Initialized
+INFO - 2023-11-22 12:11:51 --> Language Class Initialized
+INFO - 2023-11-22 12:11:51 --> Loader Class Initialized
+INFO - 2023-11-22 12:11:51 --> Helper loaded: url_helper
+INFO - 2023-11-22 12:11:51 --> Database Driver Class Initialized
+INFO - 2023-11-22 12:11:52 --> Controller Class Initialized
+INFO - 2023-11-22 12:11:52 --> Model "Mauth" initialized
+INFO - 2023-11-22 12:11:52 --> Model "Mconfigkey" initialized
+INFO - 2023-11-22 12:11:52 --> Final output sent to browser
+DEBUG - 2023-11-22 12:11:52 --> Total execution time: 0.2937
+INFO - 2023-11-22 12:16:58 --> Config Class Initialized
+INFO - 2023-11-22 12:16:58 --> Hooks Class Initialized
+DEBUG - 2023-11-22 12:16:58 --> UTF-8 Support Enabled
+INFO - 2023-11-22 12:16:58 --> Utf8 Class Initialized
+INFO - 2023-11-22 12:16:58 --> URI Class Initialized
+INFO - 2023-11-22 12:16:58 --> Router Class Initialized
+INFO - 2023-11-22 12:16:58 --> Output Class Initialized
+INFO - 2023-11-22 12:16:58 --> Security Class Initialized
+DEBUG - 2023-11-22 12:16:58 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-11-22 12:16:58 --> Input Class Initialized
+INFO - 2023-11-22 12:16:58 --> Language Class Initialized
+INFO - 2023-11-22 12:16:58 --> Loader Class Initialized
+INFO - 2023-11-22 12:16:58 --> Helper loaded: url_helper
+INFO - 2023-11-22 12:16:58 --> Database Driver Class Initialized
+INFO - 2023-11-22 12:16:58 --> Controller Class Initialized
+INFO - 2023-11-22 12:16:58 --> Model "Mauth" initialized
+INFO - 2023-11-22 12:16:58 --> Model "Mconfigkey" initialized
+INFO - 2023-11-22 12:16:58 --> Final output sent to browser
+DEBUG - 2023-11-22 12:16:58 --> Total execution time: 0.4510
+INFO - 2023-11-22 12:18:15 --> Config Class Initialized
+INFO - 2023-11-22 12:18:15 --> Hooks Class Initialized
+DEBUG - 2023-11-22 12:18:15 --> UTF-8 Support Enabled
+INFO - 2023-11-22 12:18:15 --> Utf8 Class Initialized
+INFO - 2023-11-22 12:18:15 --> URI Class Initialized
+INFO - 2023-11-22 12:18:15 --> Router Class Initialized
+INFO - 2023-11-22 12:18:15 --> Output Class Initialized
+INFO - 2023-11-22 12:18:15 --> Security Class Initialized
+DEBUG - 2023-11-22 12:18:15 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-11-22 12:18:15 --> Input Class Initialized
+INFO - 2023-11-22 12:18:15 --> Language Class Initialized
+INFO - 2023-11-22 12:18:15 --> Loader Class Initialized
+INFO - 2023-11-22 12:18:15 --> Helper loaded: url_helper
+INFO - 2023-11-22 12:18:15 --> Database Driver Class Initialized
+INFO - 2023-11-22 12:18:15 --> Controller Class Initialized
+INFO - 2023-11-22 12:18:15 --> Model "Mauth" initialized
+INFO - 2023-11-22 12:18:15 --> Model "Mconfigkey" initialized
+INFO - 2023-11-22 12:18:15 --> Final output sent to browser
+DEBUG - 2023-11-22 12:18:15 --> Total execution time: 0.3088
+INFO - 2023-11-22 12:20:08 --> Config Class Initialized
+INFO - 2023-11-22 12:20:08 --> Hooks Class Initialized
+DEBUG - 2023-11-22 12:20:08 --> UTF-8 Support Enabled
+INFO - 2023-11-22 12:20:08 --> Utf8 Class Initialized
+INFO - 2023-11-22 12:20:08 --> URI Class Initialized
+INFO - 2023-11-22 12:20:08 --> Router Class Initialized
+INFO - 2023-11-22 12:20:08 --> Output Class Initialized
+INFO - 2023-11-22 12:20:08 --> Security Class Initialized
+DEBUG - 2023-11-22 12:20:08 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-11-22 12:20:08 --> Input Class Initialized
+INFO - 2023-11-22 12:20:08 --> Language Class Initialized
+INFO - 2023-11-22 12:20:08 --> Loader Class Initialized
+INFO - 2023-11-22 12:20:08 --> Helper loaded: url_helper
+INFO - 2023-11-22 12:20:08 --> Database Driver Class Initialized
+INFO - 2023-11-22 12:20:08 --> Controller Class Initialized
+INFO - 2023-11-22 12:20:08 --> Model "Mauth" initialized
+INFO - 2023-11-22 12:20:08 --> Model "Mconfigkey" initialized
+INFO - 2023-11-22 12:20:08 --> Final output sent to browser
+DEBUG - 2023-11-22 12:20:08 --> Total execution time: 0.5487
+INFO - 2023-11-22 12:21:59 --> Config Class Initialized
+INFO - 2023-11-22 12:21:59 --> Hooks Class Initialized
+DEBUG - 2023-11-22 12:21:59 --> UTF-8 Support Enabled
+INFO - 2023-11-22 12:21:59 --> Utf8 Class Initialized
+INFO - 2023-11-22 12:21:59 --> URI Class Initialized
+INFO - 2023-11-22 12:21:59 --> Router Class Initialized
+INFO - 2023-11-22 12:21:59 --> Output Class Initialized
+INFO - 2023-11-22 12:21:59 --> Security Class Initialized
+DEBUG - 2023-11-22 12:21:59 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-11-22 12:21:59 --> Input Class Initialized
+INFO - 2023-11-22 12:21:59 --> Language Class Initialized
+INFO - 2023-11-22 12:21:59 --> Loader Class Initialized
+INFO - 2023-11-22 12:21:59 --> Helper loaded: url_helper
+INFO - 2023-11-22 12:21:59 --> Database Driver Class Initialized
+INFO - 2023-11-22 12:21:59 --> Controller Class Initialized
+INFO - 2023-11-22 12:21:59 --> Model "Mauth" initialized
+INFO - 2023-11-22 12:21:59 --> Model "Mconfigkey" initialized
+INFO - 2023-11-22 12:21:59 --> Final output sent to browser
+DEBUG - 2023-11-22 12:21:59 --> Total execution time: 0.4853
+INFO - 2023-11-22 12:22:06 --> Config Class Initialized
+INFO - 2023-11-22 12:22:06 --> Hooks Class Initialized
+DEBUG - 2023-11-22 12:22:06 --> UTF-8 Support Enabled
+INFO - 2023-11-22 12:22:06 --> Utf8 Class Initialized
+INFO - 2023-11-22 12:22:06 --> URI Class Initialized
+INFO - 2023-11-22 12:22:06 --> Router Class Initialized
+INFO - 2023-11-22 12:22:06 --> Output Class Initialized
+INFO - 2023-11-22 12:22:06 --> Security Class Initialized
+DEBUG - 2023-11-22 12:22:06 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-11-22 12:22:06 --> Input Class Initialized
+INFO - 2023-11-22 12:22:06 --> Language Class Initialized
+INFO - 2023-11-22 12:22:06 --> Loader Class Initialized
+INFO - 2023-11-22 12:22:06 --> Helper loaded: url_helper
+INFO - 2023-11-22 12:22:06 --> Database Driver Class Initialized
+INFO - 2023-11-22 12:22:07 --> Controller Class Initialized
+INFO - 2023-11-22 12:22:07 --> Model "Mconfigkey" initialized
+INFO - 2023-11-22 12:22:07 --> Model "Msync_doc" initialized
+INFO - 2023-11-22 12:22:08 --> Final output sent to browser
+DEBUG - 2023-11-22 12:22:08 --> Total execution time: 1.7058
+INFO - 2023-11-22 12:31:38 --> Config Class Initialized
+INFO - 2023-11-22 12:31:38 --> Hooks Class Initialized
+DEBUG - 2023-11-22 12:31:38 --> UTF-8 Support Enabled
+INFO - 2023-11-22 12:31:38 --> Utf8 Class Initialized
+INFO - 2023-11-22 12:31:38 --> URI Class Initialized
+INFO - 2023-11-22 12:31:38 --> Router Class Initialized
+INFO - 2023-11-22 12:31:38 --> Output Class Initialized
+INFO - 2023-11-22 12:31:38 --> Security Class Initialized
+DEBUG - 2023-11-22 12:31:38 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-11-22 12:31:38 --> Input Class Initialized
+INFO - 2023-11-22 12:31:38 --> Language Class Initialized
+INFO - 2023-11-22 12:31:38 --> Loader Class Initialized
+INFO - 2023-11-22 12:31:38 --> Helper loaded: url_helper
+INFO - 2023-11-22 12:31:38 --> Database Driver Class Initialized
+INFO - 2023-11-22 12:31:38 --> Controller Class Initialized
+INFO - 2023-11-22 12:31:38 --> Model "Mauth" initialized
+INFO - 2023-11-22 12:31:38 --> Model "Mconfigkey" initialized
+INFO - 2023-11-22 12:31:38 --> Final output sent to browser
+DEBUG - 2023-11-22 12:31:38 --> Total execution time: 0.3342
+INFO - 2023-11-22 12:33:06 --> Config Class Initialized
+INFO - 2023-11-22 12:33:06 --> Hooks Class Initialized
+DEBUG - 2023-11-22 12:33:06 --> UTF-8 Support Enabled
+INFO - 2023-11-22 12:33:06 --> Utf8 Class Initialized
+INFO - 2023-11-22 12:33:06 --> URI Class Initialized
+INFO - 2023-11-22 12:33:06 --> Router Class Initialized
+INFO - 2023-11-22 12:33:06 --> Output Class Initialized
+INFO - 2023-11-22 12:33:06 --> Security Class Initialized
+DEBUG - 2023-11-22 12:33:06 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-11-22 12:33:06 --> Input Class Initialized
+INFO - 2023-11-22 12:33:06 --> Language Class Initialized
+INFO - 2023-11-22 12:33:06 --> Loader Class Initialized
+INFO - 2023-11-22 12:33:06 --> Helper loaded: url_helper
+INFO - 2023-11-22 12:33:06 --> Database Driver Class Initialized
+INFO - 2023-11-22 12:33:06 --> Controller Class Initialized
+INFO - 2023-11-22 12:33:06 --> Model "Mauth" initialized
+INFO - 2023-11-22 12:33:06 --> Model "Mconfigkey" initialized
+INFO - 2023-11-22 12:33:06 --> Final output sent to browser
+DEBUG - 2023-11-22 12:33:06 --> Total execution time: 0.3371
+INFO - 2023-11-22 12:40:54 --> Config Class Initialized
+INFO - 2023-11-22 12:40:54 --> Hooks Class Initialized
+DEBUG - 2023-11-22 12:40:54 --> UTF-8 Support Enabled
+INFO - 2023-11-22 12:40:54 --> Utf8 Class Initialized
+INFO - 2023-11-22 12:40:54 --> URI Class Initialized
+INFO - 2023-11-22 12:40:54 --> Router Class Initialized
+INFO - 2023-11-22 12:40:54 --> Output Class Initialized
+INFO - 2023-11-22 12:40:54 --> Security Class Initialized
+DEBUG - 2023-11-22 12:40:54 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-11-22 12:40:54 --> Input Class Initialized
+INFO - 2023-11-22 12:40:54 --> Language Class Initialized
+INFO - 2023-11-22 12:40:54 --> Loader Class Initialized
+INFO - 2023-11-22 12:40:54 --> Helper loaded: url_helper
+INFO - 2023-11-22 12:40:54 --> Database Driver Class Initialized
+INFO - 2023-11-22 12:40:54 --> Controller Class Initialized
+INFO - 2023-11-22 12:40:54 --> Model "Mconfigkey" initialized
+INFO - 2023-11-22 12:40:54 --> Final output sent to browser
+DEBUG - 2023-11-22 12:40:54 --> Total execution time: 0.6249
+INFO - 2023-11-22 12:43:17 --> Config Class Initialized
+INFO - 2023-11-22 12:43:17 --> Hooks Class Initialized
+DEBUG - 2023-11-22 12:43:17 --> UTF-8 Support Enabled
+INFO - 2023-11-22 12:43:17 --> Utf8 Class Initialized
+INFO - 2023-11-22 12:43:17 --> URI Class Initialized
+INFO - 2023-11-22 12:43:17 --> Router Class Initialized
+INFO - 2023-11-22 12:43:17 --> Output Class Initialized
+INFO - 2023-11-22 12:43:17 --> Security Class Initialized
+DEBUG - 2023-11-22 12:43:17 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-11-22 12:43:17 --> Input Class Initialized
+INFO - 2023-11-22 12:43:17 --> Language Class Initialized
+INFO - 2023-11-22 12:43:17 --> Loader Class Initialized
+INFO - 2023-11-22 12:43:17 --> Helper loaded: url_helper
+INFO - 2023-11-22 12:43:17 --> Database Driver Class Initialized
+INFO - 2023-11-22 12:43:17 --> Controller Class Initialized
+INFO - 2023-11-22 12:43:17 --> Model "Mauth" initialized
+INFO - 2023-11-22 12:43:17 --> Model "Mconfigkey" initialized
+INFO - 2023-11-22 12:43:17 --> Final output sent to browser
+DEBUG - 2023-11-22 12:43:17 --> Total execution time: 0.3476
+INFO - 2023-11-22 14:01:40 --> Config Class Initialized
+INFO - 2023-11-22 14:01:40 --> Hooks Class Initialized
+DEBUG - 2023-11-22 14:01:40 --> UTF-8 Support Enabled
+INFO - 2023-11-22 14:01:40 --> Utf8 Class Initialized
+INFO - 2023-11-22 14:01:40 --> URI Class Initialized
+INFO - 2023-11-22 14:01:40 --> Router Class Initialized
+INFO - 2023-11-22 14:01:40 --> Output Class Initialized
+INFO - 2023-11-22 14:01:40 --> Security Class Initialized
+DEBUG - 2023-11-22 14:01:40 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-11-22 14:01:40 --> Input Class Initialized
+INFO - 2023-11-22 14:01:40 --> Language Class Initialized
+INFO - 2023-11-22 14:01:40 --> Loader Class Initialized
+INFO - 2023-11-22 14:01:40 --> Helper loaded: url_helper
+INFO - 2023-11-22 14:01:40 --> Database Driver Class Initialized
+INFO - 2023-11-22 14:01:41 --> Controller Class Initialized
+INFO - 2023-11-22 14:01:41 --> Model "Mconfigkey" initialized
+INFO - 2023-11-22 14:01:41 --> Final output sent to browser
+DEBUG - 2023-11-22 14:01:41 --> Total execution time: 1.2384
+INFO - 2023-11-22 14:07:07 --> Config Class Initialized
+INFO - 2023-11-22 14:07:07 --> Hooks Class Initialized
+DEBUG - 2023-11-22 14:07:07 --> UTF-8 Support Enabled
+INFO - 2023-11-22 14:07:07 --> Utf8 Class Initialized
+INFO - 2023-11-22 14:07:07 --> URI Class Initialized
+INFO - 2023-11-22 14:07:07 --> Router Class Initialized
+INFO - 2023-11-22 14:07:07 --> Output Class Initialized
+INFO - 2023-11-22 14:07:07 --> Security Class Initialized
+DEBUG - 2023-11-22 14:07:07 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-11-22 14:07:07 --> Input Class Initialized
+INFO - 2023-11-22 14:07:07 --> Language Class Initialized
+INFO - 2023-11-22 14:07:07 --> Loader Class Initialized
+INFO - 2023-11-22 14:07:07 --> Helper loaded: url_helper
+INFO - 2023-11-22 14:07:08 --> Database Driver Class Initialized
+INFO - 2023-11-22 14:07:08 --> Controller Class Initialized
+INFO - 2023-11-22 14:07:08 --> Model "Mconfigkey" initialized
+INFO - 2023-11-22 14:07:08 --> Final output sent to browser
+DEBUG - 2023-11-22 14:07:08 --> Total execution time: 1.1492
+INFO - 2023-11-22 14:14:34 --> Config Class Initialized
+INFO - 2023-11-22 14:14:34 --> Hooks Class Initialized
+DEBUG - 2023-11-22 14:14:34 --> UTF-8 Support Enabled
+INFO - 2023-11-22 14:14:34 --> Utf8 Class Initialized
+INFO - 2023-11-22 14:14:34 --> URI Class Initialized
+INFO - 2023-11-22 14:14:34 --> Router Class Initialized
+INFO - 2023-11-22 14:14:35 --> Output Class Initialized
+INFO - 2023-11-22 14:14:35 --> Security Class Initialized
+DEBUG - 2023-11-22 14:14:35 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-11-22 14:14:35 --> Input Class Initialized
+INFO - 2023-11-22 14:14:35 --> Language Class Initialized
+INFO - 2023-11-22 14:14:35 --> Loader Class Initialized
+INFO - 2023-11-22 14:14:35 --> Helper loaded: url_helper
+INFO - 2023-11-22 14:14:35 --> Database Driver Class Initialized
+INFO - 2023-11-22 14:14:36 --> Controller Class Initialized
+INFO - 2023-11-22 14:14:36 --> Model "Mconfigkey" initialized
+INFO - 2023-11-22 14:14:36 --> Final output sent to browser
+DEBUG - 2023-11-22 14:14:36 --> Total execution time: 2.1471
+INFO - 2023-11-22 14:22:51 --> Config Class Initialized
+INFO - 2023-11-22 14:22:51 --> Hooks Class Initialized
+DEBUG - 2023-11-22 14:22:51 --> UTF-8 Support Enabled
+INFO - 2023-11-22 14:22:51 --> Utf8 Class Initialized
+INFO - 2023-11-22 14:22:51 --> URI Class Initialized
+INFO - 2023-11-22 14:22:51 --> Router Class Initialized
+INFO - 2023-11-22 14:22:51 --> Output Class Initialized
+INFO - 2023-11-22 14:22:51 --> Security Class Initialized
+DEBUG - 2023-11-22 14:22:51 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-11-22 14:22:51 --> Input Class Initialized
+INFO - 2023-11-22 14:22:51 --> Language Class Initialized
+INFO - 2023-11-22 14:22:51 --> Loader Class Initialized
+INFO - 2023-11-22 14:22:51 --> Helper loaded: url_helper
+INFO - 2023-11-22 14:22:51 --> Database Driver Class Initialized
+INFO - 2023-11-22 14:22:51 --> Controller Class Initialized
+INFO - 2023-11-22 14:22:51 --> Model "Mauth" initialized
+INFO - 2023-11-22 14:22:51 --> Final output sent to browser
+DEBUG - 2023-11-22 14:22:51 --> Total execution time: 0.5170
+INFO - 2023-11-22 14:23:01 --> Config Class Initialized
+INFO - 2023-11-22 14:23:01 --> Hooks Class Initialized
+DEBUG - 2023-11-22 14:23:01 --> UTF-8 Support Enabled
+INFO - 2023-11-22 14:23:01 --> Utf8 Class Initialized
+INFO - 2023-11-22 14:23:01 --> URI Class Initialized
+INFO - 2023-11-22 14:23:01 --> Router Class Initialized
+INFO - 2023-11-22 14:23:01 --> Output Class Initialized
+INFO - 2023-11-22 14:23:01 --> Security Class Initialized
+DEBUG - 2023-11-22 14:23:01 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-11-22 14:23:01 --> Input Class Initialized
+INFO - 2023-11-22 14:23:01 --> Language Class Initialized
+INFO - 2023-11-22 14:23:01 --> Loader Class Initialized
+INFO - 2023-11-22 14:23:01 --> Helper loaded: url_helper
+INFO - 2023-11-22 14:23:01 --> Database Driver Class Initialized
+INFO - 2023-11-22 14:23:01 --> Controller Class Initialized
+INFO - 2023-11-22 14:23:01 --> Model "Mauth" initialized
+INFO - 2023-11-22 14:23:02 --> Model "Mconfigkey" initialized
+INFO - 2023-11-22 14:23:02 --> Final output sent to browser
+DEBUG - 2023-11-22 14:23:02 --> Total execution time: 0.5245
+INFO - 2023-11-22 14:26:03 --> Config Class Initialized
+INFO - 2023-11-22 14:26:03 --> Hooks Class Initialized
+DEBUG - 2023-11-22 14:26:03 --> UTF-8 Support Enabled
+INFO - 2023-11-22 14:26:03 --> Utf8 Class Initialized
+INFO - 2023-11-22 14:26:03 --> URI Class Initialized
+INFO - 2023-11-22 14:26:03 --> Router Class Initialized
+INFO - 2023-11-22 14:26:03 --> Output Class Initialized
+INFO - 2023-11-22 14:26:03 --> Security Class Initialized
+DEBUG - 2023-11-22 14:26:03 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-11-22 14:26:03 --> Input Class Initialized
+INFO - 2023-11-22 14:26:03 --> Language Class Initialized
+INFO - 2023-11-22 14:26:03 --> Loader Class Initialized
+INFO - 2023-11-22 14:26:03 --> Helper loaded: url_helper
+INFO - 2023-11-22 14:26:03 --> Database Driver Class Initialized
+INFO - 2023-11-22 14:26:04 --> Controller Class Initialized
+INFO - 2023-11-22 14:26:04 --> Model "Mconfigkey" initialized
+INFO - 2023-11-22 14:26:04 --> Final output sent to browser
+DEBUG - 2023-11-22 14:26:04 --> Total execution time: 1.1755
+INFO - 2023-11-22 14:26:34 --> Config Class Initialized
+INFO - 2023-11-22 14:26:34 --> Hooks Class Initialized
+DEBUG - 2023-11-22 14:26:34 --> UTF-8 Support Enabled
+INFO - 2023-11-22 14:26:34 --> Utf8 Class Initialized
+INFO - 2023-11-22 14:26:34 --> URI Class Initialized
+INFO - 2023-11-22 14:26:34 --> Router Class Initialized
+INFO - 2023-11-22 14:26:34 --> Output Class Initialized
+INFO - 2023-11-22 14:26:34 --> Security Class Initialized
+DEBUG - 2023-11-22 14:26:34 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-11-22 14:26:34 --> Input Class Initialized
+INFO - 2023-11-22 14:26:34 --> Language Class Initialized
+INFO - 2023-11-22 14:26:34 --> Loader Class Initialized
+INFO - 2023-11-22 14:26:34 --> Helper loaded: url_helper
+INFO - 2023-11-22 14:26:34 --> Database Driver Class Initialized
+INFO - 2023-11-22 14:26:34 --> Controller Class Initialized
+INFO - 2023-11-22 14:26:34 --> Model "Mauth" initialized
+INFO - 2023-11-22 14:26:34 --> Model "Mconfigkey" initialized
+INFO - 2023-11-22 14:26:34 --> Final output sent to browser
+DEBUG - 2023-11-22 14:26:34 --> Total execution time: 0.3247
+INFO - 2023-11-22 14:27:55 --> Config Class Initialized
+INFO - 2023-11-22 14:27:55 --> Hooks Class Initialized
+DEBUG - 2023-11-22 14:27:55 --> UTF-8 Support Enabled
+INFO - 2023-11-22 14:27:55 --> Utf8 Class Initialized
+INFO - 2023-11-22 14:27:55 --> URI Class Initialized
+INFO - 2023-11-22 14:27:55 --> Router Class Initialized
+INFO - 2023-11-22 14:27:55 --> Output Class Initialized
+INFO - 2023-11-22 14:27:55 --> Security Class Initialized
+DEBUG - 2023-11-22 14:27:55 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-11-22 14:27:55 --> Input Class Initialized
+INFO - 2023-11-22 14:27:55 --> Language Class Initialized
+INFO - 2023-11-22 14:27:55 --> Loader Class Initialized
+INFO - 2023-11-22 14:27:55 --> Helper loaded: url_helper
+INFO - 2023-11-22 14:27:55 --> Database Driver Class Initialized
+INFO - 2023-11-22 14:27:56 --> Controller Class Initialized
+INFO - 2023-11-22 14:27:56 --> Model "Mconfigkey" initialized
+INFO - 2023-11-22 14:27:56 --> Final output sent to browser
+DEBUG - 2023-11-22 14:27:56 --> Total execution time: 0.8021
+INFO - 2023-11-22 14:28:45 --> Config Class Initialized
+INFO - 2023-11-22 14:28:45 --> Hooks Class Initialized
+DEBUG - 2023-11-22 14:28:45 --> UTF-8 Support Enabled
+INFO - 2023-11-22 14:28:45 --> Utf8 Class Initialized
+INFO - 2023-11-22 14:28:45 --> URI Class Initialized
+INFO - 2023-11-22 14:28:45 --> Router Class Initialized
+INFO - 2023-11-22 14:28:45 --> Output Class Initialized
+INFO - 2023-11-22 14:28:45 --> Security Class Initialized
+DEBUG - 2023-11-22 14:28:45 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-11-22 14:28:45 --> Input Class Initialized
+INFO - 2023-11-22 14:28:45 --> Language Class Initialized
+INFO - 2023-11-22 14:28:45 --> Loader Class Initialized
+INFO - 2023-11-22 14:28:45 --> Helper loaded: url_helper
+INFO - 2023-11-22 14:28:45 --> Database Driver Class Initialized
+INFO - 2023-11-22 14:28:45 --> Controller Class Initialized
+INFO - 2023-11-22 14:28:45 --> Model "Mauth" initialized
+INFO - 2023-11-22 14:28:45 --> Model "Mconfigkey" initialized
+INFO - 2023-11-22 14:28:45 --> Final output sent to browser
+DEBUG - 2023-11-22 14:28:45 --> Total execution time: 0.3642
+INFO - 2023-11-22 18:01:02 --> Config Class Initialized
+INFO - 2023-11-22 18:01:02 --> Hooks Class Initialized
+DEBUG - 2023-11-22 18:01:02 --> UTF-8 Support Enabled
+INFO - 2023-11-22 18:01:02 --> Utf8 Class Initialized
+INFO - 2023-11-22 18:01:02 --> URI Class Initialized
+INFO - 2023-11-22 18:01:02 --> Router Class Initialized
+INFO - 2023-11-22 18:01:02 --> Output Class Initialized
+INFO - 2023-11-22 18:01:02 --> Security Class Initialized
+DEBUG - 2023-11-22 18:01:02 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-11-22 18:01:02 --> Input Class Initialized
+INFO - 2023-11-22 18:01:02 --> Language Class Initialized
+INFO - 2023-11-22 18:01:02 --> Loader Class Initialized
+INFO - 2023-11-22 18:01:03 --> Helper loaded: url_helper
+INFO - 2023-11-22 18:01:03 --> Database Driver Class Initialized
+INFO - 2023-11-22 18:01:03 --> Controller Class Initialized
+INFO - 2023-11-22 18:01:03 --> Model "Mconfigkey" initialized
+INFO - 2023-11-22 18:01:03 --> Final output sent to browser
+DEBUG - 2023-11-22 18:01:03 --> Total execution time: 1.2074
+INFO - 2023-11-22 18:01:25 --> Config Class Initialized
+INFO - 2023-11-22 18:01:25 --> Hooks Class Initialized
+DEBUG - 2023-11-22 18:01:25 --> UTF-8 Support Enabled
+INFO - 2023-11-22 18:01:25 --> Utf8 Class Initialized
+INFO - 2023-11-22 18:01:25 --> URI Class Initialized
+INFO - 2023-11-22 18:01:25 --> Router Class Initialized
+INFO - 2023-11-22 18:01:25 --> Output Class Initialized
+INFO - 2023-11-22 18:01:25 --> Security Class Initialized
+DEBUG - 2023-11-22 18:01:25 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-11-22 18:01:25 --> Input Class Initialized
+INFO - 2023-11-22 18:01:25 --> Language Class Initialized
+INFO - 2023-11-22 18:01:25 --> Loader Class Initialized
+INFO - 2023-11-22 18:01:25 --> Helper loaded: url_helper
+INFO - 2023-11-22 18:01:25 --> Database Driver Class Initialized
+INFO - 2023-11-22 18:01:25 --> Controller Class Initialized
+INFO - 2023-11-22 18:01:25 --> Model "Mauth" initialized
+INFO - 2023-11-22 18:01:25 --> Final output sent to browser
+DEBUG - 2023-11-22 18:01:25 --> Total execution time: 0.2520
+INFO - 2023-11-22 18:01:32 --> Config Class Initialized
+INFO - 2023-11-22 18:01:32 --> Hooks Class Initialized
+DEBUG - 2023-11-22 18:01:32 --> UTF-8 Support Enabled
+INFO - 2023-11-22 18:01:32 --> Utf8 Class Initialized
+INFO - 2023-11-22 18:01:32 --> URI Class Initialized
+INFO - 2023-11-22 18:01:32 --> Router Class Initialized
+INFO - 2023-11-22 18:01:32 --> Output Class Initialized
+INFO - 2023-11-22 18:01:32 --> Security Class Initialized
+DEBUG - 2023-11-22 18:01:32 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-11-22 18:01:32 --> Input Class Initialized
+INFO - 2023-11-22 18:01:33 --> Language Class Initialized
+INFO - 2023-11-22 18:01:33 --> Loader Class Initialized
+INFO - 2023-11-22 18:01:33 --> Helper loaded: url_helper
+INFO - 2023-11-22 18:01:33 --> Database Driver Class Initialized
+INFO - 2023-11-22 18:01:33 --> Controller Class Initialized
+INFO - 2023-11-22 18:01:33 --> Model "Mauth" initialized
+INFO - 2023-11-22 18:01:33 --> Final output sent to browser
+DEBUG - 2023-11-22 18:01:33 --> Total execution time: 0.2468
+INFO - 2023-11-22 18:01:38 --> Config Class Initialized
+INFO - 2023-11-22 18:01:38 --> Hooks Class Initialized
+DEBUG - 2023-11-22 18:01:38 --> UTF-8 Support Enabled
+INFO - 2023-11-22 18:01:38 --> Utf8 Class Initialized
+INFO - 2023-11-22 18:01:38 --> URI Class Initialized
+INFO - 2023-11-22 18:01:38 --> Router Class Initialized
+INFO - 2023-11-22 18:01:38 --> Output Class Initialized
+INFO - 2023-11-22 18:01:38 --> Security Class Initialized
+DEBUG - 2023-11-22 18:01:38 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-11-22 18:01:38 --> Input Class Initialized
+INFO - 2023-11-22 18:01:38 --> Language Class Initialized
+INFO - 2023-11-22 18:01:38 --> Loader Class Initialized
+INFO - 2023-11-22 18:01:38 --> Helper loaded: url_helper
+INFO - 2023-11-22 18:01:38 --> Database Driver Class Initialized
+INFO - 2023-11-22 18:01:38 --> Controller Class Initialized
+INFO - 2023-11-22 18:01:38 --> Model "Mauth" initialized
+INFO - 2023-11-22 18:01:38 --> Final output sent to browser
+DEBUG - 2023-11-22 18:01:38 --> Total execution time: 0.2434
+INFO - 2023-11-22 18:01:44 --> Config Class Initialized
+INFO - 2023-11-22 18:01:44 --> Hooks Class Initialized
+DEBUG - 2023-11-22 18:01:44 --> UTF-8 Support Enabled
+INFO - 2023-11-22 18:01:44 --> Utf8 Class Initialized
+INFO - 2023-11-22 18:01:44 --> URI Class Initialized
+INFO - 2023-11-22 18:01:44 --> Router Class Initialized
+INFO - 2023-11-22 18:01:44 --> Output Class Initialized
+INFO - 2023-11-22 18:01:44 --> Security Class Initialized
+DEBUG - 2023-11-22 18:01:44 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-11-22 18:01:44 --> Input Class Initialized
+INFO - 2023-11-22 18:01:44 --> Language Class Initialized
+INFO - 2023-11-22 18:01:44 --> Loader Class Initialized
+INFO - 2023-11-22 18:01:44 --> Helper loaded: url_helper
+INFO - 2023-11-22 18:01:44 --> Database Driver Class Initialized
+INFO - 2023-11-22 18:01:44 --> Controller Class Initialized
+INFO - 2023-11-22 18:01:44 --> Model "Mauth" initialized
+INFO - 2023-11-22 18:01:44 --> Final output sent to browser
+DEBUG - 2023-11-22 18:01:44 --> Total execution time: 0.2776
+INFO - 2023-11-22 19:39:48 --> Config Class Initialized
+INFO - 2023-11-22 19:39:48 --> Hooks Class Initialized
+DEBUG - 2023-11-22 19:39:48 --> UTF-8 Support Enabled
+INFO - 2023-11-22 19:39:48 --> Utf8 Class Initialized
+INFO - 2023-11-22 19:39:48 --> URI Class Initialized
+INFO - 2023-11-22 19:39:48 --> Router Class Initialized
+INFO - 2023-11-22 19:39:48 --> Output Class Initialized
+INFO - 2023-11-22 19:39:48 --> Security Class Initialized
+DEBUG - 2023-11-22 19:39:48 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-11-22 19:39:48 --> Input Class Initialized
+INFO - 2023-11-22 19:39:48 --> Language Class Initialized
+INFO - 2023-11-22 19:39:48 --> Loader Class Initialized
+INFO - 2023-11-22 19:39:48 --> Helper loaded: url_helper
+INFO - 2023-11-22 19:39:49 --> Database Driver Class Initialized
+INFO - 2023-11-22 19:39:49 --> Controller Class Initialized
+INFO - 2023-11-22 19:39:49 --> Model "Mauth" initialized
+INFO - 2023-11-22 19:39:49 --> Final output sent to browser
+DEBUG - 2023-11-22 19:39:49 --> Total execution time: 1.4811
+INFO - 2023-11-22 19:39:59 --> Config Class Initialized
+INFO - 2023-11-22 19:39:59 --> Hooks Class Initialized
+DEBUG - 2023-11-22 19:39:59 --> UTF-8 Support Enabled
+INFO - 2023-11-22 19:39:59 --> Utf8 Class Initialized
+INFO - 2023-11-22 19:39:59 --> URI Class Initialized
+INFO - 2023-11-22 19:39:59 --> Router Class Initialized
+INFO - 2023-11-22 19:39:59 --> Output Class Initialized
+INFO - 2023-11-22 19:40:00 --> Security Class Initialized
+DEBUG - 2023-11-22 19:40:00 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-11-22 19:40:00 --> Input Class Initialized
+INFO - 2023-11-22 19:40:00 --> Language Class Initialized
+INFO - 2023-11-22 19:40:00 --> Loader Class Initialized
+INFO - 2023-11-22 19:40:00 --> Helper loaded: url_helper
+INFO - 2023-11-22 19:40:00 --> Database Driver Class Initialized
+INFO - 2023-11-22 19:40:00 --> Controller Class Initialized
+INFO - 2023-11-22 19:40:01 --> Model "Mconfigkey" initialized
+INFO - 2023-11-22 19:40:01 --> Final output sent to browser
+DEBUG - 2023-11-22 19:40:01 --> Total execution time: 1.8374
+INFO - 2023-11-22 19:41:24 --> Config Class Initialized
+INFO - 2023-11-22 19:41:24 --> Hooks Class Initialized
+DEBUG - 2023-11-22 19:41:24 --> UTF-8 Support Enabled
+INFO - 2023-11-22 19:41:24 --> Utf8 Class Initialized
+INFO - 2023-11-22 19:41:24 --> URI Class Initialized
+INFO - 2023-11-22 19:41:24 --> Router Class Initialized
+INFO - 2023-11-22 19:41:24 --> Output Class Initialized
+INFO - 2023-11-22 19:41:24 --> Security Class Initialized
+DEBUG - 2023-11-22 19:41:24 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-11-22 19:41:24 --> Input Class Initialized
+INFO - 2023-11-22 19:41:24 --> Language Class Initialized
+INFO - 2023-11-22 19:41:24 --> Loader Class Initialized
+INFO - 2023-11-22 19:41:24 --> Helper loaded: url_helper
+INFO - 2023-11-22 19:41:24 --> Database Driver Class Initialized
+INFO - 2023-11-22 19:41:24 --> Controller Class Initialized
+INFO - 2023-11-22 19:41:24 --> Model "Mauth" initialized
+INFO - 2023-11-22 19:41:24 --> Model "Mconfigkey" initialized
+INFO - 2023-11-22 19:41:24 --> Final output sent to browser
+DEBUG - 2023-11-22 19:41:24 --> Total execution time: 0.3811
+INFO - 2023-11-22 19:41:40 --> Config Class Initialized
+INFO - 2023-11-22 19:41:40 --> Hooks Class Initialized
+DEBUG - 2023-11-22 19:41:40 --> UTF-8 Support Enabled
+INFO - 2023-11-22 19:41:40 --> Utf8 Class Initialized
+INFO - 2023-11-22 19:41:40 --> URI Class Initialized
+INFO - 2023-11-22 19:41:40 --> Router Class Initialized
+INFO - 2023-11-22 19:41:40 --> Output Class Initialized
+INFO - 2023-11-22 19:41:40 --> Security Class Initialized
+DEBUG - 2023-11-22 19:41:40 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-11-22 19:41:40 --> Input Class Initialized
+INFO - 2023-11-22 19:41:40 --> Language Class Initialized
+INFO - 2023-11-22 19:41:40 --> Loader Class Initialized
+INFO - 2023-11-22 19:41:40 --> Helper loaded: url_helper
+INFO - 2023-11-22 19:41:40 --> Database Driver Class Initialized
+INFO - 2023-11-22 19:41:40 --> Controller Class Initialized
+INFO - 2023-11-22 19:41:40 --> Model "Mauth" initialized
+INFO - 2023-11-22 19:41:40 --> Final output sent to browser
+DEBUG - 2023-11-22 19:41:40 --> Total execution time: 0.2620
+INFO - 2023-11-22 19:41:51 --> Config Class Initialized
+INFO - 2023-11-22 19:41:51 --> Hooks Class Initialized
+DEBUG - 2023-11-22 19:41:51 --> UTF-8 Support Enabled
+INFO - 2023-11-22 19:41:51 --> Utf8 Class Initialized
+INFO - 2023-11-22 19:41:51 --> URI Class Initialized
+INFO - 2023-11-22 19:41:51 --> Router Class Initialized
+INFO - 2023-11-22 19:41:51 --> Output Class Initialized
+INFO - 2023-11-22 19:41:51 --> Security Class Initialized
+DEBUG - 2023-11-22 19:41:51 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-11-22 19:41:51 --> Input Class Initialized
+INFO - 2023-11-22 19:41:51 --> Language Class Initialized
+INFO - 2023-11-22 19:41:51 --> Loader Class Initialized
+INFO - 2023-11-22 19:41:51 --> Helper loaded: url_helper
+INFO - 2023-11-22 19:41:51 --> Database Driver Class Initialized
+INFO - 2023-11-22 19:41:51 --> Controller Class Initialized
+INFO - 2023-11-22 19:41:51 --> Model "Mauth" initialized
+INFO - 2023-11-22 19:41:51 --> Model "Mconfigkey" initialized
+INFO - 2023-11-22 19:41:51 --> Final output sent to browser
+DEBUG - 2023-11-22 19:41:51 --> Total execution time: 0.3192

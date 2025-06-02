@@ -1,0 +1,38 @@
+INFO - 2024-02-18 02:09:12 --> Config Class Initialized
+INFO - 2024-02-18 02:09:12 --> Hooks Class Initialized
+DEBUG - 2024-02-18 02:09:12 --> UTF-8 Support Enabled
+INFO - 2024-02-18 02:09:12 --> Utf8 Class Initialized
+INFO - 2024-02-18 02:09:12 --> URI Class Initialized
+INFO - 2024-02-18 02:09:12 --> Router Class Initialized
+INFO - 2024-02-18 02:09:12 --> Output Class Initialized
+INFO - 2024-02-18 02:09:12 --> Security Class Initialized
+DEBUG - 2024-02-18 02:09:12 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-02-18 02:09:12 --> Input Class Initialized
+INFO - 2024-02-18 02:09:12 --> Language Class Initialized
+INFO - 2024-02-18 02:09:12 --> Loader Class Initialized
+INFO - 2024-02-18 02:09:12 --> Helper loaded: url_helper
+INFO - 2024-02-18 02:09:12 --> Database Driver Class Initialized
+INFO - 2024-02-18 02:09:12 --> Controller Class Initialized
+INFO - 2024-02-18 02:09:12 --> Model "Mauth" initialized
+INFO - 2024-02-18 02:09:12 --> Model "Mconfigkey" initialized
+INFO - 2024-02-18 02:09:12 --> Final output sent to browser
+DEBUG - 2024-02-18 02:09:12 --> Total execution time: 0.2193
+INFO - 2024-02-18 02:09:15 --> Config Class Initialized
+INFO - 2024-02-18 02:09:15 --> Hooks Class Initialized
+DEBUG - 2024-02-18 02:09:15 --> UTF-8 Support Enabled
+INFO - 2024-02-18 02:09:15 --> Utf8 Class Initialized
+INFO - 2024-02-18 02:09:15 --> URI Class Initialized
+INFO - 2024-02-18 02:09:15 --> Router Class Initialized
+INFO - 2024-02-18 02:09:15 --> Output Class Initialized
+INFO - 2024-02-18 02:09:15 --> Security Class Initialized
+DEBUG - 2024-02-18 02:09:15 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-02-18 02:09:15 --> Input Class Initialized
+INFO - 2024-02-18 02:09:15 --> Language Class Initialized
+INFO - 2024-02-18 02:09:15 --> Loader Class Initialized
+INFO - 2024-02-18 02:09:15 --> Helper loaded: url_helper
+INFO - 2024-02-18 02:09:15 --> Database Driver Class Initialized
+INFO - 2024-02-18 02:09:15 --> Controller Class Initialized
+INFO - 2024-02-18 02:09:15 --> Model "Mconfigkey" initialized
+INFO - 2024-02-18 02:09:15 --> Model "Mgoods_in" initialized
+INFO - 2024-02-18 02:09:16 --> Final output sent to browser
+DEBUG - 2024-02-18 02:09:16 --> Total execution time: 0.1754

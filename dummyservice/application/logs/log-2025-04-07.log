@@ -1,0 +1,15 @@
+INFO - 2025-04-07 09:13:06 --> Config Class Initialized
+INFO - 2025-04-07 09:13:06 --> Hooks Class Initialized
+DEBUG - 2025-04-07 09:13:06 --> UTF-8 Support Enabled
+INFO - 2025-04-07 09:13:06 --> Utf8 Class Initialized
+INFO - 2025-04-07 09:13:06 --> URI Class Initialized
+INFO - 2025-04-07 09:13:06 --> Router Class Initialized
+INFO - 2025-04-07 09:13:06 --> Output Class Initialized
+INFO - 2025-04-07 09:13:06 --> Security Class Initialized
+DEBUG - 2025-04-07 09:13:06 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-04-07 09:13:06 --> Input Class Initialized
+INFO - 2025-04-07 09:13:06 --> Language Class Initialized
+INFO - 2025-04-07 09:13:06 --> Loader Class Initialized
+INFO - 2025-04-07 09:13:06 --> Helper loaded: url_helper
+INFO - 2025-04-07 09:13:07 --> Database Driver Class Initialized
+ERROR - 2025-04-07 09:13:07 --> Severity: error --> Exception: Call to undefined function sqlsrv_connect() D:\xampp\htdocs\plb\dummyservice\system\database\drivers\sqlsrv\sqlsrv_driver.php 144

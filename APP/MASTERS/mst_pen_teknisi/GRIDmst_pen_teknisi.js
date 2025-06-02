@@ -1,0 +1,56 @@
+Ext.define("TDK.MASTERS.mst_pen_teknisi.GRIDmst_pen_teknisi", {
+  extend: "Ext.form.Panel",
+  alias: "widget.GRIDmst_pen_teknisi",
+  reference: "GRIDmst_pen_teknisi",
+  frame: false,
+  border: false,
+  autoScroll: true,
+  layout: { type: "vbox", pack: "start", align: "stretch" },
+  requires: [],
+  items: [
+    {
+      xtype: "grid",
+      pid: "GRIDmst_pen_teknisi",
+      emptyText: "No Matching Records",
+      autoScroll: true,
+      flex: 1,
+      plugins: ["filterfield"],
+      store: "",
+      columns: [
+        { xtype: "rownumberer", width: 50 },
+        {
+          xtype: "actioncolumn",
+          width: 35,
+          align: "center",
+          menuDisabled: true,
+          sortable: false,
+          items: [
+            {
+              icon: vconfig.getstyle + "icon/grid.png",
+              handler: "btdetail_rows_click",
+              tooltip: "Detail Teknisi",
+            },
+          ],
+        },
+        { hidden: true, header: "ID", dataIndex: "ID", sortable: true, width: 200, filter: { xtype: "textfield" } },
+        { header: "TEKNISI NAME", dataIndex: "TEKNISI_NAME", sortable: true, width: 200, filter: { xtype: "textfield" } },
+        { header: "DESCRIPTION", dataIndex: "TEKNISI_DESCRIPTION", sortable: true, width: 250, filter: { xtype: "textfield" } },
+        { header: "CODE", dataIndex: "TEKNISI_CODE", sortable: true, width: 120, filter: { xtype: "textfield" } },
+        { header: "ID COMPANY", dataIndex: "ID_COMPANY", sortable: true, width: 100, filter: { xtype: "textfield" } },
+        { header: "CREATE USER", dataIndex: "CREATE_USER", sortable: true, width: 100, filter: { xtype: "textfield" } },
+        { header: "CREATE DATE", dataIndex: "CREATE_DATE", sortable: true, width: 200, filter: { xtype: "textfield" } },
+        { header: "UPDATE USER", dataIndex: "UPDATE_USER", sortable: true, width: 100, filter: { xtype: "textfield" } },
+        { header: "UPDATE DATE", dataIndex: "UPDATE_DATE", sortable: true, width: 200, filter: { xtype: "textfield" } },
+      ],
+      bbar: {
+        xtype: "pagingtoolbar",
+        displayInfo: true,
+        displayMsg: "Displaying topics {0} - {1} of {2}",
+        emptyMsg: "No topics to display",
+      },
+    },
+  ],
+  listeners: {
+    afterrender: "GRIDmst_pen_teknisi_load",
+  },
+});

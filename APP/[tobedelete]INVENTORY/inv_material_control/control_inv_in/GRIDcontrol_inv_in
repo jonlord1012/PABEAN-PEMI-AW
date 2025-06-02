@@ -1,0 +1,97 @@
+Ext.define("TDK.INVENTORY.inv_material_control.control_inv_in.GRIDcontrol_inv_in", {
+  extend: "Ext.form.Panel",
+  alias: "widget.GRIDcontrol_inv_in",
+  reference: "GRIDcontrol_inv_in",
+  frame: false,
+  border: true,
+  autoScroll: true,
+  layout: { type: "vbox", pack: "start", align: "stretch" },
+  requires: [],
+  fieldDefaults: {
+    labelAlign: "left",
+    labelWidth: 90,
+    margin: "0 10 5 0",
+  },
+  items: [
+    {
+      xtype: "grid",
+      pid: "GRIDcontrol_inv_in",
+      emptyText: "No Matching Records",
+      plugins: ["filterfield", "gridexporter"],
+      autoScroll: true,
+      flex: 1,
+      features: [{ftype:'grouping'}],
+      store: {
+        autoLoad: true,
+        remoteSort: false,
+        remoteFilter: false,
+        pageSize: 0,
+        proxy: {
+          type: "ajax",
+          disableCaching: false,
+          noCache: false,
+          headers: { Authorization: "Bearer " + localStorage.getItem("ST_NJC_JWT") },
+          actionMethods: { read: "POST" },
+          url: vconfig.service_api + "inv_material_control/inv_material_controls",
+          extraParams: {
+            method: "read_to_grid",
+          },
+          reader: {
+            type: "json",
+            rootProperty: "Rows",
+            totalProperty: "TotalRows",
+            successProperty: "success",
+          },
+        },
+        listeners: {
+          beforeload: function (store, operation, eOpts) {
+            try {
+              var VIDCOMPANY = Ext.ComponentQuery.query("inv_material_control GRIDcontrol_inv_in combobox[name=CBO_COMPANY]")[0];
+              var VPARTGROUP = Ext.ComponentQuery.query("inv_material_control GRIDcontrol_inv_in combobox[name=CBO_PARTGROUP]")[0];
+              var VFROMDATE = Ext.ComponentQuery.query("inv_material_control GRIDcontrol_inv_in datefield[name=tfromdate]")[0];
+              var VTODATE = Ext.ComponentQuery.query("inv_material_control GRIDcontrol_inv_in datefield[name=ttodate]")[0];
+
+              operation.setParams({
+                VIDCOMPANY: VIDCOMPANY.getValue(),
+                VPARTGROUP: VPARTGROUP.getValue(),
+                VFROMDATE: moment(VFROMDATE.getValue()).format("YYYY-MM-DD"),
+                VTODATE: moment(VTODATE.getValue()).format("YYYY-MM-DD"),
+              });
+            } catch (ex) {
+              COMP.TipToast.toast("Error", ex.message, { cls: "danger", delay: 2000 });
+            }
+          },
+        },
+      },
+      viewConfig: {
+        enableTextSelection: true,
+      },
+      columns: [
+        { xtype: "rownumberer", width: 40 },
+        { sortable: true, width: 80, filter: { xtype: "textfield" }, header: "TIPE BC", dataIndex: "JENIS_DOKUMEN_PABEAN" },
+        { sortable: true, width: 120, filter: { xtype: "textfield" }, header: "NOMOR DOKUMEN", dataIndex: "NOMOR_DOKUMEN_PABEAN" },
+        { sortable: true, width: 200, filter: { xtype: "textfield" }, header: "TANGGAL DOKUMEN", dataIndex: "TANGGAL_DOKUMEN_PABEAN" },
+        { sortable: true, width: 200, filter: { xtype: "textfield" }, header: "NOMOR AJU", dataIndex: "NOMOR_AJU" },
+        { sortable: true, width: 200, filter: { xtype: "textfield" }, header: "TANGGAL AJU", dataIndex: "TANGGAL_AJU" },
+        { sortable: true, width: 200, filter: { xtype: "textfield" }, header: "NOMOR SURAT JALAN", dataIndex: "NOMOR_BUKTI_PENERIMAAN_BARANG" },
+        { sortable: true, width: 200, filter: { xtype: "textfield" }, header: "TANGGAL SURAT JALAN", dataIndex: "TANGGAL_BUKTI_PENERIMAAN_BARANG" },
+        { sortable: true, width: 200, filter: { xtype: "textfield" }, header: "BUYER", dataIndex: "SUPPLIER" },
+        { sortable: true, width: 120, filter: { xtype: "textfield" }, header: "KODE BARANG ", dataIndex: "KODE_BARANG " },
+        { sortable: true, width: 200, filter: { xtype: "textfield" }, header: "NAMA BARANG ", dataIndex: "URAIAN_BARAN  G " },
+        { sortable: true, width: 80, filter: { xtype: "textfield" }, header: "SAT ", dataIndex: "SAT " },
+        { sortable: true, width: 100, filter: { xtype: "textfield" }, header: "JML", dataIndex: "JML" },
+        { sortable: true, width: 80, filter: { xtype: "textfield" }, header: "VALAS ", dataIndex: "VALAS " },
+        { sortable: true, width: 100, filter: { xtype: "textfield" }, header: "TOTAL HARGA ", dataIndex: "NILAI_BARANG " },
+        { sortable: true, width: 100, filter: { xtype: "textfield" }, header: "ID", dataIndex: "ID" },
+        { sortable: true, width: 100, filter: { xtype: "textfield" }, header: "ID_HEADER ", dataIndex: "ID_HEADER " },
+        { sortable: true, width: 100, filter: { xtype: "textfield" }, header: "ID_HEADER_ORI", dataIndex: "ID_HEADER_ORI" },
+      ],
+      bbar: {
+        xtype: "pagingtoolbar",
+        displayInfo: true,
+        displayMsg: "Displaying topics {0} - {1} of {2}",
+        emptyMsg: "No topics to display",
+      },
+    },
+  ],
+});

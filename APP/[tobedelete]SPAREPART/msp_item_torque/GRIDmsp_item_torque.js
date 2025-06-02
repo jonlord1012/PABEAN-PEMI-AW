@@ -1,0 +1,58 @@
+Ext.define("TDK.SPAREPART.msp_item_torque.GRIDmsp_item_torque", {
+  extend: "Ext.form.Panel",
+  alias: "widget.GRIDmsp_item_torque",
+  reference: "GRIDmsp_item_torque",
+  frame: false,
+  border: false,
+  autoScroll: true,
+  layout: { type: "vbox", pack: "start", align: "stretch" },
+  requires: [],
+  items: [
+    {
+      xtype: "grid",
+      pid: "GRIDmsp_item_torque",
+      emptyText: "No Matching Records",
+      autoScroll: true,
+      flex: 1,
+      plugins: ["filterfield"],
+      store: "",
+      columns: [
+        { xtype: "rownumberer", width: 50 },
+        {
+          xtype: "actioncolumn",
+          width: 35,
+          align: "center",
+          menuDisabled: true,
+          sortable: false,
+          items: [
+            {
+              icon: vconfig.getstyle + "icon/grid.png",
+              handler: "btdetail_rows_click",
+              tooltip: "Detail Cost Center",
+            },
+          ],
+        },
+        { header: "ID", dataIndex:"ID", sortable: true, width: 80, filter: { xtype: "textfield" }, hidden: true, },
+        { header: "COST CENTER CODE", dataIndex:"COSTCENTER_CODE", sortable: true, width: 120, filter: { xtype: "textfield" } },
+        { header: "COST CENTER NAME", dataIndex:"COSTCENTER_NAME", sortable: true, width: 200, filter: { xtype: "textfield" } },
+        { header: "COST CENTER DESCRIPTION", dataIndex:"COSTCENTER_DESCRIPTION", sortable: true, width: 200, filter: { xtype: "textfield" } },
+        { header: "CARLINE", dataIndex:"COSTCENTER_CARLINE", sortable: true, width: 100, filter: { xtype: "textfield" } },
+        { header: "CARLINE DESCRIPTION", dataIndex:"COSTCENTER_CARLINEDESC", sortable: true, width: 200, filter: { xtype: "textfield" } },
+        { header: "ID COMPANY", dataIndex:"ID_COMPANY", sortable: true, width: 80, filter: { xtype: "textfield" } },
+        { header: "CREATE USER", dataIndex:"CREATE_USER", sortable: true, width: 100, filter: { xtype: "textfield" } },
+        { header: "CREATE DATE", dataIndex:"CREATE_DATE", sortable: true, width: 200, filter: { xtype: "textfield" } },
+        { header: "UPDATE USER", dataIndex:"UPDATE_USER", sortable: true, width: 100, filter: { xtype: "textfield" } },
+        { header: "UPDATE DATE", dataIndex:"UPDATE_DATE", sortable: true, width: 200, filter: { xtype: "textfield" } },
+      ],
+      bbar: {
+        xtype: "pagingtoolbar",
+        displayInfo: true,
+        displayMsg: "Displaying topics {0} - {1} of {2}",
+        emptyMsg: "No topics to display",
+      },
+    },
+  ],
+  listeners: {
+    afterrender: "GRIDmsp_item_torque_load",
+  },
+});

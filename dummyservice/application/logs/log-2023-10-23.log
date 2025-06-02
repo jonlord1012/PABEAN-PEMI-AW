@@ -1,0 +1,30 @@
+INFO - 2023-10-23 07:48:48 --> Config Class Initialized
+INFO - 2023-10-23 07:48:48 --> Hooks Class Initialized
+DEBUG - 2023-10-23 07:48:48 --> UTF-8 Support Enabled
+INFO - 2023-10-23 07:48:48 --> Utf8 Class Initialized
+INFO - 2023-10-23 07:48:49 --> URI Class Initialized
+INFO - 2023-10-23 07:48:49 --> Router Class Initialized
+INFO - 2023-10-23 07:48:49 --> Output Class Initialized
+INFO - 2023-10-23 07:48:49 --> Security Class Initialized
+DEBUG - 2023-10-23 07:48:49 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-10-23 07:48:49 --> Input Class Initialized
+INFO - 2023-10-23 07:48:50 --> Language Class Initialized
+INFO - 2023-10-23 07:48:50 --> Loader Class Initialized
+INFO - 2023-10-23 07:48:50 --> Helper loaded: url_helper
+INFO - 2023-10-23 07:48:50 --> Database Driver Class Initialized
+ERROR - 2023-10-23 07:48:50 --> Severity: error --> Exception: Call to undefined function sqlsrv_connect() C:\xampp\htdocs\_\dummyservice\system\database\drivers\sqlsrv\sqlsrv_driver.php 144
+INFO - 2023-10-23 07:48:58 --> Config Class Initialized
+INFO - 2023-10-23 07:48:58 --> Hooks Class Initialized
+DEBUG - 2023-10-23 07:48:58 --> UTF-8 Support Enabled
+INFO - 2023-10-23 07:48:58 --> Utf8 Class Initialized
+INFO - 2023-10-23 07:48:58 --> URI Class Initialized
+INFO - 2023-10-23 07:48:58 --> Router Class Initialized
+INFO - 2023-10-23 07:48:58 --> Output Class Initialized
+INFO - 2023-10-23 07:48:58 --> Security Class Initialized
+DEBUG - 2023-10-23 07:48:58 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-10-23 07:48:58 --> Input Class Initialized
+INFO - 2023-10-23 07:48:58 --> Language Class Initialized
+INFO - 2023-10-23 07:48:58 --> Loader Class Initialized
+INFO - 2023-10-23 07:48:58 --> Helper loaded: url_helper
+INFO - 2023-10-23 07:48:58 --> Database Driver Class Initialized
+ERROR - 2023-10-23 07:48:58 --> Severity: error --> Exception: Call to undefined function sqlsrv_connect() C:\xampp\htdocs\_\dummyservice\system\database\drivers\sqlsrv\sqlsrv_driver.php 144

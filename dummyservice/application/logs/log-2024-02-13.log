@@ -1,0 +1,76 @@
+INFO - 2024-02-13 15:23:27 --> Config Class Initialized
+INFO - 2024-02-13 15:23:27 --> Hooks Class Initialized
+DEBUG - 2024-02-13 15:23:27 --> UTF-8 Support Enabled
+INFO - 2024-02-13 15:23:27 --> Utf8 Class Initialized
+INFO - 2024-02-13 15:23:27 --> URI Class Initialized
+INFO - 2024-02-13 15:23:27 --> Router Class Initialized
+INFO - 2024-02-13 15:23:27 --> Output Class Initialized
+INFO - 2024-02-13 15:23:27 --> Security Class Initialized
+DEBUG - 2024-02-13 15:23:27 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-02-13 15:23:27 --> Input Class Initialized
+INFO - 2024-02-13 15:23:27 --> Language Class Initialized
+INFO - 2024-02-13 15:23:27 --> Loader Class Initialized
+INFO - 2024-02-13 15:23:27 --> Helper loaded: url_helper
+INFO - 2024-02-13 15:23:27 --> Database Driver Class Initialized
+INFO - 2024-02-13 15:23:27 --> Controller Class Initialized
+INFO - 2024-02-13 15:23:27 --> Model "Mauth" initialized
+INFO - 2024-02-13 15:23:27 --> Model "Mconfigkey" initialized
+INFO - 2024-02-13 15:23:27 --> Final output sent to browser
+DEBUG - 2024-02-13 15:23:27 --> Total execution time: 0.2064
+INFO - 2024-02-13 15:23:34 --> Config Class Initialized
+INFO - 2024-02-13 15:23:34 --> Hooks Class Initialized
+DEBUG - 2024-02-13 15:23:34 --> UTF-8 Support Enabled
+INFO - 2024-02-13 15:23:34 --> Utf8 Class Initialized
+INFO - 2024-02-13 15:23:34 --> URI Class Initialized
+INFO - 2024-02-13 15:23:34 --> Router Class Initialized
+INFO - 2024-02-13 15:23:34 --> Output Class Initialized
+INFO - 2024-02-13 15:23:34 --> Security Class Initialized
+DEBUG - 2024-02-13 15:23:34 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-02-13 15:23:34 --> Input Class Initialized
+INFO - 2024-02-13 15:23:34 --> Language Class Initialized
+INFO - 2024-02-13 15:23:34 --> Loader Class Initialized
+INFO - 2024-02-13 15:23:34 --> Helper loaded: url_helper
+INFO - 2024-02-13 15:23:34 --> Database Driver Class Initialized
+INFO - 2024-02-13 15:23:34 --> Controller Class Initialized
+INFO - 2024-02-13 15:23:34 --> Model "Mconfigkey" initialized
+INFO - 2024-02-13 15:23:34 --> Model "Mgoods_out" initialized
+INFO - 2024-02-13 15:23:34 --> Final output sent to browser
+DEBUG - 2024-02-13 15:23:34 --> Total execution time: 0.1985
+INFO - 2024-02-13 15:23:36 --> Config Class Initialized
+INFO - 2024-02-13 15:23:36 --> Hooks Class Initialized
+DEBUG - 2024-02-13 15:23:36 --> UTF-8 Support Enabled
+INFO - 2024-02-13 15:23:36 --> Utf8 Class Initialized
+INFO - 2024-02-13 15:23:36 --> URI Class Initialized
+INFO - 2024-02-13 15:23:36 --> Router Class Initialized
+INFO - 2024-02-13 15:23:36 --> Output Class Initialized
+INFO - 2024-02-13 15:23:36 --> Security Class Initialized
+DEBUG - 2024-02-13 15:23:36 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-02-13 15:23:36 --> Input Class Initialized
+INFO - 2024-02-13 15:23:36 --> Language Class Initialized
+INFO - 2024-02-13 15:23:36 --> Loader Class Initialized
+INFO - 2024-02-13 15:23:36 --> Helper loaded: url_helper
+INFO - 2024-02-13 15:23:36 --> Database Driver Class Initialized
+INFO - 2024-02-13 15:23:36 --> Controller Class Initialized
+INFO - 2024-02-13 15:23:36 --> Model "Mconfigkey" initialized
+INFO - 2024-02-13 15:23:36 --> Model "Mgoods_in" initialized
+INFO - 2024-02-13 15:23:36 --> Final output sent to browser
+DEBUG - 2024-02-13 15:23:36 --> Total execution time: 0.1666
+INFO - 2024-02-13 15:23:37 --> Config Class Initialized
+INFO - 2024-02-13 15:23:37 --> Hooks Class Initialized
+DEBUG - 2024-02-13 15:23:37 --> UTF-8 Support Enabled
+INFO - 2024-02-13 15:23:37 --> Utf8 Class Initialized
+INFO - 2024-02-13 15:23:37 --> URI Class Initialized
+INFO - 2024-02-13 15:23:37 --> Router Class Initialized
+INFO - 2024-02-13 15:23:37 --> Output Class Initialized
+INFO - 2024-02-13 15:23:37 --> Security Class Initialized
+DEBUG - 2024-02-13 15:23:37 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-02-13 15:23:37 --> Input Class Initialized
+INFO - 2024-02-13 15:23:37 --> Language Class Initialized
+INFO - 2024-02-13 15:23:37 --> Loader Class Initialized
+INFO - 2024-02-13 15:23:37 --> Helper loaded: url_helper
+INFO - 2024-02-13 15:23:37 --> Database Driver Class Initialized
+INFO - 2024-02-13 15:23:37 --> Controller Class Initialized
+INFO - 2024-02-13 15:23:37 --> Model "Mconfigkey" initialized
+INFO - 2024-02-13 15:23:37 --> Model "Mgoods_control" initialized
+INFO - 2024-02-13 15:23:37 --> Final output sent to browser
+DEBUG - 2024-02-13 15:23:37 --> Total execution time: 0.1914

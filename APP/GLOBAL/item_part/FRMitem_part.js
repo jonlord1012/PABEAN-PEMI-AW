@@ -1,0 +1,46 @@
+var mainpanel = Ext.ComponentQuery.query("mainpage")[0];
+Ext.define("TDK.GLOBAL.item_part.FRMitem_part", {
+  extend: "Ext.window.Window",
+  alias: "widget.FRMitem_part",
+  reference: "FRMitem_part",
+  title: "Master Item Part",
+  modal: true,
+  closeAction: "destroy",
+  centered: true,
+  // autoScroll: true,
+  //y: -110,
+  requires: ["TDK.GLOBAL.item_part.Citem_part"],
+  controller: "Citem_part",
+  width: mainpanel.getWidth() * 0.8,
+  height: mainpanel.getHeight() * 0.8,
+  layout: { type: "hbox", pack: "start", align: "stretch" },
+  bodyStyle: "background:#FFFFFF;background-color:#FFFFFF",
+  items: [
+    {
+      xtype: "grid",
+      pid: "GRIDitem_part",
+      emptyText: "No Matching Records",
+      autoScroll: true,
+      flex: 1,
+      plugins: ["filterfield"],
+      store: "",
+      columns: [
+        { sortable: true, width: 0, filter: { xtype: "textfield" }, hidden: true, header: "ID", dataIndex: "ID" },
+        { sortable: true, width: 0, filter: { xtype: "textfield" }, hidden: true, header: "FILE_ID", dataIndex: "FILE_ID" },
+        { sortable: true, width: 300, filter: { xtype: "textfield" }, header: "PATH", dataIndex: "FILE_DESCRIPTION" },
+        { sortable: true, width: 100, filter: { xtype: "textfield" }, header: "FILE", dataIndex: "LOG_FILE_NAMESTATUS" },
+        { sortable: true, width: 130, filter: { xtype: "textfield" }, header: "DATE", dataIndex: "FILE_DATE" },
+        { sortable: true, width: 100, filter: { xtype: "textfield" }, header: "STATUS", dataIndex: "FILE_STATUS" },
+      ],
+      bbar: {
+        xtype: "pagingtoolbar",
+        displayInfo: true,
+        displayMsg: "Displaying topics {0} - {1} of {2}",
+        emptyMsg: "No topics to display",
+      },
+      listeners: {
+        //afterrender: "GRIDitem_part_load",
+      },
+    },
+  ],
+});

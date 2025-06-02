@@ -1,0 +1,244 @@
+INFO - 2024-07-16 14:38:07 --> Config Class Initialized
+INFO - 2024-07-16 14:38:07 --> Hooks Class Initialized
+DEBUG - 2024-07-16 14:38:07 --> UTF-8 Support Enabled
+INFO - 2024-07-16 14:38:07 --> Utf8 Class Initialized
+INFO - 2024-07-16 14:38:07 --> URI Class Initialized
+INFO - 2024-07-16 14:38:07 --> Router Class Initialized
+INFO - 2024-07-16 14:38:07 --> Output Class Initialized
+INFO - 2024-07-16 14:38:07 --> Security Class Initialized
+DEBUG - 2024-07-16 14:38:07 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-07-16 14:38:07 --> Input Class Initialized
+INFO - 2024-07-16 14:38:07 --> Language Class Initialized
+INFO - 2024-07-16 14:38:07 --> Loader Class Initialized
+INFO - 2024-07-16 14:38:07 --> Helper loaded: url_helper
+INFO - 2024-07-16 14:38:07 --> Database Driver Class Initialized
+INFO - 2024-07-16 14:38:07 --> Controller Class Initialized
+INFO - 2024-07-16 14:38:07 --> Model "Mauth" initialized
+INFO - 2024-07-16 14:38:07 --> Model "Mconfigkey" initialized
+INFO - 2024-07-16 14:38:07 --> Final output sent to browser
+DEBUG - 2024-07-16 14:38:07 --> Total execution time: 0.4572
+INFO - 2024-07-16 14:38:22 --> Config Class Initialized
+INFO - 2024-07-16 14:38:22 --> Hooks Class Initialized
+DEBUG - 2024-07-16 14:38:22 --> UTF-8 Support Enabled
+INFO - 2024-07-16 14:38:22 --> Utf8 Class Initialized
+INFO - 2024-07-16 14:38:22 --> URI Class Initialized
+INFO - 2024-07-16 14:38:22 --> Router Class Initialized
+INFO - 2024-07-16 14:38:22 --> Output Class Initialized
+INFO - 2024-07-16 14:38:22 --> Security Class Initialized
+DEBUG - 2024-07-16 14:38:22 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-07-16 14:38:22 --> Input Class Initialized
+INFO - 2024-07-16 14:38:22 --> Language Class Initialized
+INFO - 2024-07-16 14:38:22 --> Loader Class Initialized
+INFO - 2024-07-16 14:38:22 --> Helper loaded: url_helper
+INFO - 2024-07-16 14:38:22 --> Database Driver Class Initialized
+INFO - 2024-07-16 14:38:22 --> Controller Class Initialized
+INFO - 2024-07-16 14:38:22 --> Model "Mconfigkey" initialized
+INFO - 2024-07-16 14:38:22 --> Model "Msto_goods" initialized
+INFO - 2024-07-16 14:38:22 --> Final output sent to browser
+DEBUG - 2024-07-16 14:38:22 --> Total execution time: 0.0380
+INFO - 2024-07-16 14:38:25 --> Config Class Initialized
+INFO - 2024-07-16 14:38:25 --> Hooks Class Initialized
+DEBUG - 2024-07-16 14:38:25 --> UTF-8 Support Enabled
+INFO - 2024-07-16 14:38:25 --> Utf8 Class Initialized
+INFO - 2024-07-16 14:38:25 --> URI Class Initialized
+INFO - 2024-07-16 14:38:25 --> Router Class Initialized
+INFO - 2024-07-16 14:38:25 --> Output Class Initialized
+INFO - 2024-07-16 14:38:25 --> Security Class Initialized
+DEBUG - 2024-07-16 14:38:25 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-07-16 14:38:25 --> Input Class Initialized
+INFO - 2024-07-16 14:38:25 --> Language Class Initialized
+INFO - 2024-07-16 14:38:25 --> Loader Class Initialized
+INFO - 2024-07-16 14:38:25 --> Helper loaded: url_helper
+INFO - 2024-07-16 14:38:25 --> Database Driver Class Initialized
+INFO - 2024-07-16 14:38:25 --> Controller Class Initialized
+INFO - 2024-07-16 14:38:25 --> Model "Mconfigkey" initialized
+INFO - 2024-07-16 14:38:25 --> Model "Msto_goods" initialized
+INFO - 2024-07-16 14:38:25 --> Final output sent to browser
+DEBUG - 2024-07-16 14:38:25 --> Total execution time: 0.0204
+INFO - 2024-07-16 14:49:50 --> Config Class Initialized
+INFO - 2024-07-16 14:49:50 --> Hooks Class Initialized
+DEBUG - 2024-07-16 14:49:50 --> UTF-8 Support Enabled
+INFO - 2024-07-16 14:49:50 --> Utf8 Class Initialized
+INFO - 2024-07-16 14:49:50 --> URI Class Initialized
+INFO - 2024-07-16 14:49:50 --> Router Class Initialized
+INFO - 2024-07-16 14:49:50 --> Output Class Initialized
+INFO - 2024-07-16 14:49:50 --> Security Class Initialized
+DEBUG - 2024-07-16 14:49:50 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-07-16 14:49:50 --> Input Class Initialized
+INFO - 2024-07-16 14:49:50 --> Language Class Initialized
+INFO - 2024-07-16 14:49:50 --> Loader Class Initialized
+INFO - 2024-07-16 14:49:50 --> Helper loaded: url_helper
+INFO - 2024-07-16 14:49:50 --> Database Driver Class Initialized
+INFO - 2024-07-16 14:49:50 --> Controller Class Initialized
+INFO - 2024-07-16 14:49:50 --> Model "Mauth" initialized
+INFO - 2024-07-16 14:49:50 --> Model "Mconfigkey" initialized
+INFO - 2024-07-16 14:49:50 --> Final output sent to browser
+DEBUG - 2024-07-16 14:49:50 --> Total execution time: 0.0264
+INFO - 2024-07-16 15:48:44 --> Config Class Initialized
+INFO - 2024-07-16 15:48:44 --> Hooks Class Initialized
+DEBUG - 2024-07-16 15:48:44 --> UTF-8 Support Enabled
+INFO - 2024-07-16 15:48:44 --> Utf8 Class Initialized
+INFO - 2024-07-16 15:48:44 --> URI Class Initialized
+INFO - 2024-07-16 15:48:44 --> Router Class Initialized
+INFO - 2024-07-16 15:48:44 --> Output Class Initialized
+INFO - 2024-07-16 15:48:44 --> Security Class Initialized
+DEBUG - 2024-07-16 15:48:44 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-07-16 15:48:44 --> Input Class Initialized
+INFO - 2024-07-16 15:48:44 --> Language Class Initialized
+INFO - 2024-07-16 15:48:44 --> Loader Class Initialized
+INFO - 2024-07-16 15:48:44 --> Helper loaded: url_helper
+INFO - 2024-07-16 15:48:44 --> Database Driver Class Initialized
+INFO - 2024-07-16 15:48:44 --> Controller Class Initialized
+INFO - 2024-07-16 15:48:44 --> Model "Mconfigkey" initialized
+INFO - 2024-07-16 15:48:44 --> Model "Msto_goods" initialized
+INFO - 2024-07-16 15:48:44 --> Final output sent to browser
+DEBUG - 2024-07-16 15:48:44 --> Total execution time: 0.0239
+INFO - 2024-07-16 15:48:46 --> Config Class Initialized
+INFO - 2024-07-16 15:48:46 --> Hooks Class Initialized
+DEBUG - 2024-07-16 15:48:46 --> UTF-8 Support Enabled
+INFO - 2024-07-16 15:48:46 --> Utf8 Class Initialized
+INFO - 2024-07-16 15:48:46 --> URI Class Initialized
+INFO - 2024-07-16 15:48:46 --> Router Class Initialized
+INFO - 2024-07-16 15:48:46 --> Output Class Initialized
+INFO - 2024-07-16 15:48:46 --> Security Class Initialized
+DEBUG - 2024-07-16 15:48:46 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-07-16 15:48:46 --> Input Class Initialized
+INFO - 2024-07-16 15:48:46 --> Language Class Initialized
+INFO - 2024-07-16 15:48:46 --> Loader Class Initialized
+INFO - 2024-07-16 15:48:46 --> Helper loaded: url_helper
+INFO - 2024-07-16 15:48:46 --> Database Driver Class Initialized
+INFO - 2024-07-16 15:48:46 --> Controller Class Initialized
+INFO - 2024-07-16 15:48:46 --> Model "Mconfigkey" initialized
+INFO - 2024-07-16 15:48:46 --> Model "Msto_goods" initialized
+INFO - 2024-07-16 15:48:46 --> Final output sent to browser
+DEBUG - 2024-07-16 15:48:46 --> Total execution time: 0.0216
+INFO - 2024-07-16 15:48:50 --> Config Class Initialized
+INFO - 2024-07-16 15:48:50 --> Hooks Class Initialized
+DEBUG - 2024-07-16 15:48:50 --> UTF-8 Support Enabled
+INFO - 2024-07-16 15:48:50 --> Utf8 Class Initialized
+INFO - 2024-07-16 15:48:50 --> URI Class Initialized
+INFO - 2024-07-16 15:48:50 --> Router Class Initialized
+INFO - 2024-07-16 15:48:50 --> Output Class Initialized
+INFO - 2024-07-16 15:48:50 --> Security Class Initialized
+DEBUG - 2024-07-16 15:48:50 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-07-16 15:48:50 --> Input Class Initialized
+INFO - 2024-07-16 15:48:50 --> Language Class Initialized
+INFO - 2024-07-16 15:48:50 --> Loader Class Initialized
+INFO - 2024-07-16 15:48:50 --> Helper loaded: url_helper
+INFO - 2024-07-16 15:48:50 --> Database Driver Class Initialized
+INFO - 2024-07-16 15:48:50 --> Controller Class Initialized
+INFO - 2024-07-16 15:48:50 --> Model "Mconfigkey" initialized
+INFO - 2024-07-16 15:48:50 --> Model "Msto_goods" initialized
+INFO - 2024-07-16 15:48:50 --> Final output sent to browser
+DEBUG - 2024-07-16 15:48:50 --> Total execution time: 0.0261
+INFO - 2024-07-16 15:49:00 --> Config Class Initialized
+INFO - 2024-07-16 15:49:00 --> Hooks Class Initialized
+DEBUG - 2024-07-16 15:49:00 --> UTF-8 Support Enabled
+INFO - 2024-07-16 15:49:00 --> Utf8 Class Initialized
+INFO - 2024-07-16 15:49:00 --> URI Class Initialized
+INFO - 2024-07-16 15:49:00 --> Router Class Initialized
+INFO - 2024-07-16 15:49:00 --> Output Class Initialized
+INFO - 2024-07-16 15:49:00 --> Security Class Initialized
+DEBUG - 2024-07-16 15:49:00 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-07-16 15:49:00 --> Input Class Initialized
+INFO - 2024-07-16 15:49:00 --> Language Class Initialized
+INFO - 2024-07-16 15:49:00 --> Loader Class Initialized
+INFO - 2024-07-16 15:49:00 --> Helper loaded: url_helper
+INFO - 2024-07-16 15:49:00 --> Database Driver Class Initialized
+INFO - 2024-07-16 15:49:00 --> Controller Class Initialized
+INFO - 2024-07-16 15:49:00 --> Model "Mconfigkey" initialized
+INFO - 2024-07-16 15:49:00 --> Model "Mext_rpt_pemasukan" initialized
+INFO - 2024-07-16 15:49:00 --> Final output sent to browser
+DEBUG - 2024-07-16 15:49:00 --> Total execution time: 0.0563
+INFO - 2024-07-16 15:49:01 --> Config Class Initialized
+INFO - 2024-07-16 15:49:01 --> Hooks Class Initialized
+DEBUG - 2024-07-16 15:49:01 --> UTF-8 Support Enabled
+INFO - 2024-07-16 15:49:01 --> Utf8 Class Initialized
+INFO - 2024-07-16 15:49:01 --> URI Class Initialized
+INFO - 2024-07-16 15:49:01 --> Router Class Initialized
+INFO - 2024-07-16 15:49:01 --> Output Class Initialized
+INFO - 2024-07-16 15:49:01 --> Security Class Initialized
+DEBUG - 2024-07-16 15:49:01 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-07-16 15:49:01 --> Input Class Initialized
+INFO - 2024-07-16 15:49:01 --> Language Class Initialized
+INFO - 2024-07-16 15:49:01 --> Loader Class Initialized
+INFO - 2024-07-16 15:49:01 --> Helper loaded: url_helper
+INFO - 2024-07-16 15:49:01 --> Database Driver Class Initialized
+INFO - 2024-07-16 15:49:02 --> Controller Class Initialized
+INFO - 2024-07-16 15:49:02 --> Model "Mconfigkey" initialized
+INFO - 2024-07-16 15:49:02 --> Model "Mext_rpt_pengeluaran" initialized
+ERROR - 2024-07-16 15:49:02 --> Query error: [Microsoft][ODBC Driver 18 for SQL Server][SQL Server]Invalid object name 'VW_EXT_RPT_PENGELUARAN_PER_DOKUMEN'. - Invalid query: SELECT COUNT(*) AS "numrows"
+FROM "VW_EXT_RPT_PENGELUARAN_PER_DOKUMEN"
+WHERE 
+        VW_EXT_RPT_PENGELUARAN_PER_DOKUMEN.JENIS_DOKUMEN_PABEAN = '' AND 
+        FORMAT(VW_EXT_RPT_PENGELUARAN_PER_DOKUMEN.TANGGAL_AJU,'yyyy-MM-dd') BETWEEN '' AND ''
+        
+INFO - 2024-07-16 15:49:02 --> Language file loaded: language/english/db_lang.php
+INFO - 2024-07-16 15:49:03 --> Config Class Initialized
+INFO - 2024-07-16 15:49:03 --> Hooks Class Initialized
+DEBUG - 2024-07-16 15:49:03 --> UTF-8 Support Enabled
+INFO - 2024-07-16 15:49:03 --> Utf8 Class Initialized
+INFO - 2024-07-16 15:49:03 --> URI Class Initialized
+INFO - 2024-07-16 15:49:03 --> Router Class Initialized
+INFO - 2024-07-16 15:49:03 --> Output Class Initialized
+INFO - 2024-07-16 15:49:03 --> Security Class Initialized
+DEBUG - 2024-07-16 15:49:03 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-07-16 15:49:03 --> Input Class Initialized
+INFO - 2024-07-16 15:49:03 --> Language Class Initialized
+INFO - 2024-07-16 15:49:03 --> Loader Class Initialized
+INFO - 2024-07-16 15:49:03 --> Helper loaded: url_helper
+INFO - 2024-07-16 15:49:03 --> Database Driver Class Initialized
+INFO - 2024-07-16 15:49:03 --> Controller Class Initialized
+INFO - 2024-07-16 15:49:03 --> Model "Mconfigkey" initialized
+ERROR - 2024-07-16 15:49:03 --> Severity: error --> Exception: Unable to locate the model you have specified: Mext_rpt_mutasi D:\xampp\htdocs\plb\dummyservice\system\core\Loader.php 348
+INFO - 2024-07-16 15:49:04 --> Config Class Initialized
+INFO - 2024-07-16 15:49:04 --> Hooks Class Initialized
+DEBUG - 2024-07-16 15:49:04 --> UTF-8 Support Enabled
+INFO - 2024-07-16 15:49:04 --> Utf8 Class Initialized
+INFO - 2024-07-16 15:49:04 --> URI Class Initialized
+INFO - 2024-07-16 15:49:04 --> Router Class Initialized
+INFO - 2024-07-16 15:49:04 --> Output Class Initialized
+INFO - 2024-07-16 15:49:04 --> Security Class Initialized
+DEBUG - 2024-07-16 15:49:04 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-07-16 15:49:04 --> Input Class Initialized
+INFO - 2024-07-16 15:49:04 --> Language Class Initialized
+INFO - 2024-07-16 15:49:04 --> Loader Class Initialized
+INFO - 2024-07-16 15:49:04 --> Helper loaded: url_helper
+INFO - 2024-07-16 15:49:04 --> Database Driver Class Initialized
+INFO - 2024-07-16 15:49:04 --> Controller Class Initialized
+INFO - 2024-07-16 15:49:04 --> Model "Mconfigkey" initialized
+ERROR - 2024-07-16 15:49:04 --> Severity: error --> Exception: Unable to locate the model you have specified: Mext_rpt_stock_card D:\xampp\htdocs\plb\dummyservice\system\core\Loader.php 348
+INFO - 2024-07-16 15:49:07 --> Config Class Initialized
+INFO - 2024-07-16 15:49:07 --> Hooks Class Initialized
+DEBUG - 2024-07-16 15:49:07 --> UTF-8 Support Enabled
+INFO - 2024-07-16 15:49:07 --> Utf8 Class Initialized
+INFO - 2024-07-16 15:49:07 --> URI Class Initialized
+INFO - 2024-07-16 15:49:07 --> Router Class Initialized
+INFO - 2024-07-16 15:49:07 --> Output Class Initialized
+INFO - 2024-07-16 15:49:07 --> Security Class Initialized
+DEBUG - 2024-07-16 15:49:07 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-07-16 15:49:07 --> Input Class Initialized
+INFO - 2024-07-16 15:49:07 --> Language Class Initialized
+INFO - 2024-07-16 15:49:07 --> Loader Class Initialized
+INFO - 2024-07-16 15:49:07 --> Helper loaded: url_helper
+INFO - 2024-07-16 15:49:07 --> Database Driver Class Initialized
+INFO - 2024-07-16 15:49:07 --> Controller Class Initialized
+INFO - 2024-07-16 15:49:07 --> Model "Mconfigkey" initialized
+ERROR - 2024-07-16 15:49:07 --> Severity: error --> Exception: Unable to locate the model you have specified: Mext_rpt_stock_card D:\xampp\htdocs\plb\dummyservice\system\core\Loader.php 348
+INFO - 2024-07-16 15:49:10 --> Config Class Initialized
+INFO - 2024-07-16 15:49:10 --> Hooks Class Initialized
+DEBUG - 2024-07-16 15:49:10 --> UTF-8 Support Enabled
+INFO - 2024-07-16 15:49:10 --> Utf8 Class Initialized
+INFO - 2024-07-16 15:49:10 --> URI Class Initialized
+INFO - 2024-07-16 15:49:10 --> Router Class Initialized
+INFO - 2024-07-16 15:49:10 --> Output Class Initialized
+INFO - 2024-07-16 15:49:10 --> Security Class Initialized
+DEBUG - 2024-07-16 15:49:10 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-07-16 15:49:10 --> Input Class Initialized
+INFO - 2024-07-16 15:49:10 --> Language Class Initialized
+INFO - 2024-07-16 15:49:10 --> Loader Class Initialized
+INFO - 2024-07-16 15:49:10 --> Helper loaded: url_helper
+INFO - 2024-07-16 15:49:10 --> Database Driver Class Initialized
+INFO - 2024-07-16 15:49:10 --> Controller Class Initialized
+INFO - 2024-07-16 15:49:10 --> Model "Mconfigkey" initialized
+ERROR - 2024-07-16 15:49:10 --> Severity: error --> Exception: Unable to locate the model you have specified: Mext_rpt_stock_card D:\xampp\htdocs\plb\dummyservice\system\core\Loader.php 348
